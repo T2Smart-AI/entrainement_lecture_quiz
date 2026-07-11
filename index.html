@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Entraîneur de lecture en français pour adolescents (12-18 ans) : lis des extraits et teste ta compréhension." />
+  <title>Lecture Fluide — Entraîneur de lecture</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- data.js est chargé AVANT script.js : il fournit window.APP_DATA utilisé en mode file:// -->
+  <script src="data.js"></script>
+</head>
+<body>
+  <!-- ===================== EN-TÊTE GLOBAL ===================== -->
+  <header class="topbar" role="banner">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-logo" aria-hidden="true">📚</span>
+        <span class="brand-title">Lecture Fluide</span>
+      </div>
+
+      <!-- Barre de progression globale + points -->
+      <div class="progress-wrap" aria-label="Progression globale">
+        <div class="progress-meta">
+          <span id="progress-label">0 / 120 lus</span>
+          <span id="points-label" class="points-pill">⭐ 0 pts</span>
+        </div>
+        <div class="progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="120" aria-valuenow="0" id="progress-bar">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <button id="help-btn" class="icon-btn" type="button" aria-haspopup="dialog" aria-controls="help-modal" title="Mode d'emploi">❔ <span class="icon-btn-text">Aide</span></button>
+        <button id="theme-btn" class="icon-btn" type="button" aria-pressed="false" title="Changer le thème clair/sombre">🌙 <span class="icon-btn-text">Thème</span></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" role="main">
+
+    <!-- ===================== VUE GALERIE ===================== -->
+    <section id="view-galerie" class="view active" aria-label="Galerie d'extraits">
+      <div class="galerie-controls">
+        <!-- Filtre par genre -->
+        <div class="control-group" role="group" aria-label="Filtrer par genre">
+          <span class="control-label">Genre :</span>
+          <div id="genre-filters" class="chip-row"></div>
+        </div>
+        <!-- Tri -->
+        <div class="control-group">
+          <label class="control-label" for="sort-select">Trier par :</label>
+          <select id="sort-select" class="select">
+            <option value="titre">Titre</option>
+            <option value="auteur">Auteur</option>
+            <option value="niveau">Niveau</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Panneau des badges de genre -->
+      <div class="badges-panel" aria-label="Badges de genre débloqués">
+        <span class="badges-title">🏅 Badges de genre :</span>
+        <div id="genre-badges" class="badge-row"></div>
+      </div>
+
+      <!-- Grille des cartes -->
+      <div id="cards-grid" class="cards-grid" aria-live="polite"></div>
+      <p id="empty-state" class="empty-state" hidden>Aucun extrait ne correspond à ce filtre.</p>
+    </section>
+
+    <!-- ===================== VUE LECTURE ===================== -->
+    <section id="view-lecture" class="view" aria-label="Lecture de l'extrait" hidden>
+      <button class="back-btn" type="button" data-action="back-galerie">← Retour à la galerie</button>
+
+      <article class="lecture-header">
+        <div class="lecture-meta">
+          <span id="lecture-genre" class="genre-badge">Genre</span>
+          <span id="lecture-id" class="lecture-id">ID</span>
+        </div>
+        <h1 id="lecture-titre" class="lecture-titre">Titre</h1>
+        <p id="lecture-auteur" class="lecture-auteur">Auteur</p>
+      </article>
+
+      <div class="lecture-body">
+        <!-- Couverture (avec repli stylé si pas d'image) -->
+        <figure class="cover-figure">
+          <div id="lecture-cover" class="cover" aria-hidden="true"></div>
+          <figcaption class="cover-caption" id="lecture-cover-caption"></figcaption>
+        </figure>
+
+        <!-- Conteneur de lecture : largeur limitée à ~65-75 caractères par ligne -->
+        <div id="lecture-text" class="reading-text" tabindex="0" aria-label="Texte de l'extrait"></div>
+      </div>
+
+      <!-- Minuteur discret -->
+      <div class="timer-bar" aria-live="off">
+        <span class="timer-icon" aria-hidden="true">⏱️</span>
+        <span id="timer-elapsed">00:00</span>
+        <span class="timer-sep">/</span>
+        <span id="timer-target">cible 00:00</span>
+      </div>
+
+      <div class="lecture-actions">
+        <button id="finished-btn" class="btn btn-ghost" type="button">✅ J'ai terminé la lecture</button>
+        <button id="start-quiz-btn" class="btn btn-primary" type="button" hidden>Lancer le quiz →</button>
+      </div>
+    </section>
+
+    <!-- ===================== VUE QUIZ ===================== -->
+    <section id="view-quiz" class="view" aria-label="Quiz de compréhension" hidden>
+      <button class="back-btn" type="button" data-action="back-lecture">← Retour à la lecture</button>
+      <h2 class="quiz-title">Quiz de compréhension</h2>
+      <p class="quiz-subtitle" id="quiz-subtitle"></p>
+
+      <div id="quiz-questions" class="quiz-questions"></div>
+
+      <!-- Panneau de résultats (caché jusqu'à la fin) -->
+      <div id="quiz-results" class="quiz-results" hidden aria-live="polite">
+        <h3>Résultats</h3>
+        <div class="result-grid">
+          <div class="result-item"><span class="result-label">Score</span><span id="result-score" class="result-value">0 / 4</span></div>
+          <div class="result-item"><span class="result-label">Temps de lecture</span><span id="result-time" class="result-value">00:00</span></div>
+          <div class="result-item"><span class="result-label">Badge</span><span id="result-badge" class="result-value">—</span></div>
+          <div class="result-item"><span class="result-label">Points gagnés</span><span id="result-points" class="result-value">0</span></div>
+        </div>
+        <div class="result-actions">
+          <button id="result-galerie-btn" class="btn btn-ghost" type="button">↩ Retour à la galerie</button>
+          <button id="result-next-btn" class="btn btn-primary" type="button">Extrait suivant →</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===================== MODALE MODE D'EMPLOI ===================== -->
+  <div id="help-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="help-title" hidden>
+    <div class="modal-backdrop" data-action="close-help"></div>
+    <div class="modal-card" role="document">
+      <h2 id="help-title">Mode d'emploi</h2>
+      <ol class="help-list">
+        <li><strong>Choisis un extrait</strong> dans la galerie. Tu peux filtrer par genre et trier par titre, auteur ou niveau.</li>
+        <li><strong>Lis le texte</strong> dans la vue Lecture. Un minuteur discret compte ton temps de lecture et affiche le temps cible.</li>
+        <li>Quand tu as fini, clique sur <em>« J'ai terminé la lecture »</em>, puis sur <strong>« Lancer le quiz »</strong>.</li>
+        <li><strong>Réponds aux 4 questions</strong>. Tu as un retour immédiat (vert = bon, rouge = mauvais, avec la bonne réponse révélée).</li>
+        <li><strong>Gagne des points et des badges</strong> : 100 points par extrait + 50 de bonus de vitesse si tu lis plus vite que le temps cible.</li>
+        <li><strong>Suis ta progression</strong> grâce à la barre en haut et débloque un badge par genre quand tu as lu et réussi les 20 extraits.</li>
+      </ol>
+      <p class="help-note">💡 Ton progrès est enregistré automatiquement dans ce navigateur (même si tu fermes la page).</p>
+      <button class="btn btn-primary" type="button" data-action="close-help">Compris !</button>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Lecture Fluide — entraîneur de lecture en français pour adolescents.</p>
+  </footer>
+
+  <!-- script.js APRÈS data.js -->
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+# ===== Kilo Code local project mapping (not part of the app) =====
+.kilo_codemap.json
+
+# ===== OS / editor junk =====
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ===== Logs =====
+*.log
+
+# ===== Node tooling (if added later) =====
+node_modules/

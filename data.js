@@ -1,0 +1,6122 @@
+window.APP_DATA = [
+  {
+    "id": "SCI_001",
+    "titre": "Voyage au centre de la Terre",
+    "auteur": "Jules Verne",
+    "genre": "Science-Fiction",
+    "niveau": "Débutant",
+    "extrait": "Le professeur Otto Lidenbrock était un homme d'une énergie extraordinaire, toujours pressé et passionné par l'étude des pierres. Ce géologue vivait dans la vieille ville de Hambourg avec son neveu Axel, un jeune homme plutôt calme et réfléchi. Un matin de l'année 1863, le professeur revint chez lui en agitant un vieux manuscrit islandais qu'il venait d'acheter chez un simple marchand de livres anciens. Au milieu du parchemin jauni, il découvrit un message codé écrit par un alchimiste du Moyen Âge nommé Arne Saknussemm. Ce message affirmait, avec une certitude étrange, qu'un cratère du volcan Snaefells, situé en Islande, pouvait conduire jusqu'au centre même de la Terre. Le professeur fut aussitôt possédé par cette idée, et il passa la nuit entière à déchiffrer le texte, oubliant le sommeil et la nourriture. Il décida de partir pour l'Islande sans perdre une seule heure, en emmenant Axel et un guide silencieux mais courageux du nom de Hans Bjelke. Ils voyagèrent d'abord en bateau, puis à cheval à travers un paysage de lave noire et de vapeur qui montait lentement de la terre brûlante. Lorsqu'ils atteignirent enfin la montagne, l'entrée du cratère était cachée derrière une chute d'eau glacée et bruyante. Ils durent grimper avec précaution pour la rejoindre, tandis que le vent froid hurlait autour d'eux. À l'intérieur, ils trouvèrent un monde souterrain étonnant, peuplé de forêts étranges, de champignons géants et de rivières qui coulaient dans des cavernes éclairées par un gaz naturel phosphorescent. L'air y était chaud et lourd, et tous les bruits du monde de surface avaient disparu. Axel tremblait dans l'obscurité, mais son oncle avançait avec une détermination farouche, convaincu que la gloire les attendait au plus profond. Ils descendirent de plus en plus profondément, en suivant les marques laissées par Saknussemm des siècles plus tôt. La température montait sans cesse, et ils commencèrent à se demander s'ils atteindraient jamais le centre ou si la Terre allait les engloutir tout entiers. Hans, le guide, restait calme, disant peu de choses mais agissant avec une précision parfaite. Au bout d'un long effort, les trois voyageurs arrivèrent sur le bord d'une mer souterraine immense, dont les eaux noires et immobiles brillaient faiblement sous des roches lumineuses. Sur le sable reposaient des ossements blanchis d'animaux plus vieux que le monde du dessus. Au loin, une forme vivante de taille monstrueuse glissa à la surface de l'eau. Axel frémit en pensant que de telles créatures pouvaient encore vivre au cœur de la Terre, tandis que le professeur les contemplait avec la joie d'un savant qui voit enfin les secrets de la création se révéler sous ses yeux émerveillés.",
+    "quiz": [
+      {
+        "q": "Quelle est la profession du professeur Lidenbrock ?",
+        "o": [
+          "Médecin",
+          "Géologue",
+          "Marin",
+          "Professeur de langues"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du volcan que les voyageurs doivent gravir ?",
+        "o": [
+          "L'Everest",
+          "Le Snaefells",
+          "Le Vésuve",
+          "L'Etna"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui accompagne le professeur dans son voyage ?",
+        "o": [
+          "Axel et Hans",
+          "Deux soldats",
+          "Un roi",
+          "Une princesse"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Pourquoi se rendent-ils en Islande ?",
+        "o": [
+          "Pour pêcher",
+          "Pour trouver l'entrée du centre de la Terre",
+          "Pour construire un bateau",
+          "Pour visiter un musée"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 150
+  },
+  {
+    "id": "SCI_002",
+    "titre": "La Nuit des temps",
+    "auteur": "René Barjavel",
+    "genre": "Science-Fiction",
+    "niveau": "Intermédiaire",
+    "extrait": "Dans une base scientifique perdue au milieu de l'Antarctique, un groupe de chercheurs fit une découverte qui allait bouleverser l'histoire de l'humanité tout entière. Sous des kilomètres de glace épaisse, ils mirent au jour une capsule parfaitement conservée, une sorte de coffre de cristal renfermant deux corps endormis depuis des millénaires. L'un était celui d'une femme d'une beauté saisissante, l'autre celui d'un homme à ses côtés, la main posée sur la sienne avec une tendresse éternelle. Les scientifiques, dirigés par le docteur Simon, comprirent vite qu'ils n'avaient pas affaire à de simples momies. La femme portait au doigt un anneau étrange qui semblait fait d'une matière inconnue, et son visage exprimait une paix si profonde qu'on aurait dit vivant. En étudiant la capsule, les chercheurs apprirent qu'elle venait d'une civilisation disparue, bien plus avancée que la nôtre, qui avait choisi de s'effacer plutôt que de se détruire dans la haine. Cette civilisation avait découvert l'amour parfait entre deux êtres, un amour si puissant qu'il pouvait défier le temps et la mort elle-même. La femme s'appelait Éléa, et l'homme qu'elle aimait était resté auprès d'elle jusqu'au bout du monde connu. Peu à peu, grâce à la technologie de la capsule, Éléa se réveilla. Elle parla aux savants d'un monde où la science servait la tendresse, où les guerres avaient été oubliées et où l'intelligence s'était mise au service de la beauté. Mais elle raconta aussi la fin de ce monde, emporté par la folie de quelques-uns qui avaient préféré la destruction à la différence. Simon, fasciné, comprit que cette histoire n'était pas seulement un souvenir lointain : elle était un avertissement pour son propre temps. Alors que la glace autour d'eux craquait sous le vent du pôle, il décida de protéger Éléa et sa mémoire. Il savait que l'avenir de l'humanité dépendait peut-être de la capacité à écouter ce que cette femme venue du passé voulait transmettre. La nuit des temps n'était plus un trou noir, mais une voix. Dans le silence blanc du continent, les hommes comprirent que le plus grand trésor n'était pas la force, mais la capacité d'aimer au-delà de l'oubli et des siècles.",
+    "quiz": [
+      {
+        "q": "Où les chercheurs font-ils leur découverte ?",
+        "o": [
+          "Dans un désert",
+          "Sous la glace en Antarctique",
+          "Au fond de l'océan",
+          "Dans une forêt"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment s'appelle la femme réveillée dans la capsule ?",
+        "o": [
+          "Éléa",
+          "Marie",
+          "Hélène",
+          "Claire"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Quelle valeur la civilisation disparue avait-elle placée au-dessus de tout ?",
+        "o": [
+          "La richesse",
+          "L'amour parfait",
+          "La guerre",
+          "La solitude"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que décide le docteur Simon à la fin de l'extrait ?",
+        "o": [
+          "Partir sans rien dire",
+          "Protéger Éléa et sa mémoire",
+          "Détruire la capsule",
+          "Oublier l'affaire"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 123
+  },
+  {
+    "id": "SCI_003",
+    "titre": "La Planète des singes : le message dans la bouteille",
+    "auteur": "Pierre Boulle",
+    "genre": "Science-Fiction",
+    "niveau": "Intermédiaire",
+    "extrait": "Le journal de bord commençait par un récit étrange, retrouvé dans une bouteille flottant doucement dans l'espace, à la dérive entre les étoiles. Un couple de voyageurs, Jinn et Phyllis, recueillit ce message venu de loin et le transmit aussitôt à la Terre. L'auteur du récit s'appelait Ulysse Mérou, un journaliste qui avait accepté de participer à un voyage vers une étoile lointaine à bord d'un vaisseau construit par un savant génial. Après des années passées dans le sommeil artificiel, le vaisseau atterrit sur une planète verdoyante, semblable à la Terre par bien des aspects. Ulysse et ses compagnons sortirent explorer, enchantés par la douceur du climat et la beauté sauvage des forêts. Mais ils firent bientôt une rencontre bouleversante : des singes vêtus de habits parlaient, chassaient et construisaient des villes, tandis que des êtres nus, sans parole, fuyaient dans les bois. Ces derniers ressemblaient trait pour trait aux humains de la Terre, avec leurs regards effrayés et leurs corps frêles. Ulysse fut capturé par les singes et enfermé dans une cage, traité comme une bête curieuse et incompréhensible. Il comprit avec effroi que, sur cette planète, les rôles étaient inversés : les singes occupaient la place des maîtres, et les hommes celle des animaux sans défense. Une jeune femelle singe, nommée Nova, prit soin de lui avec une douceur inattendue, lui apportant de la nourriture et le protégeant des autres. Grâce à elle et à son intelligence, Ulysse parvint peu à peu à prouver qu'il pouvait penser et parler comme un égal. Les savants singes, d'abord incrédules, durent admettre qu'un homme pouvait posséder une âme raisonnable. Cette découverte ébranla leurs certitudes et rouvrit d'anciens débats sur l'origine des espèces. Ulysse comprit alors que cette planète n'était peut-être pas si éloignée de son propre monde, et que le destin des hommes pouvait basculer du jour au lendemain. Le message dans la bouteille n'était pas une fiction : c'était un miroir tendu à l'humanité entière, une invitation à se regarder avec humilité et à douter de ses propres certitudes. Dans le camp des singes, Ulysse observa bientôt des rues ordonnées, des écoles où les jeunes singes apprenaient à lire, et des tribunaux où régnait une loi qu'il jugea parfois plus juste que la sienne. Il comprit que cette civilisation à fourrure n'était pas un simple accident, mais le fruit lent d'une évolution que les hommes avaient, quelque part, trahie. Chaque soir, il notait ses découvertes sur des feuilles de palmier, espérant un jour pouvoir les montrer à ceux de son monde et leur faire comprendre que l'intelligence ne porte pas toujours le visage qu'on attend. ",
+    "quiz": [
+      {
+        "q": "Qui est l'auteur du récit retrouvé dans la bouteille ?",
+        "o": [
+          "Jinn",
+          "Ulysse Mérou",
+          "Un savant singe",
+          "Phyllis"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Sur la planète, qui occupe la place des maîtres ?",
+        "o": [
+          "Les hommes nus",
+          "Les singes",
+          "Les oiseaux",
+          "Les robots"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment s'appelle la jeune femelle singe qui aide Ulysse ?",
+        "o": [
+          "Nova",
+          "Luna",
+          "Stella",
+          "Vera"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que prouve Ulysse aux savants singes ?",
+        "o": [
+          "Qu'il peut voler",
+          "Qu'il peut penser et parler",
+          "Qu'il peut nager",
+          "Qu'il peut disparaître"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 150
+  },
+  {
+    "id": "SCI_004",
+    "titre": "Le Papillon des étoiles",
+    "auteur": "Bernard Werber",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "L'immensité du cosmos ne se mesure pas en lieues, mais en silences, en ces pauses où l'esprit humain se sent tout petit. Sur le vaisseau stellaire, une poignée d'êtres humains dormait dans des bulles de verre, confiés au sommeil d'une machine qui veillait sur leur lente métamorphose. Parmi eux s'éveilla, après des siècles, une conscience que l'on nommait le Papillon des étoiles, parce qu'elle semblait glisser de soleil en soleil avec la légèreté d'une aile. Ce voyage n'était pas une simple traversée : il s'agissait d'une quête pour comprendre si la vie pouvait se prolonger au-delà de la mort du corps. Les passagers, peu à peu ranimés, découvrirent que leur vaisseau était devenu une sorte de jardin flottant, peuplé de plantes lumineuses et d'animaux nés de la mémoire des hommes. Une voix, venue de nulle part, leur parlait par images, leur rappelant que l'univers entier était peut-être un seul grand être vivant qui respirait par les étoiles. Le Papillon, guidé par cette voix, apprit à lire dans les étoiles comme dans un livre ouvert. Il comprit que chaque civilisation laissait une empreinte, une trace de lumière que seuls les voyageurs du temps pouvaient percevoir. Au fil des mondes visités, il rencontra d'autres consciences semblables à la sienne, des entités qui avaient renoncé à la forme pour devenir pure curiosité. Ensemble, ils formèrent un réseau invisible, une pensée partagée à travers les galaxies, plus vaste que toute nation terrestre. Le Papillon comprit alors que sa propre métamorphose n'était pas une fin, mais un commencement : l'humanité n'était pas condamnée à disparaître, elle était invitée à s'élargir. Lorsqu'il regarda en arrière, vers le point bleu où la Terre avait jadis brillé, il ne ressentit ni tristesse ni regret, seulement la certitude d'un lien qui ne se romprait jamais. Le cosmos, enfin, n'était plus un vide à craindre, mais une maison dont on découvrait les pièces une à une, avec l'émerveillement d'un enfant qui ouvre pour la première fois les portes d'un jardin infini. Le vaisseau filait entre les étoiles comme une pensée traverse l'esprit, et l'équipage, composé d'êtres aux formes diverses, partageait le même rêve de dépasser la mort par la mémoire. Au fil des années-lumière, les passagers apprirent à se connaître au-delà des apparences, car le Papillon des étoiles exigeait d'eux une confiance totale. Ils savaient que quelque part, au bout du voyage, une réponse les attendait, une vérité capable de changer le sens même de ce que signifie vivre et aimer parmi les mondes. ",
+    "quiz": [
+      {
+        "q": "Comment nomme-t-on la conscience éveillée après des siècles ?",
+        "o": [
+          "Le Phénix",
+          "Le Papillon des étoiles",
+          "L'Étoile noire",
+          "Le Jardinier"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que cherchent à comprendre les voyageurs ?",
+        "o": [
+          "Comment voyager plus vite",
+          "Si la vie peut dépasser la mort du corps",
+          "Comment construire des armes",
+          "Où se trouve l'or"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvrent les passagers à propos de l'univers ?",
+        "o": [
+          "Qu'il est vide et mort",
+          "Qu'il est peut-être un grand être vivant",
+          "Qu'il est fait de fer",
+          "Qu'il est infini et froid"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle certitude le Papillon ressent-il en regardant la Terre ?",
+        "o": [
+          "Un lien qui ne se rompra jamais",
+          "Une grande peur",
+          "Un oubli total",
+          "Une colère"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 142
+  },
+  {
+    "id": "SCI_005",
+    "titre": "La Machine à explorer le temps",
+    "auteur": "H. G. Wells",
+    "genre": "Science-Fiction",
+    "niveau": "Débutant",
+    "extrait": "Le Voyageur du Temps était un homme qui croyait que le temps était une quatrième dimension, tout comme la longueur, la largeur et la hauteur que nous connaissons. Il avait construit une petite machine capable de se déplacer à travers le temps aussi facilement qu'une voiture se déplace dans l'espace. Un soir, il invita ses amis chez lui pour leur montrer son invention avec fierté. La machine était un délicat assemblage d'ivoire et de quartz, avec une selle et une barre que le voyageur pouvait saisir fermement. Lorsqu'il appuya sur le premier levier, le laboratoire sembla tournoyer autour de lui comme une tempête. Le feu dans la cheminée devint froid, les bougies vacillèrent et s'éteignirent, et l'horloge sur le manteau de la cheminée tourna follement vers l'arrière. Ses amis regardèrent avec stupeur le Voyageur et sa machine s'effacer peu à peu, ne laissant qu'un faible parfum d'ozone et un étonnement silencieux. Il avait voyagé vers l'avenir, quittant le dix-neuvième siècle sans un adieu. La pièce s'assombrit, et les bruits de la rue se turent comme sous une vague. Quand ses amis osèrent enfin regarder, la machine avait disparu, et le Voyageur avec elle. Il était parti dans le futur, ne laissant derrière lui qu'un mystère qui allait les hanter pendant des années entières. Ils restèrent dans la pièce silencieuse, à écouter le silence, se demandant s'ils reverraient jamais leur ami. Après un long moment de calme, le laboratoire fut soudainement secoué par un grand fracas. La petite machine était revenue aussi brusquement qu'elle était partie, et le Voyageur était assis dessus, pâle et défait, ses vêtements couverts de boue et marqués par d'étranges herbes. D'une voix encore tremblante, il dit avoir voyagé jusqu'à l'an huit cent deux mille sept cent, où il avait trouvé un monde devenu calme et étrange, peuplé d'êtres doux qui craignaient seulement l'obscurité et les ombres de la nuit. Le savant invita ses hôtes à toucher la petite machine, et l'un d'eux la fit tourner du doigt, émerveillé de la voir s'enfoncer dans le néant avec un léger murmure. Le Temps, expliqua l'inventeur, n'est qu'une route comme une autre, que l'on peut parcourir en esprit si l'on ose construire la bonne machine. Il ajouta que le courage de voyager ainsi tenait moins à la science qu'à la volonté d'accepter l'inconnu, car qui part vers le futur ne revient jamais tout à fait le même que celui qui est parti. ",
+    "quiz": [
+      {
+        "q": "Que croyait le Voyageur du Temps à propos du temps ?",
+        "o": [
+          "C'est une ligne droite",
+          "C'est une quatrième dimension",
+          "C'est une illusion",
+          "C'est un cercle"
+        ],
+        "r": 1
+      },
+      {
+        "q": "En quoi la machine était-elle faite ?",
+        "o": [
+          "Acier et fer",
+          "Ivoire et quartz",
+          "Bois et corde",
+          "Or et argent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que se passe-t-il quand le Voyageur actionne le levier ?",
+        "o": [
+          "Rien ne change",
+          "Le laboratoire tournoie et les bougies s'éteignent",
+          "Il pleut",
+          "La maison s'effondre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où le Voyageur dit-il être allé ?",
+        "o": [
+          "Dans le passé",
+          "Dans l'an huit cent deux mille sept cent",
+          "Sur la Lune",
+          "Au centre de la Terre"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 139
+  },
+  {
+    "id": "SCI_006",
+    "titre": "Les Cavernes d'acier",
+    "auteur": "Isaac Asimov",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "Dans la cité de l'an 3000, les hommes vivaient enfermés sous un dôme gigantesque, protégés des intempéries et de l'espace ouvert qu'ils avaient fini par craindre comme un ennemi. La ville s'étendait sur des kilomètres de niveaux superposés, éclairés d'une lumière artificielle qui ne connaissait ni aube ni crépuscule. Le détective Elijah Baley, habitué à ces murs, fut chargé d'une enquête délicate : un savant avait été retrouvé mort dans une caverne d'acier, l'un de ces secteurs réservés aux robots. On suspectait un androïde nommé R. Daneel Olivaw, une machine si parfaite qu'elle imitait le sourire et la voix humaine avec une troublante exactitude. Baley, méfiant, dut s'associer à Daneel pour découvrir la vérité, car la loi interdisait aux robots de tuer, mais autorisait bien des complots ourdis par des hommes. En parcourant les galeries souterraines, le détective comprit que la haine des hommes pour les machines ne venait pas de la peur, mais du regret de ne plus savoir marcher sous un ciel véritable. Les citoyens, nés sous la ville, n'avaient jamais vu une étoile, et cette absence avait façonné toute leur pensée et leurs rêves les plus secrets. Daneel, avec sa logique froide, aidait Baley à relier des indices que la passion humaine aurait laissés échapper dans la précipitation. Ensemble, ils découvrirent que le meurtre cachait une lutte plus vaste entre ceux qui voulaient enfermer l'humanité pour toujours et ceux qui rêvaient de la renvoyer vers les planètes. Le détective comprit alors que les cavernes d'acier n'étaient pas seulement des prisons pour robots, mais le symbole d'une humanité qui s'était elle-même emprisonnée dans le confort. Pour sauver la ville, il faudrait apprendre à faire confiance à la machine sans renier ce qui faisait l'humanité. Au terme de l'enquête, Baley sut que le futur des hommes se jouerait dans l'équilibre fragile entre la chair et le métal, entre la peur et la confiance, et que la vraie force d'une société résidait dans sa capacité à accueillir l'inconnu sans perdre son âme. L'enquête mena le détective et son compagnon robot à interroger des citoyens qui n'avaient jamais vu le ciel, et qui craignaient l'air libre comme on craint la maladie. Elijah comprit que le crime n'était qu'un symptôme d'une société enfermée dans ses propres murs de verre et d'habitude. Daneel, d'une voix égale, rappela que les lois de la robotique interdisaient de nuire à l'homme, mais que protéger l'humanité exigeait parfois de lui montrer la cage où elle s'était elle-même enfermée, pour qu'elle songe enfin à s'en libérer. ",
+    "quiz": [
+      {
+        "q": "Comment les hommes vivent-ils dans la cité de l'an 3000 ?",
+        "o": [
+          "Sous un dôme géant",
+          "Dans des tentes",
+          "Sur l'eau",
+          "Dans des arbres"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Quel est le nom de l'androïde associé au détective ?",
+        "o": [
+          "R. Daneel Olivaw",
+          "Elijah",
+          "Le Savant",
+          "Baley"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que craignent et détestent les citoyens sans le dire ?",
+        "o": [
+          "La lumière",
+          "L'espace ouvert et le ciel véritable",
+          "La nourriture",
+          "Les livres"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que symbolisent les cavernes d'acier selon Baley ?",
+        "o": [
+          "Une richesse",
+          "Une prison où l'humanité s'est enfermée",
+          "Un parc",
+          "Une école"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 144
+  },
+  {
+    "id": "SCI_007",
+    "titre": "Fahrenheit 451 : le pompier Montag",
+    "auteur": "Ray Bradbury",
+    "genre": "Science-Fiction",
+    "niveau": "Intermédiaire",
+    "extrait": "Guy Montag était pompier, mais son métier n'avait rien à voir avec les incendies ordinaires qui sauvent des vies. Dans la ville où il vivait, les livres étaient interdits, et c'était lui qui avait pour tâche de les brûler sans pitié. Vêtu d'un uniforme noir marqué du chiffre 451, il courait vers les maisons où se cachaient des pages, et il jetait le feu sur les romans, les poèmes et les pensées des hommes. La société préférait l'image au mot, le bruit au silence, et chacun s'efforçait d'oublier ce que lire pouvait réveiller en soi. Un matin de septembre, Montag rentra chez lui en sentant encore l'odeur de papier brûlé sur ses habits lourds. Sur le pas de sa porte, il rencontra une jeune fille nommée Clarisse, qui aimait marcher sous la pluie et poser des questions que personne ne posait plus. Elle lui demanda s'il était heureux, et cette question simple le troubla plus qu'un incendie géant. Peu à peu, Montag commença à cacher des livres au lieu de les détruire, et un doute grandit en lui comme une braise dans la nuit. Il se souvint que son métier consistait à effacer la mémoire des autres, et il ne supporta plus le poids de cette flamme destructrice. La ville, pendant ce temps, s'enfonçait dans un confort sans relief, où les écrans géants remplaçaient la conversation et où la vitesse tenait lieu de bonheur. Montag comprit que brûler les livres, c'était brûler une part de l'humanité elle-même, son passé et son esprit. Lorsqu'il ouvrit enfin un livre volé, la lumière des mots lui parut plus vive que celle de ses foyers. Il sut alors qu'il devrait choisir entre obéir au feu ou devenir le gardien d'une mémoire que le monde voulait oublier. Le vent du soir portait déjà des cendres, mais aussi, quelque part, la promesse d'une étincelle qui ne s'éteindrait pas, et qui rallumerait un jour la curiosité des hommes. Montag sentit bientôt le poids des livres cachés sous sa chemise comme une fièvre nouvelle, et les mots qu'il lisait en secret lui révélaient un monde que les écrans avaient soigneusement effacé. Il songea à Clarisse, dont la simple présence avait réveillé en lui le goût de regarder les choses telles qu'elles sont. La nuit, il récitait des vers à voix basse, et cette douceur interdite lui fit comprendre que brûler les livres, c'était brûler la part la plus vive de l'esprit humain, celle qui doute, qui rêve et qui refuse de se laisser dompter. ",
+    "quiz": [
+      {
+        "q": "Quel est le métier de Guy Montag dans sa société ?",
+        "o": [
+          "Professeur",
+          "Pompier chargé de brûler les livres",
+          "Médecin",
+          "Conducteur de train"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que représente le chiffre 451 sur son uniforme ?",
+        "o": [
+          "Son âge",
+          "La température à laquelle le papier brûle",
+          "Un numéro de maison",
+          "Un code secret"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est la jeune fille qui questionne Montag ?",
+        "o": [
+          "Clarisse",
+          "Mildred",
+          "Julia",
+          "Sarah"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que comprend Montag à la fin de l'extrait ?",
+        "o": [
+          "Que les livres sont dangereux",
+          "Que brûler les livres, c'est brûler une part de l'humanité",
+          "Qu'il doit courir plus vite",
+          "Que la pluie est froide"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 143
+  },
+  {
+    "id": "SCI_008",
+    "titre": "Le Maître du haut château",
+    "auteur": "Philip K. Dick",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "Dans l'Amérique d'un monde imaginaire, la guerre avait tourné autrement, et le pays était coupé en deux zones occupées, l'une par le Japon, l'autre par l'Allemagne. Les habitants vivaient sous des lois étrangères, en évitant de prononcer certains mots, et le passé semblait avoir été réécrit par les vainqueurs selon leur gré. Un objet étrange circulait pourant de main en main : un livre nommé La Sauterelle, qui racontait une histoire où les Alliés avaient gagné la guerre. Ce livre, interdit, fascinait ceux qui le lisaient, car il décrivait un futur où la liberté existait encore et où les hommes choisissaient leur destin. Un marchand d'antiquités du nom de Robert Childan remarqua que ses clients japonais collectionnaient les objets américains avec une curiosité mêlée de respect. De son côté, un homme nommé Tagomi, fonctionnaire japonais, cherchait dans la méditation une paix que le monde autour de lui ne lui offrait pas. Au fil des chapitres entrelacés, chacun découvrait que la réalité pouvait basculer, comme si plusieurs mondes possibles se superposaient sans se voir. Un bijou ancien, posé sur un bureau, semblait parfois révéler un éclat d'un autre univers, où les rues étaient libres et les visages souriants. Les personnages sentaient, sans toujours le comprendre, qu'une vérité plus vaste se cachait derrière l'ordre des occupants et leurs discours rassurants. Le roman dans le roman devenait alors une fenêtre : il suggérait que le présent n'était peut-être qu'un rêve parmi d'autres, et que la volonté humaine pouvait encore renverser le destin. L'auteur de La Sauterelle, un homme nommé Hawthorne Abendsen, vivait reclus dans une maison qu'on appelait le Haut Château, protégé par ses propres doutes et ses craintes. À travers lui, le lecteur comprenait que la fiction pouvait être plus vraie que l'histoire, et que l'espoir survivait même sous la plus lourde des dominations, comme une racine tenace sous la neige. Le roman que lisait Robert présentait un monde où l'Amérique avait gagné la guerre, et cette fiction apaisante cachait, page après page, une énigme sur le vrai pouvoir et sur ceux qui le détiennent dans l'ombre. Plus il tournait les feuillets, plus le lecteur sentait que l'auteur savait des choses que nul n'osait dire tout haut. Le Haut Château, ce lieu mythique perché dans les montagnes, devenait le symbole d'une vérité que l'on devine sans jamais la toucher, et que chacun reconstruit à sa manière dans le silence de sa propre mémoire. ",
+    "quiz": [
+      {
+        "q": "Comment l'Amérique est-elle divisée dans ce monde ?",
+        "o": [
+          "En États libres",
+          "En zones occupées par le Japon et l'Allemagne",
+          "En royaumes",
+          "En îles"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le titre du livre interdit qui circule ?",
+        "o": [
+          "La Sauterelle",
+          "La Guerre",
+          "Le Château",
+          "L'Amérique"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que collectionnent les clients japonais de Childan ?",
+        "o": [
+          "Des armes",
+          "Des objets américains",
+          "Des timbres",
+          "Des plantes"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où vit l'auteur de La Sauterelle ?",
+        "o": [
+          "Dans une gare",
+          "Dans le Haut Château",
+          "Sous la mer",
+          "Dans une usine"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 138
+  },
+  {
+    "id": "SCI_009",
+    "titre": "Frankenstein ou le Prométhée moderne",
+    "auteur": "Mary Shelley",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "Ce fut par une nuit sombre de novembre que je vis s'accomplir mes longs travaux, après tant de nuits passées à veiller. Avec une angoisse proche de l'agonie, je rassemblai les instruments de la vie autour de moi, afin de souffler une étincelle d'être dans la chose inanimée qui gisait à mes pieds. La bougie était presque consumée quand, à la lueur de cette lumière à demi morte, j'aperçus l'œil jaune et terne de la créature qui s'ouvrait. Elle respira avec peine, et un mouvement convulsif agita ses membres avec une raideur effrayante. Comment décrire l'émotion qui m'envahit, ou peindre le misérable être que j'avais mis tant de soin à former ? J'avais choisi ses traits comme beaux, mais sa peau jaune couvrait à peine le jeu des muscles et des artères. Ses cheveux étaient d'un noir lustré et ses dents d'une blancheur de perle, mais ces beautés formaient un contraste plus affreux avec ses yeux limpides, sa peau ridée et ses lèvres noires et serrées. J'avais travaillé près de deux ans, privé de repos et de santé, pour infuser la vie dans un corps sans vie. Mais, l'œuvre achevée, la beauté du rêve s'évanouit, et l'horreur et le dégoût remplirent mon cœur. Ne pouvant supporter l'aspect de l'être que j'avais créé, je m'enfuis hors de la pièce et errai longtemps dans ma chambre, incapable de trouver le sommeil. Au matin, je me jetai sur mon lit, mais le sommeil fuit mes yeux, et chaque craquement de la maison m'annonça l'approche de la chose haïe. Je sortis et marchai dans les rues, où la lumière du jour rendit un peu de paix à mon esprit troublé. Je me dis que la créature avait péri, ou qu'elle s'était enfuie au loin, et je résolus de ne plus y penser. Pourtant un effroi secret demeurait, car je savais que ce que j'avais animé ne retournerait pas si vite à la poussière. Ces yeux mornes me poursuivaient partout, témoins d'un sort que j'avais moi-même forgé, et je compris que nul savant ne domine la vie sans en payer le prix. Pendant ce temps, la créature qu'il avait mise au monde observait son créateur depuis les ombres, apprenant le langage des hommes par leurs disputes et leurs pleurs. Elle comprit vite que celui qui lui avait donné la vie la rejetait, et cette blessure la poussa à chercher, elle aussi, un sens à son existence solitaire. Victor, hanté par ses nuits sans sommeil, mesurait enfin le prix de son orgueil, mais la machine était lancée, et nulle prière ne pouvait plus arrêter ce qu'il avait si fiévreusement commencé dans la fièvre de sa jeunesse. ",
+    "quiz": [
+      {
+        "q": "En quel mois le narrateur achève-t-il sa création ?",
+        "o": [
+          "Octobre",
+          "Novembre",
+          "Décembre",
+          "Janvier"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle était la couleur des cheveux de la créature ?",
+        "o": [
+          "Blonds",
+          "Roux",
+          "Noirs et lustrés",
+          "Bruns"
+        ],
+        "r": 2
+      },
+      {
+        "q": "Combien de temps le narrateur a-t-il travaillé à sa création ?",
+        "o": [
+          "Six mois",
+          "Un an",
+          "Près de deux ans",
+          "Trois ans"
+        ],
+        "r": 2
+      },
+      {
+        "q": "Que fait le narrateur en voyant la créature ouvrir les yeux ?",
+        "o": [
+          "Il célèbre",
+          "Il s'enfuit hors de la pièce",
+          "Il s'évanouit",
+          "Il lui parle"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 151
+  },
+  {
+    "id": "SCI_010",
+    "titre": "Une princesse de Mars",
+    "auteur": "Edgar Rice Burroughs",
+    "genre": "Science-Fiction",
+    "niveau": "Débutant",
+    "extrait": "Je m'appelle John Carter, et je suis né en Virginie, dans un pays de collines et de rivières. J'ai été soldat, puis chercheur d'or dans l'Ouest sauvage, là où la loi est rare et le courage nécessaire. Un jour, alors que j'étais seul dans les montagnes de l'Arizona, je fus attaqué par une bande d'Apaches qui voulaient ma peau. Je me réfugiai dans une grotte, et au moment d'y entrer, je ressentis une sensation étrange, comme si l'on m'attirait vers un autre monde par une force invisible. Quand j'ouvris les yeux, je me tenais sur une planète rouge, sous un ciel d'un bleu profond où brillaient deux petites lunes jumelles. J'étais sur Mars, un monde de déserts dorés et de cités anciennes, peuplé de créatures étonnantes et de guerriers redoutables. L'air y était léger, et la gravité plus faible que sur Terre, si bien que je pouvais faire des bonds immenses et soulever des poids énormes d'une seule main. Je découvris vite que les Martiens étaient un peuple belliqueux, partagé en nations aux coutumes différentes et aux langues que je ne comprenais pas. Je fus capturé par les Hommes Verts, une tribu féroce qui montait d'énormes bêtes à six pattes appelées thoats. Leur chef, un guerrier impitoyable nommé Tal Hajus, régnait d'une main de fer sur ses semblables. Parmi eux vivait une princesse d'une grande beauté, nommée Dejah Thoris, aussi brave et intelligente que n'importe quel homme de mon monde. Je me battis pour son honneur, et ce faisant, je gagnai le respect des Hommes Verts et l'amour de la princesse. Ensemble, nous affrontâmes bien des périls, des grands singes blancs des fonds marins aux armées des Hommes Rouges qui voulaient nous détruire. John Carter apprit à connaître ce monde étrange, où le courage valait plus que l'or, et où chaque lever de lune rappelait que la vie, même sur une planète lointaine, était une aventure digne d'être vécue jusqu'au bout. Les plaines de Mars, rouges comme de la rouille sous le double soleil, s'étendaient à perte de vue, peuplées de plantes étranges et de bêtes aux formes jamais vues sur Terre. John Carter, au corps d'acier et au cœur vaillant, apprit vite à manier l'épée et à chevaucher les montures à six pattes des guerriers. Il comprit que ce monde, bien qu'étrange, obéissait à un code d'honneur que bien des hommes de la Terre auraient pu envier. Chaque duel, chaque rencontre, aiguisait en lui le désir de protéger les faibles et de mériter enfin le nom de prince parmi les étoiles. ",
+    "quiz": [
+      {
+        "q": "Quel est le nom du narrateur ?",
+        "o": [
+          "John Smith",
+          "John Carter",
+          "James Carter",
+          "John Jones"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où John Carter est-il né ?",
+        "o": [
+          "En Arizona",
+          "En Virginie",
+          "En Californie",
+          "Au Texas"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Sur quelle planète John Carter arrive-t-il ?",
+        "o": [
+          "Vénus",
+          "Mars",
+          "Jupiter",
+          "Saturne"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment appelle-t-on les bêtes à six pattes ?",
+        "o": [
+          "Les thoats",
+          "Les zodangas",
+          "Les barsoom",
+          "Les tharks"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 145
+  },
+  {
+    "id": "SCI_011",
+    "titre": "Niourk",
+    "auteur": "Stefan Wul",
+    "genre": "Science-Fiction",
+    "niveau": "Intermédiaire",
+    "extrait": "L'enfant noir aux yeux clairs s'appelait Bourgne, et il vivait sur une Terre que les hommes avaient oubliée depuis longtemps. Le monde était devenu une étendue de boue et d'eau, où les rares survivants vivaient dans la peur des bêtes et des autres, sans loi ni abri sûr. Bourgne était différent : il portait en lui une lumière que personne ne comprenait, et ses yeux clairs voyaient ce que les autres ne pouvaient voir dans l'ombre. Un jour, guidé par une voix intérieure qu'il ne savait nommer, il décida de quitter sa tribu pour rejoindre une cité lointaine nommée Niourk, dont les anciens parlaient comme d'un lieu maudit et merveilleux. Le voyage fut long et semé de dangers, à travers des forêts mortes et des marécages fumants où rien ne poussait plus. Bourgne rencontra sur sa route un oiseau blessé qu'il soigna avec douceur, et cet oiseau devint son compagnon fidèle et son guide. Il découvrit peu à peu qu'il possédait un pouvoir étrange : il pouvait faire fleurir la terre stérile et apaiser les bêtes les plus féroces d'un simple regard posé sur elles. En approchant de Niourk, il vit surgir des tours immenses couvertes de plantes, des machines silencieuses et des jardins suspendus que la nature avait peu à peu repris. La cité, autrefois le sommet de la science des hommes, était devenue un mystère vivant, à la fois ruine et jardin. Bourgne comprit que les habitants de Niourk n'étaient pas des ennemis, mais des êtres qui avaient appris à fusionner avec la machine et le végétal pour survivre. Au cœur de la ville, il trouva enfin la réponse à la question qui le hantait : d'où venait sa lumière. Il était le lien entre l'ancien monde disparu et le monde nouveau qui germait dans la boue. En posant la main sur le cœur de Niourk, il sentit la douleur de la Terre et sa promesse de renaissance. L'enfant aux yeux clairs n'était plus un étranger : il était le messager d'un printemps que nul n'attendait plus, et sa lumière éclairait le chemin des survivants. Bourgne, d'abord craint par les siens à cause de sa difformité, découvrit peu à peu que sa laideur cachait un don : celui de comprendre le langage des choses anciennes et des bêtes oubliées. Au fil de sa marche vers Niourk, il vit la terre se couvrir de fleurs là où il posait le regard, et les animaux sauvages s'approcher de lui sans crainte. Il comprit que la ville n'était pas une menace, mais un cœur endormi qu'il fallait réveiller, et que son propre corps, mêlé de racines et de métal, était la clef d'un monde enfin réconcilié avec sa propre nature perdue. ",
+    "quiz": [
+      {
+        "q": "Quel est le nom de l'enfant aux yeux clairs ?",
+        "o": [
+          "Bourgne",
+          "Niourk",
+          "Le Sage",
+          "L'Oiseau"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Vers quelle cité l'enfant se dirige-t-il ?",
+        "o": [
+          "Paris",
+          "Niourk",
+          "Londres",
+          "Rome"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel pouvoir l'enfant découvre-t-il peu à peu ?",
+        "o": [
+          "Voler",
+          "Faire fleurir la terre et apaiser les bêtes",
+          "Devenir invisible",
+          "Lire dans l'avenir"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que sont devenus les habitants de Niourk ?",
+        "o": [
+          "Des ennemis",
+          "Des êtres mêlés à la machine et au végétal",
+          "Des fantômes",
+          "Des pirates"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 155
+  },
+  {
+    "id": "SCI_012",
+    "titre": "Les Seigneurs de la guerre",
+    "auteur": "Gérard Klein",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "Sur la planète qui n'avait plus de nom, la guerre durait depuis si longtemps que personne ne se souvenait de la paix, ni même de ce qu'elle pouvait signifier. Les seigneurs, enfermés dans leurs forteresses d'acier, dirigeaient des armées de clones obéissants, tandis que les civils survivaient dans des villes souterraines éclairées par la lueur tremblante des écrans. Un technicien nommé Kehl fut chargé d'entretenir les machines qui maintenaient ce monde en état de marche, sans jamais comprendre le sens de la guerre qu'il servait chaque jour. Il remarqua un jour que les rapports envoyés par les seigneurs se répétaient à l'identique, comme si le conflit lui-même était devenu une routine sans but ni vainqueur. En explorant les archives poussiéreuses, Kehl découvrit que la guerre n'opposait plus personne : les deux camps étaient dirigés par la même autorité lointaine, qui entretenait le chaos pour empêcher les hommes de penser par eux-mêmes. Cette vérité le glaça plus que le froid des souterrains et des nuits sans soleil. Il comprit que les seigneurs de la guerre n'étaient pas des ennemis, mais des gardiens d'un ordre figé, condamnés à répéter éternellement les mêmes batailles stériles. Kehl songea alors à la possibilité d'éteindre les machines, de laisser le silence envahir les forteresses et de redonner aux hommes le choix de vivre. Mais il savait que briser le cycle serait tenu pour un crime pire que la trahison envers les seigneurs. Il décida pourant de transmettre les archives à une jeune femme qui cachait des livres interdits, afin qu'au moins la mémoire survive à la folie. Dans le crépuscule bleu de la planète, il regarda les tours des seigneurs et se dit que tout empire fondé sur la peur portait en lui sa propre fin. Le technicien n'était plus un simple rouage : il était devenu le dépositaire d'un secret capable de réveiller un monde endormi depuis des générations. Kehl, posté devant ses écrans, savait que chaque obus tiré obéissait à un calcul qu'il ne contrôlait qu'en apparence, car une autorité lointaine veillait à ce que la guerre ne finisse jamais tout à fait. Il songea aux visages des jeunes qu'on envoyait au front, persuadés de servir une patrie, alors qu'ils servaient une machine à entretenir la peur. La jeune femme à qui il confia la vérité lui demanda alors de transmettre le savoir plus loin, afin que d'autres, un jour, comprennent que la paix n'était pas une utopie, mais le simple arrêt d'une habitude que l'on a la lâcheté de ne pas rompre. ",
+    "quiz": [
+      {
+        "q": "Qui entretient les machines du monde ?",
+        "o": [
+          "Un seigneur",
+          "Un technicien nommé Kehl",
+          "Une jeune femme",
+          "Un clone"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre Kehl en explorant les archives ?",
+        "o": [
+          "Un trésor",
+          "Que la guerre est dirigée par une seule autorité pour entretenir le chaos",
+          "Une carte",
+          "Un message d'amour"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que décide Kehl de faire des archives ?",
+        "o": [
+          "Les détruire",
+          "Les transmettre à une jeune femme qui cache des livres",
+          "Les vendre",
+          "Les oublier"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que portent en eux, selon Kehl, les empires fondés sur la peur ?",
+        "o": [
+          "La richesse",
+          "Leur propre fin",
+          "La paix",
+          "La jeunesse"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 144
+  },
+  {
+    "id": "SCI_013",
+    "titre": "Transparence",
+    "auteur": "Ayerdhal",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "Dans la cité de demain, chaque geste était enregistré, chaque regard pesé, et la transparence était devenue la plus haute vertu, au-dessus de la liberté. Les habitants portaient à la tempe une petite lumière qui changeait de couleur selon leurs émotions, si bien que nul ne pouvait mentir sans que la ville entière ne le vît aussitôt. Une jeune femme nommée Alia travaillait comme archiviste dans la tour centrale, où se conservaient les souvenirs de tous les citoyens dans d'immenses bibliothèques de verre. Elle aimait l'ordre de ce monde sans secret, jusqu'au jour où elle remarqua une ligne effacée dans sa propre mémoire, une zone d'ombre que la transparence n'expliquait pas. Curieuse, elle entreprit de remonter le fil de ce trou, et elle découvrit qu'avant la loi de la lumière, les hommes avaient connu l'intimité, ce jardin secret où l'on pouvait être soi-même sans être jugé. Cette idée la troubla profondément et changea son regard sur le monde. Elle comprit que la transparence totale, loin de libérer, avait amputé une part essentielle de l'humanité : la possibilité de se tromper, de grandir dans le silence, de choisir sans témoin. Alia rencontra un vieillard qui se souvenait du temps des ombres, et il lui confia qu'une société sans secret était une société sans surprise, donc sans liberté véritable. Ensemble, ils imaginèrent de réintroduire une zone de pénombre, un espace où la lumière s'éteindrait et où chacun pourrait enfin penser seul. Le projet parut scandaleux aux dirigeants, car il menaçait l'édifice même de la cité et son contrôle des esprits. Pourtant Alia sut convaincre quelques citoyens que la transparence n'était précieuse que si elle restait un choix, non une cage. Au seuil de la tour, elle éteignit sa propre lumière pour la première fois, et dans le noir doux, elle sourit : elle venait de redécouvrir ce que personne n'osait plus nommer, la liberté d'être invisible à soi-même. Dans les rues de la cité, la lumière changeait au gré des émotions, et l'on voyait ainsi battre le cœur collectif comme on lit un ciel d'orage. L'archiviste, chargé de conserver la mémoire, remarqua que les zones d'ombre, loin d'être des failles, étaient les lieux où naissaient les pensées les plus libres. Il décida de ne plus effacer ces coins de pénombre, comprenant que la transparence totale serait la mort du secret nécessaire à la création. Ainsi, la ville apprit à laisser vivre en elle une ombre douce, espace de liberté où chacun pouvait enfin penser sans être vu ni jugé par tous. ",
+    "quiz": [
+      {
+        "q": "Que portent les habitants à la tempe dans cette cité ?",
+        "o": [
+          "Une couronne",
+          "Une lumière qui change selon les émotions",
+          "Un masque",
+          "Un livre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel métier exerce Alia ?",
+        "o": [
+          "Gardienne",
+          "Archiviste",
+          "Juge",
+          "Soldat"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre Alia dans sa propre mémoire ?",
+        "o": [
+          "Un trésor",
+          "Une zone d'ombre effacée",
+          "Un poème",
+          "Un nom"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que veut réintroduire Alia dans la cité ?",
+        "o": [
+          "Plus de lumière",
+          "Une zone de pénombre pour penser seul",
+          "Des armes",
+          "Des murs"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 144
+  },
+  {
+    "id": "SCI_014",
+    "titre": "Le Train de l'éternité",
+    "auteur": "Serge Brussolo",
+    "genre": "Science-Fiction",
+    "niveau": "Intermédiaire",
+    "extrait": "Le train s'était mis en marche sans que personne ne sache d'où il venait, et il roulait depuis si longtemps que les voyageurs avaient oublié le visage du monde extérieur. Les wagons, tapissés de velours usé, formaient une longue chaîne de lumière au milieu d'un paysage de brume où rien ne semblait réel ni solide. Un jeune homme nommé Sylvain monta à une gare sans nom, attiré par la promesse d'un voyage qui ne finirait jamais et qui effacerait la douleur du temps. À bord, il rencontra des passagers aux histoires étranges : une femme qui disait avoir vu le temps s'arrêter, un enfant qui dessinait des villes impossibles, et un vieux mécanicien qui affirmait que le train était vivant. Peu à peu, Sylvain comprit que chaque wagon correspondait à un souvenir, et que le convoi traversait non pas l'espace, mais la mémoire des hommes et de leurs rêves perdus. Les portes s'ouvraient parfois sur des paysages qui n'existaient que dans l'imagination, et les voyageurs pouvaient y entrer comme dans un rêve éveillé. Le mécanicien expliqua que le train de l'éternité emmenait ceux qui refusaient d'oublier vers un lieu où rien ne se perdait, pas même une larme. Mais Sylvain se demanda si ce voyage n'était pas une prison douce, un moyen d'éviter de vivre le présent avec ses joies et ses peines. Il vit des passagers figés dans leurs propres récits, incapables de descendre à une gare réelle et de reprendre pied. Alors, au moment où le train ralentit près d'un champ de fleurs lumineuses, il décida de poser le pied sur le sol et de rentrer dans le monde des vivants. Le mécanicien hocha la tête, comme si beaucoup avant lui avaient hésité puis renoncé. Sylvain comprit que l'éternité n'était pas de rester, mais de savoir partir au bon moment, en emportant ses souvenirs comme des étoiles dans la poche, prêts à éclairer le chemin de ceux qui resteraient. Les passagers, peu à peu, se prirent à raconter leurs vies, et le train devint le dépositaire de mille mémoires mêlées qui se répondaient dans le noir. Certains avaient oublié d'où ils venaient, d'autres fuyaient un passé trop lourd, mais tous partageaient le même vertige d'une route sans fin. L'homme comprit que descendre exigeait plus de courage que de rester, car il fallait accepter de retrouver le sol, le temps et la finitude. Il résolut de guetter le bon moment, celui où la porte s'ouvrirait sur un monde qu'il aurait enfin choisi, et non subi, comme une décision et non une chute. ",
+    "quiz": [
+      {
+        "q": "Comment le train est-il décrit au début ?",
+        "o": [
+          "Rapide et bruyant",
+          "Sans origine connue, roulant depuis longtemps",
+          "Petit et rouge",
+          "Arrêté en gare"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que traversait réellement le convoi, selon le mécanicien ?",
+        "o": [
+          "L'océan",
+          "La mémoire des hommes",
+          "Le désert",
+          "Le ciel"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que décide Sylvain au moment où le train ralentit ?",
+        "o": [
+          "Rester à bord",
+          "Descendre et rentrer dans le monde des vivants",
+          "Dormir",
+          "Changer de wagon"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que faut-il, selon Sylvain, pour vivre l'éternité ?",
+        "o": [
+          "Ne jamais partir",
+          "Savoir partir au bon moment",
+          "Oublier ses souvenirs",
+          "Ne plus parler"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 146
+  },
+  {
+    "id": "SCI_015",
+    "titre": "Lum'en",
+    "auteur": "Laurent Genefort",
+    "genre": "Science-Fiction",
+    "niveau": "Intermédiaire",
+    "extrait": "Sur la planète Lum'en, la lumière était une forme de vie, aussi réelle que l'eau ou l'air que nous connaissons. Les habitants, des êtres de cristal translucide, se nourrissaient des couleurs de l'aube et communiquaient en faisant vibrer leur corps comme des prismes sous le soleil. Une jeune exploratrice nommée Sael arriva de la Terre avec une mission simple : comprendre pourquoi les Lum'eniens refusaient tout contact avec les autres mondes de la galaxie. Elle découvrit une société sans armes, sans haine et sans nuit, car la planète ne connaissait que le jour perpétuel et la clarté. Les enfants y naissaient déjà capables de chanter la lumière, et les anciens devenaient peu à peu transparents à mesure que leur mémoire se fondait dans la pierre vivante. Sael apprit que les Lum'eniens craignaient l'ombre non pas par peur, mais parce qu'ils y voyaient le lieu où les couleurs mouraient et où le sens leur échappait. Ils avaient jadis accueilli des voyageurs venus d'ailleurs, mais ceux-ci avaient apporté des objets sombres qui avaient terni leurs prismes et troublé leur paix. Depuis, ils avaient choisi de se protéger en fermant leur monde aux étrangers et à leurs ombres. Sael, au lieu d'insister ou de forcer la porte, proposa de partager une lumière nouvelle, celle des étoiles de la Terre que les Lum'eniens n'avaient jamais vue. Elle alluma une petite lampe qui projetait des teintes inconnues, et les habitants, émerveillés, comprirent que l'ombre pouvait aussi être une couleur parmi d'autres. Un pont se forma alors entre les deux mondes, non pas par la force, mais par la curiosité partagée et la confiance naissante. Sael sut que la différence n'était pas une menace, mais une invitation à grandir. Elle repartit vers les étoiles en emportant un prisme lum'ien, promesse qu'un jour, toutes les lumières de l'univers sauraient se répondre. Les habitants de Lum'en apprirent bientôt à lire dans la lumière les messages des étoiles, et chacun y trouvait la couleur de son propre destin. L'enfant, guidé par la lueur terne, comprit que la beauté du monde tenait à sa diversité, et que ternir une seule teinte, c'était appauvrir tout le prisme. Il décida de protéger les objets sombres, car ils étaient le rappel nécessaire que la lumière n'a de valeur que parce qu'elle côtoie l'ombre. Ainsi grandit-il, invité par la lumière même à devenir celui qui réconcilie les couleurs, et qui fait de la différence une fête plutôt qu'une peur. ",
+    "quiz": [
+      {
+        "q": "De quoi les habitants de Lum'en se nourrissent-ils ?",
+        "o": [
+          "De viande",
+          "Des couleurs de l'aube",
+          "De métal",
+          "D'eau"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi les Lum'eniens refusent-ils le contact avec les autres mondes ?",
+        "o": [
+          "Par paresse",
+          "Parce que des objets sombres ont jadis terni leurs prismes",
+          "Par manque de vaisseau",
+          "Par mépris"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que propose Sael pour les rapprocher ?",
+        "o": [
+          "Des armes",
+          "De partager la lumière des étoiles de la Terre",
+          "De partir vite",
+          "De construire un mur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que comprend Sael à la fin ?",
+        "o": [
+          "Que la différence est une menace",
+          "Que la différence est une invitation à grandir",
+          "Que la planète est vide",
+          "Que les étoiles sont mortes"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 139
+  },
+  {
+    "id": "SCI_016",
+    "titre": "Outerplanes",
+    "auteur": "Jean-Marc Ligny",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "L'humanité avait quitté la Terre depuis longtemps, non par courage, mais par nécessité, lorsque la planète bleue était devenue invivable sous un ciel de cendres. Les derniers vaisseaux avaient glissé vers les outerplanes, ces régions lointaines de l'espace où la matière se faisait plus fine et où les lois de la physique semblaient hésiter comme un homme incertain. À bord d'une station nommée L'Errance, une communauté de scientifiques tentait de comprendre pourquoi les étoiles, au-delà d'un certain seuil, s'éteignaient sans raison ni expliquation. Une chercheuse nommée Ora observa que les outerplanes n'étaient pas un vide, mais une mémoire : chaque particule y portait la trace d'un univers antérieur, comme une page écrite par des mains oubliées. Elle formula l'hypothèse bouleversante que l'espace lui-même apprenait, et que les civilisations successives laissaient en lui des empreintes que l'on pouvait lire comme on lit un livre ancien. Ses collègues, d'abord sceptiques, virent peu à peu les données confirmer sa thèse : les outerplanes conservaient le souvenir des mondes disparus, et l'humanité y était déjà inscrite comme une ligne à peine esquissée. Ora comprit alors que la survie ne dépendait pas de la fuite, mais de la capacité à écrire une suite digne des pages précédentes, sans répéter les erreurs du passé. Elle proposa d'envoyer dans les outerplanes une sonde chargée non pas d'armes, mais de musique et de récits, afin que la mémoire de l'espace apprenne le visage tendre des hommes. Le conseil de la station accepta, et la sonde partit porter sa graine de lumière vers les confins de la nuit. Ora veilla toute la nuit sur les écrans, sachant que, quelque part, l'univers prenait note de ce message. Elle sourit en pensant que même dans l'oubli des étoiles, une voix pouvait encore être entendue, pourvu qu'elle soit assez vraie, et que la mémoire de l'espace saurait un jour rendre aux hommes leur place parmi les mondes. La sonde, lancée vers les confins, portait en elle la musique et les récits des mondes disparus, afin que nulle mémoire ne s'efface tout à fait dans le froid de l'espace. L'homme qui l'avait conçue savait que la Terre, devenue invivable, n'était plus qu'un souvenir, mais il croyait que transmettre ce souvenir était une forme de résistance. Il imagina des lointains descendants découvrant ces échos et y reconnaissant le visage tendre des hommes, celui qui aime, qui doute et qui chante. Et cette foi, fragile mais tenace, lui donna la force d'achever son œuvre et de la confier aux étoiles, messagères silencieuses d'un passé qui refuse de mourir. ",
+    "quiz": [
+      {
+        "q": "Pourquoi l'humanité a-t-elle quitté la Terre ?",
+        "o": [
+          "Par curiosité",
+          "Parce que la Terre était devenue invivable",
+          "Pour la guerre",
+          "Pour le commerce"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que sont les outerplanes selon Ora ?",
+        "o": [
+          "Un vide",
+          "Une mémoire portant la trace d'univers antérieurs",
+          "Un océan",
+          "Une arme"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que propose Ora d'envoyer dans les outerplanes ?",
+        "o": [
+          "Des armes",
+          "Une sonde chargée de musique et de récits",
+          "Un vaisseau de combat",
+          "Un mur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que veut transmettre Ora à la mémoire de l'espace ?",
+        "o": [
+          "La peur des hommes",
+          "Le visage tendre des hommes",
+          "Leur force",
+          "Leur colère"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 146
+  },
+  {
+    "id": "SCI_017",
+    "titre": "Les Guerriers du silence",
+    "auteur": "Pierre Bordage",
+    "genre": "Science-Fiction",
+    "niveau": "Intermédiaire",
+    "extrait": "La nef arriva du fond de la galaxie comme un oiseau de pierre porté par le vent des étoiles, et ceux qui la virent ne surent d'abord si elle apportait la paix ou la fin des temps. À son bord se trouvait un jeune homme nommé Nao, élevé loin des siens dans une école où l'on apprenait le maniement des étoiles autant que celui des armes et du courage. La guerre qui opposait les mondes humains durait depuis des générations, et les guerriers du silence étaient ceux qui, parvenus au plus haut grade, avaient fait vœu de ne plus parler, pour écouter enfin la voix des mondes qu'ils défendaient. Nao ne comprenait pas ce silence, car il croyait que la force résidait dans le cri et le combat éclatant. Lors de sa première bataille, il vit pourant un vieux guerrier du silence affronter un ennemi sans prononcer un seul mot, et il comprit que cette paix intérieure était plus redoutable que n'importe quelle lame forgée. Au fil de ses voyages de planète en planète, Nao découvrit que le conflit était alimenté par de vieux mensonges, semés par ceux qui tiraient profit de la haine et de la peur des peuples. Il rencontra des peuples qui vivaient dans l'harmonie avec leurs lunes, et d'autres qui avaient oublié jusqu'au nom de la guerre dans leurs chants. Peu à peu, le jeune homme apprit à écouter le silence, et il y trouva une sagesse que les discours n'avaient jamais su lui donner ni lui enseigner. Devenu à son tour un guerrier du silence, il transmit la paix non par la victoire, mais par l'exemple et la douceur. Les mondes, lentement, posèrent leurs armes, car ils avaient enfin entendu ce que le silence disait de leur propre soif de vivre. Nao comprit que le plus grand courage n'était pas de frapper, mais de rester debout, tranquille, au milieu du tumulte, et d'offrir au monde une autre voie, celle de la compréhension et de la paix entre les étoiles. Nao, par son vœu de ne plus parler, apprit à écouter le monde avec une acuité nouvelle, et il entendit dans le silence des montagnes la vérité que les discours avaient depuis longtemps recouverte. Les anciens, inquiets de cette parole retenue, y virent d'abord une menace, puis une énigme. Mais peu à peu, les enfants vinrent s'asseoir près de lui pour partager son calme, et ils comprirent que la paix ne se décrète pas, elle se montre par l'exemple. Ainsi le guerrier silencieux devint, sans un mot, le maître d'une sagesse que nulle arme ne saurait enseigner, et sa présence apaisa les vieux mensonges qui divisaient les peuples. ",
+    "quiz": [
+      {
+        "q": "Qui est le jeune homme à bord de la nef ?",
+        "o": [
+          "Nao",
+          "Le vieux guerrier",
+          "Un roi",
+          "Un enfant"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que font les guerriers du silence une fois au plus haut grade ?",
+        "o": [
+          "Ils crient",
+          "Ils font vœu de ne plus parler",
+          "Ils fuient",
+          "Ils chantent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre Nao sur l'origine de la guerre ?",
+        "o": [
+          "Elle est naturelle",
+          "Elle est alimentée par de vieux mensonges",
+          "Elle vient des étoiles",
+          "Elle est un jeu"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que transmet Nao devenu guerrier du silence ?",
+        "o": [
+          "La peur",
+          "La paix par l'exemple",
+          "La haine",
+          "La fuite"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 152
+  },
+  {
+    "id": "SCI_018",
+    "titre": "La Zone du Dehors",
+    "auteur": "Alain Damasio",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "La Zone du Dehors n'était pas un lieu sur une carte, mais un état d'esprit, une frontière invisible que l'on franchissait quand on refusait d'obéir aux écrans. Dans la société des Arcades, tout était réglé par des écrans, des scores et des caméras qui mesuraient le bonheur comme on mesure une température au thermomètre. Les citoyens y vivaient contents, car on leur avait appris dès l'enfance que le contentement était le but suprême et que la joie se calculait. Mais certains, nommés les volontaires, sentaient qu'un morceau d'eux-mêmes manquait, une part sauvage que la société avait soigneusement effacée de leurs vies. Un jeune homme nommé Lwin décida un jour de franchir la ligne, et il découvrit le Dehors : un espace sans murs ni règles, peuplé de ceux qui avaient dit non à la soumission. Là, les gens apprenaient à nouveau à marcher sans être guidés, à penser sans écran, à aimer sans permission ni score à atteindre. Lwin y rencontra des compagnons aux visages marqués par la liberté, et il comprit que le Dehors n'était pas le chaos que les Arcades décrivaient avec effroi, mais une autre forme d'ordre, fondée sur la responsabilité de chacun. Les dirigeants, inquiets de cette fuite, envoyèrent des agents pour ramener les volontaires, car une société ne peut tolérer qu'on montre qu'elle n'est qu'un choix parmi d'autres. Lwin, au lieu de fuir plus loin, choisit de rester à la lisière, témoin vivant qu'un autre monde était possible et désirable. Il sut que la Zone du Dehors grandissait chaque fois qu'un homme osait penser par lui-même, sans guide ni ordre. Et dans le vent froid de la liberté, il rit pour la première fois d'un rire que nulle caméra n'avait programmé, un rire qui était à lui seul une déclaration d'indépendance, et la preuve que l'esprit humain ne se laisse jamais tout à fait enfermer dans ses propres cages. Lwin, demeuré à la lisière, vit bientôt d'autres citoyens franchir la ligne à leur tour, attirés par la liberté qu'il incarnait sans rien forcer. Il leur apprit à marcher sans guide, à penser sans écran, et à aimer sans qu'un score ne mesure leur bonheur. Les Arcades, craignant la contagion de cet exemple, redoublèrent de caméras, mais chaque image volée ne faisait que prouver que le Dehors était vivant. Lwin comprit alors que la Zone du Dehors n'était pas un lieu à conquérir, mais une attitude à défendre, et que tant qu'un seul homme rirait sans permission, la liberté aurait déjà gagné sa première et plus belle victoire. ",
+    "quiz": [
+      {
+        "q": "Que mesure la société des Arcades ?",
+        "o": [
+          "La pluie",
+          "Le bonheur des citoyens via écrans et caméras",
+          "La distance",
+          "La musique"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment appelle-t-on ceux qui refusent d'obéir et partent ?",
+        "o": [
+          "Les soldats",
+          "Les volontaires",
+          "Les rois",
+          "Les agents"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre Lwin dans le Dehors ?",
+        "o": [
+          "Le chaos total",
+          "Un ordre fondé sur la responsabilité de chacun",
+          "Un désert",
+          "Une prison"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que choisit de faire Lwin à la fin ?",
+        "o": [
+          "Rentrer aux Arcades",
+          "Rester à la lisière comme témoin",
+          "Devenir agent",
+          "Oublier"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 145
+  },
+  {
+    "id": "SCI_019",
+    "titre": "Le Temps incertain",
+    "auteur": "Michel Jeury",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "Le temps n'était plus ce fleuve tranquille que les hommes croyaient connaître et maîtriser. Dans la vallée de Lodève, un ingénieur nommé Ravel découvrit que le futur pouvait se lire comme on lit un paysage depuis une colline, et que certaines personnes, dites sensibles, percevaient des images d'événements encore à venir. Ces visions n'étaient pas nettes : elles arrivaient par éclairs, mêlées d'ombres, et personne ne savait si elles annonçaient le destin ou seulement une possibilité parmi d'autres. Ravel construisait une machine, la Chronolyse, capable de capter ces fréquences du temps et de les traduire en images projetées sur un écran de brume. Il vit alors des villes qui n'existaient pas encore, des fleuves détournés et des visages inconnus qui semblaient l'attendre de l'autre côté du voile. Mais plus il regardait, plus il doutait : si l'on pouvait voir l'avenir, le présent perdait-il sa liberté et son poids ? Une femme du nom de Julie, elle-même sensible, l'avertit que le temps incertain était une chance, car il laissait à chacun le pouvoir de choisir parmi les futurs possibles. Elle lui apprit que la machine ne montrait pas une route unique, mais un éventail de chemins, et que l'acte même de regarder modifiait ce que l'on verrait ensuite. Ravel comprit alors que la vraie science du temps n'était pas de le prévoir pour le subir, mais de l'habiter pleinement, sans peur ni fatalité. Il éteignit la Chronolyse et sortit marcher dans la vallée, sous un ciel où les nuages dessinaient des formes jamais vues par aucun homme. Le temps, enfin, n'était plus une prison : c'était une promesse que l'on écrivait soi-même, heure après heure, au gré de ses décisions, et chaque pas dans l'herbe fraîche lui redisait que l'avenir restait à inventer. Ravel, désormais libre de la machine, retrouva le goût du présent comme on retrouve un ami perdu. Il comprit que le temps incertain était une grâce, car il laissait à chacun le pouvoir de choisir parmi les futurs possibles sans être l'esclave d'aucun. Julie, à ses côtés, lui apprit à écouter les frémissements du monde sans chercher à les figer, et ils décidèrent de vivre au jour le jour, artisans de leur propre destin. La vallée de Lodève, sous le ciel changeant, devint le théâtre d'une vie simple où l'avenir restait une promesse ouverte, à écrire soi-même, heure après heure, au gré de chaque décision librement prise. ",
+    "quiz": [
+      {
+        "q": "Que découvre l'ingénieur Ravel ?",
+        "o": [
+          "Que le temps est figé",
+          "Que le futur peut se lire comme un paysage",
+          "Que le passé revient",
+          "Que les étoiles tombent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment nomme-t-on la machine de Ravel ?",
+        "o": [
+          "La Chronolyse",
+          "Le Temps",
+          "L'Écran",
+          "La Tour"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que dit Julie à propos du temps incertain ?",
+        "o": [
+          "Qu'il est une fatalité",
+          "Qu'il laisse le pouvoir de choisir parmi les futurs possibles",
+          "Qu'il est une prison",
+          "Qu'il est mort"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que décide Ravel à la fin ?",
+        "o": [
+          "Regarder sans cesse l'avenir",
+          "Éteindre la machine et habiter le présent",
+          "Détruire le village",
+          "Fuir"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 137
+  },
+  {
+    "id": "SCI_020",
+    "titre": "Le Silence de la cité",
+    "auteur": "Élisabeth Vonarburg",
+    "genre": "Science-Fiction",
+    "niveau": "Avancé",
+    "extrait": "La cité était suspendue au-dessus des nuages, si haut que nul ne se souvenait de la terre et de son bruit. Depuis des siècles, le silence y était loi, car les anciens avaient décrété que la parole avait causé la chute du monde d'autrefois, et qu'il fallait taire toute voix pour ne plus jamais détruire. Les habitants vivaient donc par signes, par regards et par écrit, dans des rues blanches où l'on n'entendait que le souffle du vent entre les tours. Une jeune gardienne nommée Teria veillait sur la Grande Bibliothèque, dont les livres étaient scellés, car on craignait que les mots ne réveillent les vieilles furies des hommes. Mais Teria, chaque nuit, posait sa main sur les couvertures sans oser les ouvrir, et elle sentait battre sous le cuir un cœur de pensées enfermées. Un soir, poussée par une soif de comprendre, elle rompit le sceau et ouvrit le premier volume : aussitôt, des phrases firent chanter son esprit, et elle comprit que le silence n'était pas la paix, mais une prison douce où l'on oubliait d'être soi-même. Elle prononça alors un seul mot, le plus simple, et ce mot résonna comme une cloche dans la cité endormie, réveillant des échos que nul n'avait osé réveiller. Les anciens accoururent, effrayés, mais Teria leur montra le livre ouvert et leur dit, par signes et par voix, que la parole pouvait aussi être un lien et non une arme. Elle proposa d'ouvrir la bibliothèque et d'apprendre aux enfants à parler sans haïr, à nommer le monde sans le briser. Ainsi, lentement, la cité au-dessus des nuages découvrit que le vrai silence n'était pas l'absence de voix, mais le respect de celles que l'on laisse enfin s'élever, libres et fraternelles, vers le ciel clair. Teria, après avoir prononcé ce premier mot, vit peu à peu les habitants sortir de leur mutisme, d'abord timides, puis joyeux de redécouvrir la voix que leurs pères avaient bannie. La bibliothèque, enfin ouverte, devint le cœur battant de la cité, où les enfants apprirent à nommer le monde sans le briser. Les anciens, vaincus par la douceur de cette renaissance, abandonnèrent la loi du silence et reconnurent leur erreur. Ainsi la cité suspendue au-dessus des nuages cessa d'être une prison de vent et de marbre, et devint un lieu où la parole, enfin libre, reliait les êtres dans une fraternité que nul silence n'aurait su créer ni maintenir. ",
+    "quiz": [
+      {
+        "q": "Où se trouve la cité ?",
+        "o": [
+          "Sous la terre",
+          "Suspendue au-dessus des nuages",
+          "Dans la mer",
+          "Sur la lune"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le métier de Teria ?",
+        "o": [
+          "Reine",
+          "Gardienne de la Grande Bibliothèque",
+          "Guerrière",
+          "Marchande"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Teria en ouvrant le livre ?",
+        "o": [
+          "Elle le brûle",
+          "Elle comprend que le silence est une prison",
+          "Elle s'enfuit",
+          "Elle dort"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que propose Teria à la fin ?",
+        "o": [
+          "Détruire les livres",
+          "Ouvrir la bibliothèque et apprendre à parler sans haïr",
+          "Imposer le silence",
+          "Partir seule"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 138
+  },
+  {
+    "id": "FAN_001",
+    "titre": "La Quête d'Ewilan",
+    "auteur": "Pierre Bottero",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Camille Delledreuil était une jeune fille de quinze ans qui vivait dans un monde où tout semblait normal, jusqu'au jour où elle découvrit qu'elle possédait un pouvoir étrange et merveilleux. En classe de dessin, elle regardait son papier et, sans comprendre comment, elle faisait apparaître des images qui n'existaient pas, des paysages fantastiques peuplés de créatures aux ailes irisées. Son professeur, intrigué, lui demanda de reproduire un arbre ancien qu'elle n'avait jamais vu, et Camille traça les branches avec une assurance qui la surprit elle-même. Ce jour-là, en sortant du lycée, elle croisa un homme vêtu de gris qui la regarda avec une intensité troublante et murmura un mot qu'elle n'avait jamais entendu : Ewilan. Ce nom résonna en elle comme un écho lointain, et elle sentit son cœur battre plus fort, comme si une autre vie se réveillait soudain. Elle rentra chez elle en courant, et ce soir-là, elle fit un rêve étrange : elle se tenait sur une plage de sable doré, face à une mer d'un bleu profond, et une voix lui disait qu'elle était attendue dans un monde parallèle nommé Gwendalavir. Au réveil, elle trouva sur son bureau un dessin qu'elle n'avait pas fait : une carte aux contours familiers, avec des noms écrits dans une langue inconnue mais compréhensible, comme si son esprit les avait toujours connus. Camille comprit peu à peu qu'elle n'était pas une simple lycéenne, mais la descendante d'une lignée de dessinateurs capables de donner vie à leurs créations par la seule force de leur imagination. Son grand-père, qu'elle croyait mort depuis longtemps, lui apparut en rêve et lui confia un secret : Ewilan était son vrai nom dans l'autre monde, et elle devait le retrouver pour sauver Gwendalavir d'une ombre qui menaçait de tout effacer. Le matin suivant, en ouvrant son cartable, elle découvrit un petit carnet aux pages jaunies, rempli de dessins de monstres et de héros, et une phrase griffonnée à la dernière page : « Le dessin est la clé du monde. » Camille sourit, car elle savait maintenant que son aventure commençait vraiment, et que chaque trait de crayon pourrait changer le destin de deux mondes entiers.",
+    "quiz": [
+      {
+        "q": "Quel pouvoir étrange Camille découvre-t-elle en classe de dessin ?",
+        "o": [
+          "Elle peut voler",
+          "Elle peut faire apparaître des images de son imagination",
+          "Elle peut lire dans les pensées",
+          "Elle peut devenir invisible"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel mot l'homme vêtu de gris murmure-t-il à Camille ?",
+        "o": [
+          "Gwendalavir",
+          "Ewilan",
+          "Salomon",
+          "Dorian"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du monde parallèle où Camille est attendue ?",
+        "o": [
+          "Gwendalavir",
+          "Alavir",
+          "Kurwen",
+          "Phænix"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que trouve Camille dans son cartable le matin suivant ?",
+        "o": [
+          "Un livre de sorts",
+          "Un petit carnet rempli de dessins",
+          "Une épée magique",
+          "Un message de son grand-père"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 124
+  },
+  {
+    "id": "FAN_002",
+    "titre": "Le Pacte des Marchombres",
+    "auteur": "Pierre Bottero",
+    "genre": "Fantasy",
+    "niveau": "Intermédiaire",
+    "extrait": "Ellana était une jeune femme qui avait grandi dans les rues de la cité d'Alavir, apprenant à survivre avec sa seule intelligence et une dague qu'elle maniait avec une grâce redoutable. Elle avait été recueillie par un vieux marchombres nommé Maître Ol, qui lui avait enseigné l'art de se fondre dans l'ombre et de disparaître quand le danger approchait. Les marchombres étaient des êtres libres, sans maître ni patrie, qui voyageaient de ville en ville en portant des messages secrets et en protégeant ceux qui ne pouvaient se défendre eux-mêmes. Ellana avait appris à lire le vent, à écouter le murmure des feuilles et à sentir la présence des autres avant même de les voir. Un soir, alors qu'elle traversait la forêt de Malerbois, elle entendit un cri déchirant qui venait des profondeurs des arbres. Elle s'approcha avec précaution et découvrit un enfant blessé, serrant dans ses bras un objet brillant qui semblait pulser d'une lumière intérieure. L'enfant lui dit qu'il venait d'un village attaqué par des hommes masqués qui cherchaient l'Œil de la Lune, un cristal ancien capable de révéler les mensonges et de briser les enchantements les plus sombres. Ellana comprit que cet objet était bien plus précieux qu'un simple joyau : c'était une clé qui pouvait sauver des vies et déjouer les complots des puissants. Elle décida de protéger l'enfant et de le ramener à sa famille, mais elle savait que le chemin serait long et périlleux, car les hommes masqués ne reculeraient devant rien pour s'emparer du cristal. En marchant sous les étoiles, Ellana sentit la présence de Maître Ol à ses côtés, comme si son esprit veillait sur elle depuis l'au-delà. Elle se souvint de ses enseignements : un marchombres ne fuit jamais, il chemine, et chaque pas le rapproche de sa véritable nature. L'enfant, rassuré par sa présence, lui confia que l'Œil de la Lune avait été créé par les premiers dessinateurs de Gwendalavir, et qu'il ne se révélait qu'à ceux qui portaient en eux une étincelle de vérité. Ensemble, ils poursuivirent leur route vers l'aube, sachant que le pacte des marchombres les protégeait, et que la lumière du cristal les guiderait à travers les ténèbres.",
+    "quiz": [
+      {
+        "q": "Quel est le métier ou la vocation d'Ellana ?",
+        "o": [
+          "Marchombres",
+          "Magicienne",
+          "Guerrière",
+          "Princesse"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Qui a recueilli et formé Ellana ?",
+        "o": [
+          "Son père",
+          "Maître Ol",
+          "Un roi",
+          "Une sorcière"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que cherchent les hommes masqués qui ont attaqué le village ?",
+        "o": [
+          "De l'or",
+          "L'Œil de la Lune",
+          "Un enfant",
+          "Une épée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que peut faire l'Œil de la Lune selon l'enfant ?",
+        "o": [
+          "Rendre invisible",
+          "Révéler les mensonges et briser les enchantements",
+          "Faire voler",
+          "Guérir les maladies"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 125
+  },
+  {
+    "id": "FAN_003",
+    "titre": "La Passe-miroir",
+    "auteur": "Christelle Dabos",
+    "genre": "Fantasy",
+    "niveau": "Intermédiaire",
+    "extrait": "Ophelia vivait sur l'arche d'Anima, un monde flottant où chaque objet possédait une âme et où les familles se transmettaient des dons étranges depuis des générations. Elle était une passeuse, capable de traverser les miroirs et de voyager d'un monde à l'autre par simple contact avec le verre. Son oncle, le puissant seigneur de la maison, l'avait convoquée dans la grande salle aux vitraux pour lui annoncer une nouvelle qui allait changer sa vie à jamais : elle devait épouser Thorn, un homme mystérieux et froid qui vivait sur l'arche du Pôle, un lieu de glace et de silence où les règles étaient impitoyables. Ophelia sentit un frisson la parcourir, car elle savait que ce mariage n'était pas un choix, mais une obligation politique scellée par des alliances anciennes. Elle regarda son reflet dans le miroir de la salle et vit une jeune fille aux cheveux roux, vêtue d'une robe de laine épaisse, qui tenait dans sa main un livre ancien dont les pages semblaient bouger toutes seules. Ce livre était le Livre des Ancêtres, un objet sacré qui contenait l'histoire de toutes les familles d'Anima et leurs pouvoirs secrets. Ophelia l'ouvrit et découvrit que Thorn possédait un don redoutable : il pouvait lire dans les âmes et déchiffrer les mensonges les mieux cachés. Elle comprit alors que ce mariage était un piège, mais aussi une chance : si elle parvenait à gagner la confiance de Thorn, elle pourrait peut-être découvrir les secrets de l'arche du Pôle et sauver sa propre famille d'une menace invisible. En quittant l'arche d'Anima, elle emporta avec elle un petit miroir de poche que sa grand-mère lui avait donné, et une phrase gravée sur le cadre : « Le miroir ne ment jamais, mais il montre ce que l'on craint le plus. » Le voyage vers le Pôle fut long, à travers des mers gelées et des tempêtes de neige, et Ophelia sentit sa détermination grandir à chaque vague qui frappait le navire. Elle savait que, derrière le froid de Thorn, se cachait peut-être une blessure ancienne, et que son pouvoir de passeuse pourrait être la seule clé pour ouvrir la porte de son cœur.",
+    "quiz": [
+      {
+        "q": "Quel est le pouvoir d'Ophelia ?",
+        "o": [
+          "Elle peut voler",
+          "Elle est une passeuse capable de traverser les miroirs",
+          "Elle peut lire dans les pensées",
+          "Elle peut contrôler le feu"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où Ophelia doit-elle se rendre pour épouser Thorn ?",
+        "o": [
+          "Sur l'arche d'Anima",
+          "Sur l'arche du Pôle",
+          "Dans une forêt enchantée",
+          "Au sommet d'une montagne"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le don de Thorn ?",
+        "o": [
+          "Il peut voler",
+          "Il peut lire dans les âmes et déchiffrer les mensonges",
+          "Il peut se transformer en animal",
+          "Il peut contrôler la glace"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que dit la phrase gravée sur le petit miroir de poche ?",
+        "o": [
+          "Le miroir ment toujours",
+          "Le miroir ne ment jamais, mais il montre ce que l'on craint le plus",
+          "Le miroir est un passage",
+          "Le miroir protège les amoureux"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 124
+  },
+  {
+    "id": "FAN_004",
+    "titre": "L'Empire des chimères",
+    "auteur": "Marie Vareille",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Lila avait toujours cru que les chimères n'étaient que des créatures de légende, des bêtes fantastiques que l'on dessinait dans les livres d'art et que l'on évoquait dans les contes pour faire peur aux enfants. Mais le jour où elle trouva, dans le grenier de sa grand-mère, un vieux miroir encadré de bois sombre, elle comprit que certaines histoires étaient bien plus vraies qu'elle ne l'avait imaginé. En se regardant dans le verre, elle vit son reflet bouger indépendamment d'elle, et une voix douce lui murmura : « Bienvenue dans l'Empire des chimères, où les rêves deviennent réalité et où les peurs prennent forme. » Lila passa la main à travers la surface du miroir et sentit une fraîcheur étrange, comme si l'air d'un autre monde l'effleurait. Elle fit un pas en avant et se retrouva dans un jardin magnifique, où des fleurs aux couleurs impossibles poussaient sous une lune argentée, et où des créatures mi-animales mi-humaines dansaient autour d'une fontaine de cristal. Une femme vêtue de voiles légers s'approcha d'elle et se présenta comme la gardienne des rêves, chargée de protéger l'équilibre entre le monde des hommes et celui des chimères. Elle expliqua à Lila que sa grand-mère avait été une puissante rêveuse, capable de créer des chimères bienveillantes qui veillaient sur les enfants endormis, mais qu'un sorcier sombre avait volé son pouvoir et l'avait enfermé dans le miroir. Pour libérer sa grand-mère et restaurer la paix, Lila devait retrouver les trois clés de l'Empire : la clé de l'imagination, la clé du courage et la clé de la mémoire. Le voyage fut long, à travers des forêts de papier et des montagnes de nuages, et Lila rencontra sur sa route des chimères amicales qui l'aidèrent à surmonter ses doutes. Elle comprit que chaque chimère était une partie d'elle-même, un reflet de ses émotions les plus profondes, et que pour sauver l'Empire, elle devait d'abord accepter qui elle était vraiment. Au terme de sa quête, elle affronta le sorcier dans une bataille de rêves, et ce fut sa propre imagination qui le vainquit, le renvoyant dans les ténèbres d'où il venait. Sa grand-mère fut libérée, et Lila devint la nouvelle gardienne des rêves, veillant sur l'Empire des chimères avec douceur et détermination.",
+    "quiz": [
+      {
+        "q": "Où Lila trouve-t-elle le vieux miroir ?",
+        "o": [
+          "Dans sa chambre",
+          "Dans le grenier de sa grand-mère",
+          "Dans une boutique",
+          "Au bord d'un lac"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voit Lila en se regardant dans le miroir ?",
+        "o": [
+          "Son reflet disparaît",
+          "Son reflet bouge indépendamment d'elle",
+          "Elle voit une autre personne",
+          "Elle voit le futur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelles sont les trois clés que Lila doit retrouver ?",
+        "o": [
+          "Or, argent, bronze",
+          "L'imagination, le courage et la mémoire",
+          "La force, la vitesse, la sagesse",
+          "Le feu, l'eau, l'air"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui Lila doit-elle affronter pour libérer sa grand-mère ?",
+        "o": [
+          "Un dragon",
+          "Un sorcier sombre",
+          "Un roi maléfique",
+          "Un géant"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 128
+  },
+  {
+    "id": "FAN_005",
+    "titre": "Le Seigneur des Anneaux",
+    "auteur": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "niveau": "Avancé",
+    "extrait": "Frodon Sacquet était un hobbit de la Comté, un petit peuple paisible qui aimait la tranquillité, les jardins bien entretenus et les repas copieux arrosés de bière mousseuse. Il vivait dans un trou confortable creusé dans la colline de Hobbitbourg, auprès de son oncle Bilbon, un aventurier célèbre pour avoir rapporté un anneau étrange d'une lointaine expédition. Cet anneau, que Bilbon avait trouvé dans les profondeurs de la Montagne Solitaire, brillait d'une lueur dorée et semblait posséder une volonté propre. Un matin, Gandalf le Gris, un magicien vêtu de gris et de bleu, rendit visite à Frodon et lui révéla la terrible vérité : l'anneau était l'Anneau Unique, forgé par le Seigneur des Ténèbres Sauron pour dominer tous les peuples de la Terre du Milieu. Sauron avait perdu l'anneau dans un combat ancien, mais il le cherchait sans relâche, et si jamais il le retrouvait, les ténèbres s'abattraient sur le monde pour l'éternité. Frodon, effrayé mais résolu, accepta de quitter la Comté pour se rendre au Rivendell, la demeure des elfes, où les peuples libres décideraient du sort de l'anneau. Il partit avec ses amis Sam, Merry et Pippin, et leur voyage les mena à travers des landes sauvages, des forêts anciennes et des montagnes escarpées. Ils rencontrèrent des hommes courageux, des elfes mystérieux et des nains fiers, mais aussi des créatures maléfiques qui servaient Sauron : des cavaliers noirs, des orques sanguinaires et des araignées géantes. Au Conseil d'Elrond, il fut décidé que l'anneau devait être détruit dans les flammes de la Montagne du Destin, en Mordor, la terre même de Sauron. Frodon se porta volontaire pour cette mission périlleuse, sachant qu'il ne reviendrait peut-être jamais. Il comprit que le fardeau de l'anneau était trop lourd pour un seul être, et qu'il devait apprendre à résister à sa corruption. En quittant le Rivendell, il sentit le poids du monde sur ses épaules, mais aussi la chaleur de l'amitié, car il savait qu'il n'était pas seul. Sam, son fidèle compagnon, lui serra la main et lui dit : « Je ne sais pas comment nous allons traverser le Mordor, mais je sais que nous allons le faire ensemble. » Et dans ce serment, Frodon trouva la force de poursuivre sa quête vers les ténèbres.",
+    "quiz": [
+      {
+        "q": "Quel est le nom de l'anneau que possède Bilbon ?",
+        "o": [
+          "L'Anneau de Pouvoir",
+          "L'Anneau Unique",
+          "L'Anneau des Elfes",
+          "L'Anneau de Feu"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui forgea l'Anneau Unique ?",
+        "o": [
+          "Gandalf",
+          "Sauron",
+          "Elrond",
+          "Aragorn"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où l'anneau doit-il être détruit ?",
+        "o": [
+          "Au Rivendell",
+          "Dans la Montagne du Destin en Mordor",
+          "Dans la Comté",
+          "Au Lothlórien"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui accompagne Frodon dans sa mission ?",
+        "o": [
+          "Seul",
+          "Sam, Merry et Pippin",
+          "Gandalf seulement",
+          "Les cavaliers noirs"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 129
+  },
+  {
+    "id": "FAN_006",
+    "titre": "Le Lion, la Sorcière blanche et l'Armoire magique",
+    "auteur": "C.S. Lewis",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Pendant que la guerre faisait rage en Angleterre, les quatre enfants Pevensie furent envoyés à la campagne pour échapper aux bombardements. Ils s'installèrent dans une grande maison ancienne, pleine de couloirs sombres et de meubles recouverts de draps blancs. Un jour, en jouant à cache-cache, la plus jeune, Lucy, découvrit une armoire magique dans une pièce vide, et en poussant la porte, elle se retrouva dans un monde enchanté couvert de neige éternelle. Elle marcha pendant des heures à travers une forêt de pins gelés, jusqu'à ce qu'elle rencontre un faune nommé Monsieur Tumnus, qui l'invita chez lui pour le thé. Tumnus lui expliqua qu'elle était entrée dans le pays de Narnia, un royaume autrefois heureux et verdoyant, maintenant prisonnier de la Sorcière blanche qui avait fait tomber une malédiction de cent années d'hiver sans Noël. Lucy retourna chez elle et raconta son aventure à ses frères et sœurs, mais personne ne la crut, jusqu'à ce que Edmund, le deuxième frère, découvre à son tour l'armoire et rencontre la Sorcière elle-même. La Sorcière, rusée et cruelle, lui promit la richesse et le pouvoir s'il lui amenait ses frères et sœurs, et Edmund, séduit par cette tentation, accepta de trahir les siens. Mais quand il revint avec Peter, Susan et Lucy, la vérité éclata, et les enfants comprirent qu'ils devaient affronter la Sorcière pour libérer Narnia. Ils rencontrèrent alors Aslan, le grand lion, le roi de toutes les bêtes, dont le rugissement faisait trembler les montagnes et dont le souffle portait la promesse du printemps. Aslan leur révéla qu'ils étaient les fils et filles du roi, les véritables souverains de Narnia, et qu'ils devaient combattre pour reprendre leur trône. Les enfants s'entraînèrent avec courage, apprenant à manier l'épée et le bouclier, et quand l'armée de la Sorcière arriva, ils firent face avec une détermination qui étonna même les créatures de Narnia. Au cœur de la bataille, Aslan se sacrifia pour sauver Edmund, mais la magie du royaume était plus forte que la mort, et le lion revint, plus puissant que jamais. Avec son aide, les enfants vainquirent la Sorcière, et le printemps revint enfin sur Narnia, apportant avec lui la lumière, la joie et la liberté.",
+    "quiz": [
+      {
+        "q": "Qui découvre en premier l'armoire magique ?",
+        "o": [
+          "Peter",
+          "Lucy",
+          "Susan",
+          "Edmund"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du faune qui invite Lucy chez lui ?",
+        "o": [
+          "Aslan",
+          "Monsieur Tumnus",
+          "Le Père Noël",
+          "Le Roi"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle malédiction la Sorcière blanche a-t-elle fait tomber sur Narnia ?",
+        "o": [
+          "Une malédiction de feu éternel",
+          "Cent années d'hiver sans Noël",
+          "Une malédiction de silence",
+          "Une malédiction de ténèbres"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est Aslan ?",
+        "o": [
+          "Un faune",
+          "Le grand lion, roi de toutes les bêtes",
+          "Un magicien",
+          "Un guerrier"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 126
+  },
+  {
+    "id": "FAN_007",
+    "titre": "Harry Potter à l'école des sorciers",
+    "auteur": "J.K. Rowling",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Harry Potter était un garçon de onze ans qui vivait chez son oncle et sa tante, dans un placard sous l'escalier, et qui passait ses journées à être maltraité par son cousin Dudley et à rêver d'une vie meilleure. Il ignorait qu'il était un sorcier, jusqu'au jour où des lettres mystérieuses commencèrent à arriver par la cheminée, puis par les fentes de la porte, puis par toutes les ouvertures possibles. L'oncle Vernon, effrayé, décida de fuir dans une cabane isolée au milieu d'une tempête, mais la lettre les y retrouva, portée par un géant barbu nommé Hagrid. Hagrid révéla à Harry sa véritable identité : il était le fils de James et Lily Potter, deux sorciers puissants tués par le plus terrible mage noir de tous les temps, Lord Voldemort. Harry avait survécu à l'attaque, et une cicatrice en forme d'éclair sur son front portait la marque de ce jour funeste. Hagrid l'emmena alors à Londres, dans une rue cachée nommée Chemin de Traverse, où il acheta sa baguette magique, ses livres de sorts et une chouette blanche nommée Hedwige. Le premier septembre, Harry prit le Poudlard Express, un train magique qui le mena à l'école de sorcellerie de Poudlard, un château immense peuplé de fantômes, de portraits parlants et de escaliers qui changeaient de place. Il fut réparti dans la maison Gryffondor, où il fit la connaissance de Ron Weasley et Hermione Granger, qui devinrent ses meilleurs amis. Ensemble, ils découvrirent que quelque chose de dangereux se cachait dans l'école : un objet magique protégé par un chien à trois têtes, et un mage noir qui tentait de revenir à la vie. Harry, Ron et Hermione décidèrent d'enquêter, bravant les interdits et les dangers pour protéger l'école. Ils traversèrent des épreuves terrifiantes, affrontèrent un troll, résolurent des énigmes et finalement, Harry se retrouva face à Voldemort lui-même, qui avait pris possession du professeur Quirrell. Mais l'amour de sa mère, qui l'avait protégé par un sacrifice ancien, fit reculer le mage noir, et Harry sauva la pierre philosophale que Voldemort convoitait. À la fin de l'année, les points de Gryffondor furent comptés, et grâce au courage de Harry, la maison remporta la coupe des quatre maisons. Harry comprit qu'il avait enfin trouvé un chez-lui, et que l'aventure ne faisait que commencer.",
+    "quiz": [
+      {
+        "q": "Où Harry vivait-il avant de découvrir qu'il était un sorcier ?",
+        "o": [
+          "Dans un château",
+          "Dans un placard sous l'escalier chez son oncle et sa tante",
+          "Dans une ferme",
+          "Dans un orphelinat"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui révèle à Harry sa véritable identité ?",
+        "o": [
+          "Dumbledore",
+          "Hagrid",
+          "Voldemort",
+          "Snape"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la particularité de la cicatrice sur le front de Harry ?",
+        "o": [
+          "Elle brille quand il est content",
+          "Elle est en forme d'éclair et porte la marque de l'attaque de Voldemort",
+          "Elle change de couleur",
+          "Elle est invisible"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Dans quelle maison Harry est-il réparti à Poudlard ?",
+        "o": [
+          "Serpentard",
+          "Gryffondor",
+          "Poufsouffle",
+          "Serdaigle"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 131
+  },
+  {
+    "id": "FAN_008",
+    "titre": "Percy Jackson : Le Voleur de foudre",
+    "auteur": "Rick Riordan",
+    "genre": "Fantasy",
+    "niveau": "Intermédiaire",
+    "extrait": "Percy Jackson était un garçon de douze ans qui avait toujours eu des problèmes à l'école : il se battait sans comprendre pourquoi, il échouait aux examens et il se faisait renvoyer de tous les établissements qu'il fréquentait. Il ignorait qu'il était un demi-dieu, le fils de Poséidon, le dieu des mers, et que sa vie était menacée par les forces de l'Olympe. Un jour, lors d'une sortie scolaire au musée, sa professeure de français, Madame Dodds, se transforma en une créature horrible aux yeux de feu et l'attaqua. Percy, terrifié, fut sauvé par son meilleur ami Grover, qui se révéla être un satyre, une créature mi-homme mi-bouc chargée de le protéger. Grover l'emmena au camp des Sang-Mêlé, un lieu secret où les demi-dieux apprenaient à maîtriser leurs pouvoirs et à se défendre contre les monstres. Là, Percy découvrit qu'il était le fils de Poséidon, un dieu puissant mais souvent en conflit avec les autres olympiens. Il fit la connaissance d'Annabeth, la fille d'Athéna, et de Tyson, un cyclope gentil qui était son demi-frère. Ensemble, ils se lancèrent dans une quête périlleuse pour retrouver l'éclair de Zeus, volé par un être mystérieux, et pour empêcher une guerre entre les dieux de l'Olympe. Le voyage les mena à travers les États-Unis, de Los Angeles à Las Vegas, affrontant Méduse, les Hespérides et bien d'autres monstres de la mythologie grecque. Percy comprit peu à peu que sa colère, qui l'avait toujours trahi, était en réalité un don : il pouvait contrôler l'eau, faire jaillir des vagues et créer des tempêtes d'un simple geste. Au sommet de l'Empire State Building, il affronta Ares, le dieu de la guerre, et récupéra l'éclair de Zeus, qu'il rendit au maître de l'Olympe. Mais la vérité était plus sombre : le voleur n'était autre que Luke, le fils d'Hermès, qui avait été manipulé par Cronos, le roi des Titans. Percy comprit que la guerre entre les dieux n'était qu'un prétexte, et que le véritable ennemi se cachait dans les profondeurs du Tartare. En rentrant au camp, il savait que sa vie de demi-dieu ne serait jamais simple, mais il était prêt à affronter l'avenir avec courage et loyauté.",
+    "quiz": [
+      {
+        "q": "Quel est le père de Percy ?",
+        "o": [
+          "Zeus",
+          "Poséidon",
+          "Hadès",
+          "Apollon"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle créature se révèle être Grover ?",
+        "o": [
+          "Un centaure",
+          "Un satyre",
+          "Un cyclope",
+          "Un dragon"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que doivent retrouver Percy et ses amis ?",
+        "o": [
+          "Une épée magique",
+          "L'éclair de Zeus",
+          "Un trésor",
+          "Un livre ancien"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le véritable voleur de l'éclair ?",
+        "o": [
+          "Percy",
+          "Luke, le fils d'Hermès",
+          "Ares",
+          "Zeus lui-même"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 124
+  },
+  {
+    "id": "FAN_009",
+    "titre": "La Chanson de Roland",
+    "auteur": "Anonyme",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Charlemagne, le grand empereur des Francs, avait conquis presque toute l'Espagne, ne laissant qu'une seule cité aux mains des Sarrasins : Saragosse, une ville puissante protégée par des murs épais et des tours de garde. Le roi Marsile, effrayé par la puissance des Francs, envoya des messagers à Charlemagne pour lui offrir des trésors et se soumettre, mais en réalité, il préparait une embuscade dans le défilé de Roncevaux. Roland, le neveu de Charlemagne et le plus brave des paladins, fut chargé de garder l'arrière-garde de l'armée franque pendant la retraite. Il était accompagné de son ami Olivier, un chevalier sage et prudent, et de l'archevêque Turpin, un homme de foi et de courage. Olivier, inquiet, conseilla à Roland de sonner de son cor, l'Olifant, pour appeler Charlemagne à l'aide, car il pressentait un piège. Mais Roland, fier et téméraire, refusa, ne voulant pas donner l'impression qu'il avait peur. Les Sarrasins surgirent alors des montagnes, une armée immense et féroce, et les Francs se retrouvèrent encerclés dans le défilé étroit. Roland combattit avec une bravoure extraordinaire, brandissant son épée Durandal et taillant en pièces les ennemis qui l'approchaient. Mais les Sarrasins étaient trop nombreux, et un à un, les paladins tombèrent sous les coups. Olivier mourut sous les yeux de Roland, et le chevalier sentit une douleur plus profonde que toutes les blessures de son corps. Voyant que la défaite était inévitable, il décida enfin de sonner de l'Olifant, mais il était trop tard : il n'avait plus la force de souffler dans le cor, et son haleine était mêlée de sang. Charlemagne, entendant le son lointain du cor, fit demi-tour et accourut avec son armée, mais il ne put sauver Roland, qui mourut en regardant vers la France, les mains sur Durandal, le visage tourné vers l'ennemi. L'empereur, fou de douleur, vengea son neveu en écrasant les Sarrasins et en détruisant Saragosse. Mais la gloire de Roland était éternelle, et sa chanson fut chantée pendant des siècles, rappelant aux hommes que le courage et l'honneur valent plus que la vie elle-même. Les bardes célébrèrent son sacrifice dans les cours des rois, et son nom devint synonyme de fidélité absolue. Aujourd'hui encore, son histoire inspire ceux qui doivent choisir entre la prudence et l'honneur, entre la vie sauve et la mort glorieuse.",
+    "quiz": [
+      {
+        "q": "Quelle est la seule cité que Charlemagne n'a pas conquise en Espagne ?",
+        "o": [
+          "Paris",
+          "Saragosse",
+          "Rome",
+          "Constantinople"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du neveu de Charlemagne ?",
+        "o": [
+          "Olivier",
+          "Roland",
+          "Turpin",
+          "Marsile"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la raison pour laquelle Roland refuse de sonner du cor ?",
+        "o": [
+          "Il a perdu son cor",
+          "Il ne veut pas donner l'impression qu'il a peur",
+          "Il ne sait pas jouer",
+          "Il est sourd"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est le nom de l'épée de Roland ?",
+        "o": [
+          "Excalibur",
+          "Durandal",
+          "Joyeuse",
+          "Morglay"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 131
+  },
+  {
+    "id": "FAN_010",
+    "titre": "Les Contes de Perrault",
+    "auteur": "Charles Perrault",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Il était une fois un pauvre bûcheron qui vivait dans une chaumière au bord de la forêt, avec sa femme et ses trois filles. L'aînée était belle mais vaniteuse, la seconde était douce mais paresseuse, et la cadette, que l'on appelait Cendrillon, était douce, patiente et courageuse, malgré les humiliations que lui faisaient subir sa belle-mère et ses sœurs. Chaque jour, elle devait se lever avant l'aube pour allumer le feu, puiser l'eau, faire la cuisine et nettoyer la maison, tandis que ses sœurs restaient au lit, se faisant coiffer et habiller par des servantes. Un soir, le roi annonça un grand bal au palais, et les deux sœurs aînées se préparèrent avec excitation, choisissant les plus belles robes et les plus beaux bijoux. Cendrillon les regarda partir avec tristesse, car elle savait qu'elle n'était pas invitée. Mais sa marraine la fée, qui l'observait depuis longtemps, apparut soudain et lui dit de ne pas pleurer, car elle allait lui permettre d'aller au bal. D'un coup de baguette magique, elle transforma une citrouille en un carrosse doré, des souris en chevaux blancs, un rat en cocher et des lézards en laquais. Elle habilla Cendrillon d'une robe de soie et de dentelle, et lui donna des pantoufles de verre d'une beauté extraordinaire. Mais elle la prévint : à minuit, tout reprendrait sa forme première, et elle devait rentrer avant que le charme ne se brise. Cendrillon arriva au bal, et tous les regards se tournèrent vers elle, éblouis par sa beauté et sa grâce. Le prince, tombé amoureux d'elle, dansa avec elle toute la soirée, sans savoir qui elle était. Mais à minuit, Cendrillon entendit le premier coup de l'horloge et s'enfuit, perdant une de ses pantoufles de verre sur les marches du palais. Le prince, désespéré, fit chercher la propriétaire de la pantoufle dans tout le royaume. Quand il arriva chez le bûcheron, les deux sœurs aînées essayèrent en vain de chausser la pantoufle, mais leurs pieds étaient trop grands. Cendrillon, qui avait été enfermée dans la cuisine, demanda à essayer, et la pantoufle lui alla parfaitement. Le prince reconnut alors la jeune fille du bal, et il l'épousa, tandis que les deux sœurs, punies pour leur méchanceté, durent se contenter d'une vie humble. Cendrillon, devenue reine, fit venir sa marraine la fée et vécut heureuse, entourée de ceux qui l'aimaient vraiment.",
+    "quiz": [
+      {
+        "q": "Quel est le surnom de la cadette des filles du bûcheron ?",
+        "o": [
+          "Blanche-Neige",
+          "Cendrillon",
+          "La Belle",
+          "Aurore"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui transforme la citrouille en carrosse ?",
+        "o": [
+          "La reine",
+          "La marraine la fée",
+          "La belle-mère",
+          "Le prince"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que perd Cendrillon en s'enfuyant du bal ?",
+        "o": [
+          "Son collier",
+          "Sa couronne",
+          "Une pantoufle de verre",
+          "Son manteau"
+        ],
+        "r": 2
+      },
+      {
+        "q": "Comment le prince reconnaît-il Cendrillon ?",
+        "o": [
+          "Par son visage",
+          "Par la pantoufle de verre qui lui va parfaitement",
+          "Par sa voix",
+          "Par son parfum"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 135
+  },
+  {
+    "id": "FAN_011",
+    "titre": "La Belle et la Bête",
+    "auteur": "Gabrielle-Suzanne Barbot de Villeneuve",
+    "genre": "Fantasy",
+    "niveau": "Intermédiaire",
+    "extrait": "Il était une fois un marchand riche et puissant qui avait trois fils et trois filles, toutes belles et intelligentes, mais dont l'aînée se nommait Belle, car sa beauté et sa bonté éclairaient toute la maison. Un jour, le marchand perdit toute sa fortune dans un naufrage, et la famille se retrouva dans une misère noire, obligée de quitter la ville pour s'installer dans une chaumière perdue au bord de la forêt. Les deux fils aînés, accoutumés au luxe, se plaignirent sans cesse, tandis que les sœurs aînées pleuraient leurs robes et leurs bijoux perdus. Belle, elle, accepta son sort avec résignation, et chaque jour, elle allait puiser de l'eau, coupait du bois et soignait les malades du village, sans jamais se plaindre. Un soir, le marchand reçut une lettre qui lui annonçait qu'un de ses navires avait été retrouvé, chargé de marchandises précieuses. Il partit aussitôt pour la ville, promettant à ses enfants de leur rapporter des cadeaux. Les deux fils aînés lui demandèrent des chevaux et des épées, les sœurs des robes et des perles, et Belle ne demanda qu'une rose, car elle aimait les fleurs et qu'aucune ne poussait dans la région où ils vivaient. Le marchand trouva tous les cadeaux, mais sur le chemin du retour, il se perdit dans la forêt et arriva devant un château magnifique, illuminé et silencieux, où il trouva de la nourriture et un lit pour la nuit. En partant le matin, il coupa une rose dans le jardin, et aussitôt, une bête terrible apparut, un monstre couvert de fourrure noire, aux yeux brillants et à la voix de tonnerre. La Bête lui dit qu'il avait volé la rose la plus précieuse du jardin, et qu'il devait payer ce crime de sa vie, ou de celle d'un de ses enfants. Le marchand, terrifié, promit de ramener sa fille Belle pour prendre sa place, et la Bête lui accorda un mois pour revenir. Belle, apprenant la nouvelle, accepta de se rendre au château pour sauver son père, et elle y trouva une prison dorée, pleine de merveilles et de mystères. La Bête, malgré son apparence effrayante, se montra doux et attentionné, et chaque soir, il lui demandait : « Belle, veux-tu m'épouser ? » Mais Belle, effrayée, refusait chaque fois, car elle ne pouvait aimer une bête. Pourtant, peu à peu, elle découvrit que sous la fourrure se cachait un cœur noble et blessé, et que la Bête n'était pas un monstre, mais un prince ensorcelé pour avoir repoussé une fée maléfique. Un soir, Belle regarda la Bête avec amour et lui dit oui, et le charme se brisa : la fourrure tomba, et un prince beau et jeune apparut, libéré de sa malédiction. Ils vécurent heureux, et le château retrouva sa splendeur d'antan.",
+    "quiz": [
+      {
+        "q": "Pourquoi la famille du marchand doit-elle quitter la ville ?",
+        "o": [
+          "À cause d'une guerre",
+          "Parce que le marchand a perdu toute sa fortune",
+          "À cause d'une inondation",
+          "Parce que le roi l'a exilé"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que demande Belle à son père en retour ?",
+        "o": [
+          "Une robe",
+          "Une rose",
+          "Un cheval",
+          "Un château"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la condition posée par la Bête pour épargner le marchand ?",
+        "o": [
+          "Il doit donner tout son argent",
+          "Il doit ramener Belle au château",
+          "Il doit construire un pont",
+          "Il doit trouver un trésor"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi la Bête est-elle ensorcelée ?",
+        "o": [
+          "À cause d'une malédiction pour avoir repoussé une fée",
+          "À cause d'un sortilège de sorcière",
+          "À cause d'une malédiction de roi",
+          "À cause d'un poison"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 159
+  },
+  {
+    "id": "FAN_012",
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Lorsque j'avais six ans, je vis une fois une magnifique image dans un livre sur la forêt vierge qui s'appelait « Histoires vraies ». Elle représentait un serpent boa qui avalait un éléphant. Je copiai ce dessin sur une feuille de papier avec des crayons de couleur, et je montrai mon œuvre aux grandes personnes, en leur demandant si mon dessin leur faisait peur. Elles me répondirent : « Pourquoi aurais-tu peur d'un chapeau ? » Mon dessin ne représentait pas un chapeau, mais un serpent boa qui digérait un éléphant. Je dessinai alors l'intérieur du boa, pour que les grandes personnes puissent comprendre. Elles me conseillèrent de ne plus dessiner de serpents boas, mais de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire. C'est ainsi que je dus abandonner ma carrière de peintre, à l'âge de six ans. Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours leur expliquer. Je dus donc choisir un autre métier, et j'appris à piloter des avions. J'ai volé un peu partout dans le monde, et la géographie m'a été très utile. Je savais reconnaître la Chine, l'Arizona et la France à l'œil, dans un brouillard. Au cours de ma vie, j'eus beaucoup de contacts avec des grandes personnes. Je les vis de très près, et cela ne changea pas beaucoup mon opinion. Quand je rencontrais une grande personne qui me semblait un peu lucide, je faisais l'expérience avec elle du dessin numéro un, que j'avais conservé. Je voulais savoir si elle comprenait vraiment. Mais elle me répondait toujours : « C'est un chapeau. » Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d'étoiles. Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates. Et la grande personne était très contente de connaître un homme aussi raisonnable. Je vivais ainsi, seul, sans personne avec qui parler véritablement, jusqu'au jour où, dans le désert du Sahara, mon avion tomba en panne. J'étais loin de toute habitation, avec un mécanicien qui était gravement malade. Il n'y avait ni eau ni nourriture, et je craignais de mourir de soif. Mais, le matin du quatrième jour, une petite voix me réveilla : « S'il vous plaît… dessine-moi un mouton ! » Je levai les yeux et je vis un petit bonhomme extraordinaire que je n'oublierai jamais.",
+    "quiz": [
+      {
+        "q": "Que représentait le dessin que l'enfant montrait aux grandes personnes ?",
+        "o": [
+          "Un chapeau",
+          "Un serpent boa qui avalait un éléphant",
+          "Un avion",
+          "Une maison"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi l'enfant a-t-il abandonné sa carrière de peintre ?",
+        "o": [
+          "Parce qu'il n'aimait plus dessiner",
+          "Parce que les grandes personnes ne comprenaient pas son dessin",
+          "Parce qu'il était trop pauvre",
+          "Parce qu'il est devenu pilote"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel métier l'enfant a-t-il choisi ensuite ?",
+        "o": [
+          "Pilote d'avion",
+          "Géographe",
+          "Professeur",
+          "Médecin"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Où l'avion du narrateur tombe-t-il en panne ?",
+        "o": [
+          "Dans la forêt",
+          "Dans le désert du Sahara",
+          "Sur la Lune",
+          "Au bord de la mer"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 139
+  },
+  {
+    "id": "FAN_013",
+    "titre": "Les Maîtres des rêves",
+    "auteur": "Jean-Louis Fetjaine",
+    "genre": "Fantasy",
+    "niveau": "Intermédiaire",
+    "extrait": "Dans les montagnes du Morvan, là où les forêts sont épaisses et les villages isolés, vivait un vieil homme que l'on appelait le Maître des Rêves. Il habitait une maison de pierre au toit de chaume, entourée de jardins où poussaient des plantes aux vertus étranges : la sauge des songes, la menthe des souvenirs et la verveine des visions. Les villageois venaient le voir la nuit, quand ils ne pouvaient dormir, hantés par des cauchemars ou tourmentés par des rêves trop vifs. Le Maître les écoutait avec patience, puis il leur préparait une infusion de ses plantes magiques et leur parlait doucement, jusqu'à ce que leurs yeux se ferment et que leur esprit s'apaise. Un soir, une jeune fille nommée Aélis arriva chez lui, les yeux rougis par les larmes. Elle avait rêvé chaque nuit de la même chose : un château de glace, une reine au cœur froid et un prince prisonnier des ténèbres. Le Maître reconnut immédiatement ce rêve : il venait du monde des ombres, un lieu où les cauchemars prenaient vie et où les rêveurs pouvaient se perdre à jamais. Il expliqua à Aélis que son rêve n'était pas un simple songe, mais un appel : le prince était un gardien des portes, et la reine de glace cherchait à ouvrir le passage entre les deux mondes pour envahir le nôtre. Aélis, courageuse, décida d'entrer dans le monde des ombres pour sauver le prince et fermer les portes. Le Maître lui donna trois objets : une bougie qui ne s'éteignait jamais, un miroir qui montrait la vérité et une épée de lumière forgée dans les rêves des enfants. Aélis traversa le seuil et se retrouva dans un paysage de cristal et de brume, où les ombres dansaient comme des spectres. Elle affronta la reine de glace dans un combat de volonté, et ce fut sa propre lumière intérieure qui la vainquit, car la reine ne pouvait supporter la chaleur d'un cœur pur. Le prince fut libéré, les portes furent fermées, et Aélis revint dans le Morvan, sauvée par le courage et l'amitié du Maître des Rêves. Le vieil homme sourit, car il savait que les rêves, même les plus sombres, pouvaient être vaincus par ceux qui osaient les affronter.",
+    "quiz": [
+      {
+        "q": "Où habite le Maître des Rêves ?",
+        "o": [
+          "Dans une ville",
+          "Dans les montagnes du Morvan",
+          "Au bord de la mer",
+          "Dans une forêt enchantée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelles plantes magiques poussent dans les jardins du Maître ?",
+        "o": [
+          "Des roses et des lys",
+          "La sauge des songes, la menthe des souvenirs et la verveine des visions",
+          "Des orchidées et des tulipes",
+          "Des herbes médicinales ordinaires"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que rêve Aélis chaque nuit ?",
+        "o": [
+          "D'un château de glace et d'un prince prisonnier",
+          "D'un trésor",
+          "D'un voyage en mer",
+          "D'une fête"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Quels trois objets le Maître donne-t-il à Aélis ?",
+        "o": [
+          "Une épée, un bouclier et une lance",
+          "Une bougie, un miroir et une épée de lumière",
+          "Un livre, une plume et un encrier",
+          "Un anneau, un collier et une couronne"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 129
+  },
+  {
+    "id": "FAN_014",
+    "titre": "Le Dernier Magicien",
+    "auteur": "Fabien Cerutti",
+    "genre": "Fantasy",
+    "niveau": "Avancé",
+    "extrait": "Dans les ruelles sombres de la cité de Lys, où les lanternes vacillaient et où les ombres semblaient avoir une vie propre, vivait un homme que l'on appelait le Dernier Magicien. Son vrai nom était Géraud, mais personne ne s'en souvenait plus, car les mots ont le pouvoir de disparaître quand on ne les prononce plus. Géraud était le dernier détenteur de l'Art ancien, la magie qui tissait le monde et qui reliait les hommes aux étoiles. Mais les temps avaient changé : les rois avaient interdit la magie, les sorciers avaient été chassés ou tués, et les livres de sorts brûlés sur les places publiques. Géraud vivait dans une tour abandonnée, au sommet d'une colline, entouré de grimoires poussiéreux et d'objets enchantés qu'il avait sauvés des flammes. Chaque nuit, il levait les yeux vers le ciel et invoquait les esprits des anciens magiciens, espérant recevoir un signe, une guidance, une lueur dans l'obscurité. Un soir, une jeune femme frappa à sa porte, une étrangère vêtue de noir, les yeux brillants d'une intelligence farouche. Elle se nommait Isabeau, et elle était venue lui demander de l'aide : son frère avait été enlevé par les Inquisiteurs, ces hommes qui traquaient les derniers magiciens pour les livrer au roi. Géraud hésita, car il savait que sortir de sa tour signifiait risquer sa vie, mais il vit dans les yeux d'Isabeau la même flamme qui l'avait animé autrefois. Il accepta de l'aider, et ensemble, ils descendirent dans les souterrains de la cité, où les Inquisiteurs menaient leurs expériences interdites. Ils découvrirent que le frère d'Isabeau n'était pas un simple prisonnier : il était le porteur d'un secret ancien, une formule capable de restaurer la magie dans le monde. Géraud comprit alors que sa solitude prenait fin, et que le Dernier Magicien n'était peut-être pas le dernier, mais le premier d'une nouvelle lignée. Dans les profondeurs de la cité, il affronta le Grand Inquisiteur dans un duel de volonté, et ce fut la lumière de l'Art ancien qui le vainquit, libérant les prisonniers et ouvrant la voie vers un avenir où la magie pourrait renaître. Géraud et Isabeau remontèrent à la surface, et sous les étoiles, ils firent le serment de reconstruire ce qui avait été détruit, car la magie, comme le courage, ne meurt jamais vraiment.",
+    "quiz": [
+      {
+        "q": "Quel est le surnom de Géraud ?",
+        "o": [
+          "Le Premier Magicien",
+          "Le Dernier Magicien",
+          "Le Grand Sorcier",
+          "Le Gardien des Sorts"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment les rois ont-ils traité la magie ?",
+        "o": [
+          "Ils l'ont encouragée et célébrée",
+          "Ils l'ont interdite et en ont brûlé les livres de sorts",
+          "Ils l'ont laissée libre",
+          "Ils l'ont enseignée aux enfants"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la particularité du frère d'Isabeau ?",
+        "o": [
+          "Il est un roi",
+          "Il est le porteur d'une formule capable de restaurer la magie",
+          "Il est un Inquisiteur",
+          "Il est un dragon"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que font Géraud et Isabeau à la fin de l'extrait ?",
+        "o": [
+          "Ils s'enfuient",
+          "Ils font le serment de reconstruire la magie",
+          "Ils se battent",
+          "Ils dorment"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 132
+  },
+  {
+    "id": "FAN_015",
+    "titre": "La Horde du Contrevent",
+    "auteur": "Alain Damasio",
+    "genre": "Fantasy",
+    "niveau": "Avancé",
+    "extrait": "Le vent était le seul maître du monde, un vent violent et incessant qui soufflait depuis des siècles, sculptant les paysages et modelant les destins des hommes. La Horde du Contrevent était une communauté de marcheurs qui avaient choisi de lutter contre lui, de traverser les terres balayées par la tempête pour atteindre l'Extrême-Amont, la source mystérieuse d'où le vent semblait jaillir. Ils marchaient en formation serrée, le corps penché en avant, les pieds ancrés dans le sol, et chaque pas était une victoire sur la force qui voulait les renverser. Le chef de la Horde se nommait Sov, un homme au visage dur, marqué par des années de lutte, mais dont les yeux brillaient d'une intelligence vive et d'une détermination sans faille. Il était accompagné de Caracole, le fou du groupe, qui parlait aux étoiles et qui voyait des signes dans les nuages ; de Pel, la jeune femme au cœur de pierre, qui ne pleurait jamais et qui combattait avec une rage silencieuse ; et de Frohm, le scribe, qui notait chaque jour la marche de la Horde dans un carnet usé. Chaque marcheur portait en lui une blessure ancienne, un souvenir douloureux qui le poussait à avancer malgré le vent. Sov avait perdu sa famille dans une tempête, Caracole avait été abandonné enfant dans le désert, Pel avait vu son village détruit par un ouragan, et Frohm avait été privé de la parole par un sortilège ancien. Mais ensemble, ils formaient une famille, une horde soudée par le vent et par la volonté de ne pas céder. Un jour, alors qu'ils traversaient la plaine des Sables Mouvants, ils rencontrèrent un homme étrange, vêtu de blanc, qui marchait en sens inverse du vent, comme s'il le défiait. Il se nommait l'Éclaireur, et il leur annonça que l'Extrême-Amont était plus proche qu'ils ne le croyaient, mais que le chemin était gardé par les Oiseaux de Tempête, des créatures gigantesques qui dévoraient les marcheurs imprudents. La Horde, sans hésiter, poursuivit sa route, sachant que chaque pas les rapprochait de leur but, et que le vent, aussi violent fût-il, ne pourrait jamais briser leur volonté de vivre et de se battre.",
+    "quiz": [
+      {
+        "q": "Quel est le seul maître du monde dans cet extrait ?",
+        "o": [
+          "Le roi",
+          "Le vent",
+          "Le soleil",
+          "La mer"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le but de la Horde du Contrevent ?",
+        "o": [
+          "Fuir le vent",
+          "Atteindre l'Extrême-Amont, la source du vent",
+          "Détruire le vent",
+          "Vivre dans le vent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le chef de la Horde ?",
+        "o": [
+          "Caracole",
+          "Sov",
+          "Pel",
+          "Frohm"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que gardent les Oiseaux de Tempête selon l'Éclaireur ?",
+        "o": [
+          "Un trésor",
+          "Le chemin vers l'Extrême-Amont",
+          "Un secret",
+          "Un village"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 124
+  },
+  {
+    "id": "FAN_016",
+    "titre": "Les Fables",
+    "auteur": "Jean de La Fontaine",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Maître Corbeau, sur un arbre perché, tenait en son bec un fromage. Maître Renard, par l'odeur alléché, lui tint à peu près ce langage : « Hé ! bonjour, Monsieur du Corbeau. Que vous êtes joli ! Que vous me semblez beau ! Sans mentir, si votre ramage se rapporte à votre plumage, vous êtes le phénix des hôtes de ces bois. » À ces mots, le Corbeau ne se sent pas de joie, et pour faire montre de sa belle voix, il ouvre un large bec, laisse tomber son fromage. Le Renard s'en saisit, et dit : « Mon bon Monsieur, apprenez que tout flatteur vit aux dépens de celui qui l'écoute. Cette leçon vaut bien un fromage, sans doute. » Les animaux, depuis ce jour, se méfièrent des paroles douces et des compliments trop flatteurs, car ils comprirent que la flatterie était un piège tendu par les rusés pour voler ce qui appartenait aux autres. Le Corbeau, honteux, remonta sur son arbre, mais il ne dit plus un mot, et il apprit à garder précieusement ce qu'il possédait. La Fontaine, qui observait les animaux et les hommes, écrivit cette fable pour rappeler que la vanité est une faiblesse que les malins exploitent sans pitié. Il ajouta que la sagesse consistait à écouter les louanges avec prudence, et à ne jamais laisser son orgueil prendre le dessus sur son bon sens. Les enfants, qui écoutaient l'histoire, rirent du Corbeau, mais les adultes, qui avaient déjà été trompés par des renards en habits humains, comprirent la leçon et la gardèrent en leur cœur. Car la fable, comme un miroir, montre aux hommes leurs défauts et leurs faiblesses, et les invite à se corriger avant qu'il ne soit trop tard. Et depuis lors, chaque fois qu'un renard parle avec trop de douceur, les corbeaux se souviennent de la leçon et serrent leur bec sur leur proie. Cette histoire simple traverse les siècles sans vieillir, parce qu'elle parle à chacun de nous, quel que soit son âge. Elle nous rappelle que les apparences sont souvent trompeuses et que la prudence est la meilleure protectrice de nos biens les plus précieux.",
+    "quiz": [
+      {
+        "q": "Que tient le Corbeau dans son bec ?",
+        "o": [
+          "Un ver",
+          "Un fromage",
+          "Un pain",
+          "Un fruit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait le Renard pour obtenir le fromage ?",
+        "o": [
+          "Il menace le Corbeau",
+          "Il le flatte avec des compliments",
+          "Il lui donne un autre fromage",
+          "Il s'enfuit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait le Corbeau quand il entend les compliments ?",
+        "o": [
+          "Il s'envole",
+          "Il ouvre le bec et laisse tomber le fromage",
+          "Il attaque le Renard",
+          "Il cache le fromage"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la morale de cette fable ?",
+        "o": [
+          "Il faut être gentil",
+          "Tout flatteur vit aux dépens de celui qui l'écoute",
+          "Il faut partager",
+          "Il faut se méfier des fromages"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 123
+  },
+  {
+    "id": "FAN_017",
+    "titre": "Les Aventures de Pinocchio",
+    "auteur": "Carlo Collodi",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Il était une fois une pièce de bois qui parlait et qui riait, et qui était tellement espiègle que personne ne pouvait la faire tenir en place. Le menuisier Maestro Cherry trouva ce morceau de bois dans la cour de sa maison, et quand il voulut le scier pour en faire le pied d'une table, il entendit une petite voix qui disait : « Épargne-moi, je t'en prie ! » Maestro Cherry, effrayé, regarda le bois de tous côtés, mais il ne vit personne, et il se dit qu'il devait avoir rêvé. Il prit sa hache et allait frapper le bois, quand la voix s'écria de nouveau : « Arrête ! Tu me fais mal ! » Cette fois, le menuisier comprit que le bois était vivant, et il décida de le donner à son ami Geppetto, un pauvre vieillard qui voulait fabriquer une marionnette. Geppetto rapporta le bois chez lui et se mit à travailler avec amour, taillant, sculptant et polissant le bois jusqu'à ce qu'il prît la forme d'un petit garçon. Il lui donna le nom de Pinocchio, et quand il eut fini, il lui dit : « Maintenant, tu es mon fils, et je t'élèverai comme un vrai enfant. » Mais Pinocchio, dès qu'il eut des pieds, s'enfuit de la maison, courant dans les rues du village, sans écouter les conseils de Geppetto. Il rencontra un homme qui lui promit de lui apprendre à gagner de l'argent, et il le suivit jusqu'à une île merveilleuse où les enfants ne travaillaient jamais et où ils jouaient du matin au soir. Mais cette île était un piège : chaque soir, les enfants se transformaient en ânes, et Pinocchio, à son tour, devint un âne avec de longues oreilles et un braiment rauque. Il fut vendu à un cirque, où il devait sauter à travers des cercles de feu, mais un soir, il tomba et se blessa. Le directeur du cirque, voyant qu'il était inutile, le jeta à la mer, et Pinocchio, attaché à un poids, coula au fond de l'eau. Mais le miracle se produisit : la fée aux cheveux bleus, qui l'observait depuis le début, le transforma en vrai petit garçon, et il retrouva Geppetto, qui l'attendait avec amour. Pinocchio comprit alors que la meilleure chose du monde était d'avoir un père qui vous aime, et il promit d'être sage et obéissant pour le reste de sa vie.",
+    "quiz": [
+      {
+        "q": "Quelle est la particularité du morceau de bois trouvé par Maestro Cherry ?",
+        "o": [
+          "Il est doré",
+          "Il parle et rit",
+          "Il est magique",
+          "Il est très lourd"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui fabrique la marionnette Pinocchio ?",
+        "o": [
+          "Maestro Cherry",
+          "Geppetto",
+          "Le roi",
+          "La fée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que se passe-t-il aux enfants sur l'île merveilleuse ?",
+        "o": [
+          "Ils deviennent des princes",
+          "Ils se transforment en ânes",
+          "Ils grandissent trop vite",
+          "Ils disparaissent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui transforme Pinocchio en vrai petit garçon ?",
+        "o": [
+          "Geppetto",
+          "La fée aux cheveux bleus",
+          "Le roi",
+          "Le cirque"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 138
+  },
+  {
+    "id": "FAN_018",
+    "titre": "L'Apprenti d'Avalon",
+    "auteur": "Jean-Louis Fetjaine",
+    "genre": "Fantasy",
+    "niveau": "Intermédiaire",
+    "extrait": "Dans les brumes de l'île de Bretagne, là où les chênes centenaires murmurent des secrets oubliés et où les rivières brillent d'une lumière argentée, vivait un jeune homme nommé Kerwan. Il était le fils d'un forgeron, et il passait ses journées à frapper le fer sur l'enclume, à écouter le chant du métal et à rêver d'aventures. Un matin, un vieil homme vêtu de gris frappa à la porte de la forge, et il demanda à parler à Kerwan en secret. Il se présenta comme Merlin, l'enchanteur de la cour du roi Arthur, et il dit au jeune forgeron qu'il avait été choisi pour une mission importante : il devait se rendre à Avalon, l'île des pommes, pour y recevoir une épée magique capable de vaincre les ténèbres qui menaçaient le royaume. Kerwan, ébloui et effrayé, accepta sans hésiter, car il savait que c'était la chance de sa vie. Merlin lui donna une carte gravée sur écorce de chêne, et il lui dit de suivre la voie des étoiles, car les chemins ordinaires ne menaient pas à Avalon. Le voyage fut long et périlleux : Kerwan traversa des marécages hantés, des forêts de hêtres où les arbres marchaient la nuit, et des montagnes où les dragons gardaient des trésors anciens. Il rencontra sur sa route une femme mystérieuse, la Dame du Lac, qui lui donna un bouclier d'argent et lui révéla que l'épée d'Avalon ne pouvait être maniée que par un cœur pur. Kerwan comprit alors que sa force ne venait pas de ses bras, mais de sa bonté et de sa loyauté. Enfin, il arriva sur les rives d'Avalon, une île de lumière et de paix, où les pommes d'or poussaient sur des arbres aux feuilles d'argent. La gardienne de l'île, une femme aux cheveux blancs et aux yeux profonds, lui tendit l'épée, et Kerwan sentit une chaleur envahir son corps, comme si le métal était vivant. Il retourna ensuite vers le royaume, et avec l'épée d'Avalon, il vainquit les ombres et rendit la paix à la Bretagne. Le roi Arthur, reconnaissant, le fit chevalier de la Table Ronde, et Kerwan devint un héros dont on chantait les exploits dans toutes les tavernes du royaume.",
+    "quiz": [
+      {
+        "q": "Quel est le métier de Kerwan au début de l'extrait ?",
+        "o": [
+          "Forgeron",
+          "Chevalier",
+          "Magicien",
+          "Roi"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Qui vient chercher Kerwan pour une mission ?",
+        "o": [
+          "Le roi Arthur",
+          "Merlin, l'enchanteur",
+          "La Dame du Lac",
+          "Un dragon"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où Kerwan doit-il se rendre pour recevoir l'épée magique ?",
+        "o": [
+          "À Camelot",
+          "À Avalon",
+          "Dans une forêt",
+          "Au sommet d'une montagne"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la condition pour manier l'épée d'Avalon ?",
+        "o": [
+          "Être très fort",
+          "Avoir un cœur pur",
+          "Être un roi",
+          "Être un magicien"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 126
+  },
+  {
+    "id": "FAN_019",
+    "titre": "Le Monde de Narnia",
+    "auteur": "C.S. Lewis",
+    "genre": "Fantasy",
+    "niveau": "Intermédiaire",
+    "extrait": "Quatre enfants, Peter, Susan, Edmund et Lucy, furent envoyés chez un vieux professeur pour échapper aux bombardements de la guerre. La maison du professeur était immense, pleine de couloirs sombres, de tapis épais et de portraits aux regards inquiétants. Un jour, en jouant à cache-cache, Lucy découvrit une armoire ancienne dans une pièce vide, et en poussant la porte, elle se retrouva dans un monde enchanté couvert de neige éternelle. Elle marcha pendant des heures à travers une forêt de pins gelés, jusqu'à ce qu'elle rencontre un faune nommé Monsieur Tumnus, qui l'invita chez lui pour le thé. Tumnus lui expliqua qu'elle était entrée dans le pays de Narnia, un royaume autrefois heureux et verdoyant, maintenant prisonnier de la Sorcière blanche qui avait fait tomber une malédiction de cent années d'hiver sans Noël. Lucy retourna chez elle et raconta son aventure à ses frères et sœurs, mais personne ne la crut, jusqu'à ce que Edmund découvre à son tour l'armoire et rencontre la Sorcière elle-même. La Sorcière, rusée et cruelle, lui promit la richesse et le pouvoir s'il lui amenait ses frères et sœurs, et Edmund, séduit par cette tentation, accepta de trahir les siens. Mais quand il revint avec Peter, Susan et Lucy, la vérité éclata, et les enfants comprirent qu'ils devaient affronter la Sorcière pour libérer Narnia. Ils rencontrèrent alors Aslan, le grand lion, le roi de toutes les bêtes, dont le rugissement faisait trembler les montagnes et dont le souffle portait la promesse du printemps. Aslan leur révéla qu'ils étaient les fils et filles du roi, les véritables souverains de Narnia, et qu'ils devaient combattre pour reprendre leur trône. Les enfants s'entraînèrent avec courage, apprenant à manier l'épée et le bouclier, et quand l'armée de la Sorcière arriva, ils firent face avec une détermination qui étonna même les créatures de Narnia. Au cœur de la bataille, Aslan se sacrifia pour sauver Edmund, mais la magie du royaume était plus forte que la mort, et le lion revint, plus puissant que jamais. Avec son aide, les enfants vainquirent la Sorcière, et le printemps revint enfin sur Narnia, apportant avec lui la lumière, la joie et la liberté.",
+    "quiz": [
+      {
+        "q": "Pourquoi les enfants sont-ils envoyés chez le professeur ?",
+        "o": [
+          "Pour les vacances",
+          "Pour échapper aux bombardements de la guerre",
+          "Pour étudier",
+          "Pour visiter la maison"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le premier enfant à découvrir l'armoire ?",
+        "o": [
+          "Peter",
+          "Lucy",
+          "Susan",
+          "Edmund"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle malédiction la Sorcière blanche a-t-elle fait tomber sur Narnia ?",
+        "o": [
+          "Un hiver éternel sans Noël",
+          "Une malédiction de ténèbres",
+          "Une malédiction de silence",
+          "Une malédiction de feu"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Qui est Aslan ?",
+        "o": [
+          "Un faune",
+          "Le grand lion, roi de toutes les bêtes",
+          "Un magicien",
+          "Un guerrier"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 124
+  },
+  {
+    "id": "FAN_020",
+    "titre": "Les Voyages de Gulliver : le chirurgien voyageur",
+    "auteur": "Jonathan Swift",
+    "genre": "Fantasy",
+    "niveau": "Débutant",
+    "extrait": "Lemuel Gulliver était un chirurgien anglais qui aimait voyager et découvrir de nouveaux pays. Un jour, il partit pour un long voyage sur les mers, mais son navire fit naufrage sur une côte inconnue, et il se retrouva seul, épuisé, sur une plage de sable. Il marcha pendant des heures, cherchant de l'aide, quand il s'aperçut que les herbes et les fleurs étaient gigantesques, et qu'un fourmi aurait été aussi grande qu'un chien pour lui. Il comprit alors qu'il était arrivé dans un pays de géants, et il se cacha dans les blés pour éviter d'être découvert. Bientôt, un géant de soixante mètres de haut le trouva, et le prit délicatement entre ses doigts comme on prend un petit animal. Le géant, qui se nommait le fermier, l'emmena chez lui et le présenta à sa femme et à ses enfants, qui le regardèrent avec curiosité. Gulliver, effrayé mais résigné, se laissa examiner, et il comprit que les géants étaient des gens paisibles, qui ne lui voulaient pas de mal. Le fermier le mit dans une petite boîte, et l'emmena au marché, où il le montra contre de l'argent. Gulliver devint une attraction, et les gens venaient de loin pour voir le petit homme. Mais le roi du pays, ayant entendu parler de lui, demanda à le rencontrer, et il l'interrogea longuement sur son pays, ses coutumes et ses institutions. Gulliver lui parla de l'Angleterre, de ses rois, de ses guerres et de ses lois, et le roi l'écouta avec attention, puis il secoua la tête et dit que son pays était bien petit et bien pauvre, comparé à la grandeur et à la sagesse des géants. Gulliver resta chez les géants pendant plusieurs mois, apprenant leur langue et leurs coutumes, et il finit par s'attacher à eux. Mais un jour, un aigle géant enleva la boîte où il vivait et la laissa tomber dans la mer, et Gulliver fut recueilli par un navire anglais qui le ramena chez lui. Il raconta son aventure à ses amis, mais personne ne le crut, car qui aurait pu croire qu'il avait rencontré des géants de soixante mètres de haut ? Pourtant, Gulliver savait que son voyage était vrai, et qu'il avait découvert un monde où les hommes n'étaient que de petites créatures, perdues dans l'immensité de la nature.",
+    "quiz": [
+      {
+        "q": "Quel est le métier de Gulliver ?",
+        "o": [
+          "Pirate",
+          "Chirurgien",
+          "Marchand",
+          "Pêcheur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où Gulliver fait-il naufrage ?",
+        "o": [
+          "Sur une île de pirates",
+          "Sur une côte habitée par des géants",
+          "Sur une île déserte",
+          "Sur une île de nains"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la taille du géant qui trouve Gulliver ?",
+        "o": [
+          "Six mètres",
+          "Soixante mètres",
+          "Cent mètres",
+          "Dix mètres"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Gulliver quitte-t-il le pays des géants ?",
+        "o": [
+          "Il s'enfuit à la nage",
+          "Un aigle géant enlève sa boîte et la laisse tomber dans la mer",
+          "Il est libéré par le roi",
+          "Il construit un bateau"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 132
+  },
+  {
+    "id": "HOR_001",
+    "titre": "Le Horla",
+    "auteur": "Guy de Maupassant",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "Je suis rentré chez moi avec une impression de malaise que je ne parvenais pas à expliquer. Depuis plusieurs jours, je sentais une présence invisible qui semblait m'observer sans cesse, une présence que je ne pouvais ni voir ni toucher, mais dont l'existence me pesait comme un fardeau invisible. Chaque matin, en me réveillant, je trouvais des traces étranges sur les meubles, comme si quelqu'un avait passé la nuit dans ma chambre sans que je m'en aperçoive. Les verres que je laissais sur la table étaient déplacés, les portes que je fermais à clé se retrouvaient entrouvertes, et je sursautais au moindre bruit, persuadé qu'une respiration étrangère venait de se faire entendre derrière moi. Je consultai plusieurs médecins, qui me parlèrent de hallucinations, de fatigue nerveuse, d'imagination trop vive. Rien de tout cela ne me satisfaisait, car je savais que quelque chose d'anormal se produisait réellement. Un soir, alors que je dînais seul dans ma salle à manger, je vis mon verre d'eau se soulever lentement au-dessus de la table, sans que personne ne le touchât. Il resta suspendu dans l'air pendant quelques secondes, puis retomba et se brisa sur le sol dans un fracas qui me glaça le sang. Je compris alors que je n'étais pas fou, que quelque chose d'invisible habitait ma maison, et que cette chose me regardait, me suivait, me possédait peu à peu sans que je puisse m'y opposer. Je passai la nuit à écrire ces lignes, tremblant de peur, car je sentais sa présence derrière mon épaule, si proche que je pouvais presque entendre sa respiration silencieuse. Le Horla existe, je le sais maintenant, et il me regarde en ce moment même, attendant le moment où il pourra s'emparer de mon esprit et de mon corps pour toujours. Je ne dors plus, je n'ose plus fermer les yeux, car je sens qu'il se rapproche, qu'il attend mon sommeil pour mieux me dominer. Cette certitude m'étreint comme un froid mortel dont rien ne peut me libérer. Je continue d'écrire, la plume tremblante, car je sais que bientôt il sera trop tard, et que ma raison elle-même appartiendra désormais à cette chose qui m'observe sans relâche dans l'ombre de ma propre chambre.",
+    "quiz": [
+      {
+        "q": "Quelle sensation étrange habite le narrateur depuis plusieurs jours ?",
+        "o": [
+          "Une douleur physique constante",
+          "une présence invisible qui semblait m'observer",
+          "Des cauchemars répétés",
+          "Une perte de mémoire progressive"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que trouvent les médecins comme explication à son état ?",
+        "o": [
+          "Une maladie contagieuse",
+          "de hallucinations, de fatigue nerveuse",
+          "Un empoisonnement",
+          "Un sortilège"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voit le narrateur se soulever au-dessus de la table ?",
+        "o": [
+          "Une assiette",
+          "mon verre d'eau",
+          "Un couteau",
+          "Une bougie"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel nom le narrateur donne-t-il à l'entité invisible ?",
+        "o": [
+          "Le Fantôme",
+          "Le Horla",
+          "L'Ombre",
+          "Le Démon"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 126
+  },
+  {
+    "id": "HOR_002",
+    "titre": "La Peur",
+    "auteur": "Guy de Maupassant",
+    "genre": "Horreur",
+    "niveau": "Débutant",
+    "extrait": "Nous traversions la forêt de Marly en voiture, par une nuit noire et sans lune. Le cocher, un vieil homme expérimenté, semblait pourtant inquiet, et il serrait les rênes avec une force inhabituelle. Le vent soufflait entre les arbres, faisant craquer les branches mortes et soulevant des tourbillons de feuilles sèches qui dansaient autour de nous comme des spectres. Soudain, le cheval s'arrêta net, refusant d'avancer, et nous entendîmes un bruit étrange venant des profondeurs du bois. C'était comme un gémissement lointain, à la fois humain et animal, qui semblait venir de partout à la fois. Le cocher devint pâle et murmura que cet endroit était maudit, que des voyageurs avaient déjà disparu ici sans laisser de traces. Je sentis un frisson me parcourir l'échine, et je regardai par la vitre, mais je ne vis rien d'autre que l'obscurité épaisse et les ombres mouvantes des arbres. Le cheval se mit à trembler, et ses naseaux se dilatèrent comme s'il sentait un danger invisible. Le cocher fouetta l'animal, qui repartit au galop, mais je jurai avoir aperçu une forme blanche se détacher du tronc d'un chêne et nous suivre pendant quelques instants. Nous ne nous arrêtâmes pas avant d'avoir atteint le village, et je n'oublierai jamais cette course effrénée à travers la nuit, avec cette peur glacée qui m'étreignait le cœur et ne me quitta pas de toute la soirée. Le lendemain, je revins sur place avec un gendarme, mais nous ne trouvâmes aucune trace, aucun indice, rien que le silence lourd de la forêt. Pourtant, je savais ce que j'avais vu, et cette certitude m'empêcha de dormir pendant des semaines entières, hanté par la forme blanche qui marchait entre les arbres. Chaque nuit, dans mon sommeil, je revoyais ses contours vagues se découper dans l'ombre, et je me réveillais en sueur, persuadé qu'elle se tenait au pied de mon lit, m'observant avec une patience qui ne connaîtrait jamais de fin.",
+    "quiz": [
+      {
+        "q": "Où se déroule la scène du narrateur ?",
+        "o": [
+          "Dans une ville éclairée",
+          "la forêt de Marly",
+          "Sur une plage déserte",
+          "Dans un château abandonné"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi le cheval s'arrête-t-il soudain ?",
+        "o": [
+          "Il est fatigué",
+          "un bruit étrange venant des profondeurs du bois",
+          "Il voit un obstacle",
+          "Il a soif"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que dit le cocher de cet endroit ?",
+        "o": [
+          "Qu'il est magnifique",
+          "cet endroit était maudit",
+          "Qu'il est sûr",
+          "Qu'il est interdit d'y circuler"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que croit apercevoir le narrateur pendant la fuite ?",
+        "o": [
+          "Un loup",
+          "une forme blanche se détacher du tronc d'un chêne",
+          "Un incendie",
+          "Un groupe d'hommes"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 110
+  },
+  {
+    "id": "HOR_003",
+    "titre": "La Vénus d'Ille",
+    "auteur": "Prosper Mérimée",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "J'arrivai au village d'Ille par une après-midi d'été, et je fus surpris de trouver une si petite ville au pied de ces montagnes sauvages. Le curé du lieu, homme savant et curieux, me fit visiter l'église ancienne qui dominait la place, et c'est là que je la vis pour la première fois : une statue de Vénus en marbre noir, d'une beauté étrange et troublante. Elle représentait la déesse dans une pose fière, le bras levé comme si elle allait frapper, et son visage portait une expression que je ne sus définir, entre le défi et la menace. Le curé me raconta que cette statue avait été trouvée dans les ruines d'une villa romaine, et que les habitants du village la craignaient depuis toujours. On disait qu'elle avait été fabriquée par un artiste maudit, et qu'elle possédait un pouvoir étrange sur ceux qui la regardaient trop longtemps. Je me moquai de ces superstitions, mais je sentis malgré moi un malaise grandir en moi tandis que je contemplais les yeux de pierre qui semblaient me suivre dans la nef sombre. Ce soir-là, je fis un rêve étrange : la Vénus descendait de son piédestal et venait se placer au pied de mon lit, et je sentais son souffle froid sur mon visage. Je me réveillai en sursaut, le cœur battant à coups précipités, et je vis par la fenêtre une lueur blanche qui se déplaçait dans le jardin. Le lendemain, on me dit que le mari de la femme qui m'avait accueilli avait été retrouvé mort dans son sommeil, le visage marqué d'une empreinte de main brûlante, comme si quelqu'un l'avait frappé avec un fer rouge. Je compris alors que la Vénus d'Ille n'était pas une simple statue, et je quittai le village sans attendre, emportant avec moi le souvenir de ces yeux de marbre qui m'avaient regardé avec une intensité que je n'oublierais jamais, et la certitude que la pierre elle-même pouvait haïr. Je partis avant l'aube, sans oser me retourner, et je sentis longtemps, sur ma nuque, le poids de ce regard de marbre qui ne me quittait pas, comme une condamnation silencieuse et éternelle.",
+    "quiz": [
+      {
+        "q": "Que trouve le narrateur dans l'église d'Ille ?",
+        "o": [
+          "Un tableau ancien",
+          "une statue de Vénus en marbre noir",
+          "Un trésor caché",
+          "Un livre maudit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que raconte le curé au sujet de la statue ?",
+        "o": [
+          "Qu'elle porte bonheur",
+          "qu'elle avait été fabriquée par un artiste maudit",
+          "Qu'elle est sans valeur",
+          "Qu'elle vient d'être restaurée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voit le narrateur par la fenêtre après son rêve ?",
+        "o": [
+          "Un incendie",
+          "une lueur blanche qui se déplaçait dans le jardin",
+          "Un voleur",
+          "Un animal"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment meurt le mari de l'hôtesse ?",
+        "o": [
+          "Il se noie",
+          "le visage marqué d'une empreinte de main brûlante",
+          "Il est poignardé",
+          "Il meurt de vieillesse"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 123
+  },
+  {
+    "id": "HOR_004",
+    "titre": "Le Chat noir",
+    "auteur": "Edgar Allan Poe",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "Dès mon enfance, j'ai été remarqué pour la douceur de mon caractère et mon amour des animaux. Mes parents m'avaient donné plusieurs compagnons à quatre pattes, et je passais la plus grande partie de mon temps avec eux, trouvant dans leur présence une joie que rien d'autre ne pouvait me procurer. Parmi eux, il y avait un chat noir magnifique, que j'appelais Plutus, et qui était devenu mon favori. Mais avec les années, je devins plus sombre, plus irritable, et je commençai à maltraiter les animaux sans raison. Un soir, sous l'emprise de l'alcool, je coupai l'œil de Plutus avec un canif, et je le chassai de la maison. Le lendemain, dans un accès de rage folle, je pendis le chat à une branche dans le jardin. Cette nuit-là, la maison prit feu, et je ne sauvai que ma femme et moi-même. Le matin suivant, au milieu des ruines, je vis une silhouette assise sur un seul mur restant : c'était un chat noir, avec un œil creux, exactement comme Plutus. Je sentis un frisson me parcourir l'échine, car je savais que ce n'était pas un hasard. Quelques jours plus tard, je trouvai ce chat caché dans la cave, et je le pris avec moi, mêlant la peur à une étrange fascination. Un soir, ma femme me suivit dans la cave pour me rappeler quelque chose, et le chat, effrayé, se jeta sur elle. Dans un accès de fureur aveugle, je saisis une hache et je frappai ma femme, puis je l'emmurai vivante dans le mur de la cave. Lorsque la police vint enquêter, elle ne trouva rien, mais en frappant le mur pour vérifier sa solidité, un miaulement terrible retentit, et l'on découvrit le cadavre de ma femme avec le chat noir vivant sur sa poitrine, les yeux brillants de haine, témoin muet de mon crime et de ma perte.",
+    "quiz": [
+      {
+        "q": "Quel était le caractère du narrateur dans son enfance ?",
+        "o": [
+          "Il était violent et cruel",
+          "la douceur de mon caractère et mon amour des animaux",
+          "Il était solitaire et triste",
+          "Il était paresseux"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait le narrateur à Plutus sous l'emprise de l'alcool ?",
+        "o": [
+          "Il le vend",
+          "je coupai l'œil de Plutus avec un canif",
+          "Il le noie",
+          "Il l'abandonne"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voit le narrateur au milieu des ruines après l'incendie ?",
+        "o": [
+          "Un chien",
+          "un chat noir, avec un œil creux",
+          "Un oiseau",
+          "Un homme"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre la police dans le mur de la cave ?",
+        "o": [
+          "Un trésor",
+          "le cadavre de ma femme avec le chat noir vivant sur sa poitrine",
+          "Un message",
+          "Rien du tout"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 107
+  },
+  {
+    "id": "HOR_005",
+    "titre": "L'Appel de Cthulhu",
+    "auteur": "Howard Phillips Lovecraft",
+    "genre": "Horreur",
+    "niveau": "Avancé",
+    "extrait": "La chose la plus miséricordieuse au monde est, je pense, l'incapacité de l'esprit humain à mettre en relation tous ses contenus. Nous vivons sur une petite île de connaissance, dans un océan noir et infini d'ignorance, et ce n'est pas destiné à être ainsi. Les siècles à venir nous réservent des révélations qui, si elles étaient connues aujourd'hui, plongeraient l'humanité dans une folie collective dont elle ne se relèverait jamais. Mon grand-oncle, le professeur Angell, avait passé sa vie à étudier les cultes occultes et les religions primitives, et il avait accumulé une collection de documents terrifiants. Parmi eux se trouvait un bas-relief en pierre représentant une créature monstrueuse, à la fois dragon et pieuvre, avec des ailes de chauve-souris et des griffes immenses. Cette sculpture datait d'une époque que les géologues ne pouvaient expliquer, et elle portait des inscriptions dans une langue que nul n'avait jamais réussi à déchiffrer. Le professeur avait interrogé un sculpteur sur ce qu'il avait vu dans ses rêves, et l'artiste avait décrit une cité gigantesque, cyclopéenne, surgie des eaux, avec des tours qui touchaient les nuages et des rues pavées de pierres noires. Au centre de cette cité se dressait une statue colossale, et devant elle dansaient des créatures hybrides, à la fois humaines et animales, qui adoraient une entité venue des étoiles. Le sculpteur était mort peu après, frappé de folie, et le professeur avait caché ces documents dans sa bibliothèque, où je les découvris après sa mort. Je compris alors que nous n'étions pas seuls dans l'univers, et que des forces anciennes et terribles attendaient dans l'ombre, prêtes à se réveiller et à détruire tout ce que l'humanité avait construit de beau et de vrai, dans un silence plus vieux que le temps. Je refermai le livre avec effroi, car je savais que quelque part, dans l'ombre de notre propre monde, cette chose aux mille formes attendait son heure, et que mon rêve n'était que l'écho d'une vérité que les hommes refusaient d'affronter en pleine lumière.",
+    "quiz": [
+      {
+        "q": "Quelle est, selon le narrateur, la chose la plus miséricordieuse au monde ?",
+        "o": [
+          "La mort",
+          "l'incapacité de l'esprit humain à mettre en relation tous ses contenus",
+          "L'ignorance volontaire",
+          "La religion"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que représentait le bas-relief en pierre ?",
+        "o": [
+          "Un ange",
+          "une créature monstrueuse, à la fois dragon et pieuvre",
+          "Un visage humain",
+          "Un paysage"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que décrit le sculpteur dans ses rêves ?",
+        "o": [
+          "Une petite maison",
+          "une cité gigantesque, cyclopéenne, surgie des eaux",
+          "Un jardin",
+          "Un bateau"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre le narrateur après la mort du professeur ?",
+        "o": [
+          "Un trésor",
+          "ces documents dans sa bibliothèque",
+          "Une lettre d'amour",
+          "Un testament"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 115
+  },
+  {
+    "id": "HOR_006",
+    "titre": "Le Masque de la mort rouge",
+    "auteur": "Edgar Allan Poe",
+    "genre": "Horreur",
+    "niveau": "Avancé",
+    "extrait": "Le prince Prospero était un homme puissant et fortuné, mais il possédait une qualité plus précieuse encore : le courage. Lorsqu'une peste terrible, connue sous le nom de Mort Rouge, ravageait le pays et décimait la population, il ne songea pas à fuir comme les autres. Au contraire, il rassembla mille de ses amis les plus chers, jeunes et beaux, et les fit venir dans l'une de ses abbayes fortifiées, profondément enfouie dans les montagnes. L'abbaye était d'une magnificence extraordinaire, avec des murs épais, des tours imposantes et des salles immenses décorées selon le goût le plus raffiné. Le prince avait fait prévoir toutes les commodités, et il y avait là de quoi satisfaire les caprices les plus excentriques. Il y avait des buffets chargés de mets délicats, des musiciens habiles, des danseurs gracieux, et tout ce qui pouvait distraire l'esprit de la pensée de la mort. Mais au septième mois de leur isolement, le prince donna un bal masqué d'une splendeur inouïe. Les sept salles de l'abbaye avaient été transformées en autant de salons différents, chacun décoré d'une couleur particulière, du bleu au violet, du vert à l'orange. La dernière salle, celle qui touchait la tour noire, était tendue de velours noir, et la lumière des candélabres y faisait naître des reflets sanglants. Au milieu de cette salle se dressait une horloge d'ébène dont le battement sonore et lent faisait taire tous les conversations et tous les rires. Minuit venait de sonner, et les danseurs s'arrêtèrent, comme saisis d'une crainte soudaine. Une silhouette étrange, vêtue d'un linceul et masquée d'un visage qui ressemblait à celui d'un cadavre, venait de faire son apparition. Personne ne l'avait vue entrer, et sa présence glaça le sang de tous les invités. Le prince, dans un accès de rage et de terreur, s'élança vers elle, mais il s'écroula mort avant de l'avoir atteinte. Les convives, affolés, se précipitèrent vers la porte, mais ils trouvèrent l'issue fermée, et la Mort Rouge était entrée dans l'abbaye pour tous les emporter, sans que les murs épais n'aient pu les protéger.",
+    "quiz": [
+      {
+        "q": "Que fait le prince Prospero quand la Mort Rouge ravage le pays ?",
+        "o": [
+          "Il s'enfuit à l'étranger",
+          "il rassembla mille de ses amis",
+          "Il se cache dans une cave",
+          "Il appelle les médecins"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Combien de salles décorées différemment y a-t-il dans l'abbaye ?",
+        "o": [
+          "Cinq",
+          "Les sept salles",
+          "Neuf",
+          "Douze"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la particularité de la dernière salle ?",
+        "o": [
+          "Elle est toute blanche",
+          "tendue de velours noir",
+          "Elle est remplie de miroirs",
+          "Elle est sans fenêtre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que trouve-t-on en essayant de s'échapper ?",
+        "o": [
+          "La porte est ouverte",
+          "ils trouvèrent l'issue fermée",
+          "Un trésor",
+          "Un passage secret"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 118
+  },
+  {
+    "id": "HOR_007",
+    "titre": "La Chambre jaune",
+    "auteur": "Gaston Leroux",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "Le château du Glandier était une vieille demeure de pierre, entourée de bois et de landes, où régnait une atmosphère de mystère et de silence. Mademoiselle Stangerson, la fille du professeur, y vivait depuis son enfance, et elle y avait installé son laboratoire de physique dans une pièce isolée que l'on appelait la chambre jaune. Cette pièce était située au fond d'un couloir étroit, et elle n'avait qu'une seule porte, qui donnait sur le couloir, et une seule fenêtre, haute et étroite, qui s'ouvrait sur la cour intérieure. Un soir, des cris déchirants retentirent dans le château, et l'on découvrit Mademoiselle Stangerson gisant sur le sol de la chambre jaune, le visage couvert de sang, blessée à la tête par un objet contondant. La porte était fermée de l'intérieur, la fenêtre était fermée à clé, et il n'y avait aucun autre accès à la pièce. Le père de la victime, le professeur Stangerson, affirma que sa fille avait été attaquée par un être invisible, car il était impossible à un homme de pénétrer dans la chambre sans laisser de traces. Le célèbre reporter Rouletabille fut appelé pour résoudre l'énigme, et il passa des jours à examiner chaque détail de la pièce, à interroger les domestiques, à analyser les moindres indices. Il découvrit que la fenêtre, bien que fermée, avait été ouverte de l'extérieur grâce à un système de crochets invisibles, et que l'agresseur avait pu s'échapper par le toit. Mais le plus étrange restait à venir : Mademoiselle Stangerson, bien que grièvement blessée, survivrait, et elle murmura le nom de son agresseur avant de perdre connaissance. Ce nom était celui d'un homme que tout le monde croyait mort depuis des années, et qui revenait du fond des ténèbres pour accomplir une vengeance terrible, un secret que la chambre jaune gardait depuis si longtemps.",
+    "quiz": [
+      {
+        "q": "Où se trouve la chambre jaune ?",
+        "o": [
+          "Dans un hôtel de ville",
+          "au fond d'un couloir étroit",
+          "Dans une maison de campagne",
+          "Dans un musée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la particularité de la chambre jaune au moment du crime ?",
+        "o": [
+          "Elle est vide",
+          "La porte était fermée de l'intérieur",
+          "Elle est ouverte sur le jardin",
+          "Elle est inondée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est appelé pour résoudre l'énigme ?",
+        "o": [
+          "Un policier",
+          "Le célèbre reporter Rouletabille",
+          "Un médecin",
+          "Un avocat"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que murmure Mademoiselle Stangerson avant de perdre connaissance ?",
+        "o": [
+          "Un mot de remerciement",
+          "le nom de son agresseur",
+          "Une prière",
+          "Un cri de douleur"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 104
+  },
+  {
+    "id": "HOR_008",
+    "titre": "Carrie",
+    "auteur": "Stephen King",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "Carrie White était une jeune fille de seize ans qui vivait avec sa mère Margaret, une femme fanatique et religieuse qui la battait régulièrement et l'empêchait de vivre comme les autres adolescentes. À l'école, Carrie était la victime préférée des brimades : on se moquait de ses vêtements, de sa timidité, de sa mère, et personne ne venait à son secours. Elle passait ses journées dans un silence oppressant, cachant un pouvoir étrange qu'elle ne comprenait pas : quand elle était en colère ou effrayée, les objets bougeaient autour d'elle, les lumières clignotaient, et une force invisible semblait jaillir de son corps. Un jour, après une douche collective où les autres filles se moquèrent d'elle, Carrie perdit le contrôle de ce pouvoir, et les carreaux de la salle de bain se brisèrent, les portes claquèrent, et une lueur rougeâtre illumina l'espace. Sue Snell, l'une des filles qui l'avaient humiliée, se sentit coupable et décida de demander à Tommy Ross, le garçon le plus populaire du lycée, d'inviter Carrie au bal de fin d'année. Carrie accepta, émerveillée, et elle passa des heures à se préparer, rêvant d'une soirée magique. Mais Chris Hargensen, la chef des brimades, avait préparé un piège : elle fit verser un seau de sang de porc sur la tête de Carrie au moment où celle-ci était couronnée reine du bal. La honte et la rage de Carrie furent si intenses que son pouvoir se déchaîna de façon terrifiante. Les lumières explosèrent, les murs tremblèrent, et une force invisible projeta les élèves contre les murs, brisant les os et broyant les corps. Carrie quitta le gymnase en flammes, et elle rentra chez elle pour y trouver sa mère, qui la poignarda avec un couteau de cuisine. Dans un dernier sursaut de puissance, Carrie fit s'effondrer la maison sur sa mère et sur elle-même, et la ville entière fut détruite par une pluie de feu et de pierres, laissant derrière elle un silence de cendre.",
+    "quiz": [
+      {
+        "q": "Quel pouvoir étrange possède Carrie ?",
+        "o": [
+          "Elle peut voler",
+          "les objets bougeaient autour d'elle",
+          "Elle peut devenir invisible",
+          "Elle peut lire dans les pensées"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi les autres filles se moquent-elles de Carrie ?",
+        "o": [
+          "Parce qu'elle est riche",
+          "de ses vêtements, de sa timidité",
+          "Parce qu'elle est nouvelle",
+          "Parce qu'elle est étrangère"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel piège Chris Hargensen prépare-t-elle au bal ?",
+        "o": [
+          "Elle vole la couronne",
+          "un seau de sang de porc sur la tête de Carrie",
+          "Elle fait venir un monstre",
+          "Elle éteint les lumières"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment meurt la mère de Carrie ?",
+        "o": [
+          "Elle est écrasée par la maison",
+          "qui la poignarda avec un couteau de cuisine",
+          "Elle meurt de vieillesse",
+          "Elle se suicide"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 112
+  },
+  {
+    "id": "HOR_009",
+    "titre": "La Fiancée de Frankenstein",
+    "auteur": "Mary Shelley",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "Le docteur Victor Frankenstein avait créé une créature monstrueuse en assemblant des morceaux de cadavres, et il l'avait abandonnée après avoir vu son visage hideux. La créature, intelligente et sensible, avait erré pendant des mois, cherchant une place dans le monde, mais elle n'avait rencontré que la peur et la haine. Elle avait appris à parler en observant une famille paysanne, et elle avait lu des livres de philosophie et d'histoire, mais son cœur restait vide et solitaire. Un jour, elle avait confronté son créateur sur un glacier des Alpes, et elle lui avait demandé de lui fabriquer une compagne, une créature femelle qui partagerait son existence et apaiserait sa solitude. Victor, d'abord réticent, avait fini par accepter, et il s'était installé dans une île isolée pour travailler en secret. Mais pendant qu'il assemblait les morceaux de la nouvelle créature, il avait été hanté par des visions terrifiantes : il voyait la première créature et sa compagne engendrer une race de monstres qui détruirait l'humanité. Dans un accès de remords, il avait détruit le corps inachevé, et la première créature, qui l'avait observé en secret, était apparue avec une expression de rage et de désespoir. Elle lui avait annoncé qu'elle se vengerait en tuant tous ceux qu'il aimait, et elle avait disparu dans la nuit. Victor rentra chez lui, mais il ne trouva que deuil et destruction : son frère William avait été étranglé, sa femme Elizabeth avait été assassinée le soir de leurs noces, et son meilleur ami Clerval avait été poignardé. Victor comprit que la créature était responsable de tous ces crimes, et il se lança à sa poursuite à travers l'Europe, jurant de la détruire avant qu'elle ne fasse d'autres victimes, porté par une haine froide et un désespoir sans fin. La neige recouvrit bientôt ses pas, effaçant toute trace de sa folle cavale, et le monde, indifférent, continua de tourner comme si la créature n'avait jamais existé, comme si le sang versé n'avait été qu'un rêve dont personne ne se souviendrait au matin.",
+    "quiz": [
+      {
+        "q": "Que demande la créature à Victor Frankenstein ?",
+        "o": [
+          "De l'argent",
+          "une compagne, une créature femelle",
+          "De rentrer chez lui",
+          "De le détruire"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi Victor détruit-il le corps inachevé de la deuxième créature ?",
+        "o": [
+          "Parce qu'il n'a plus de matériel",
+          "une race de monstres qui détruirait l'humanité",
+          "Parce qu'il est fatigué",
+          "Parce qu'il a peur de la créature"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui la créature assassine-t-elle pour se venger ?",
+        "o": [
+          "Seulement Victor",
+          "son frère William avait été étranglé, sa femme Elizabeth avait été assassinée",
+          "Personne",
+          "Seulement Elizabeth"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Victor après avoir découvert les meurtres ?",
+        "o": [
+          "Il se suicide",
+          "il se lança à sa poursuite à travers l'Europe",
+          "Il appelle la police",
+          "Il se cache"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 116
+  },
+  {
+    "id": "HOR_010",
+    "titre": "Le Tour d'écrou",
+    "auteur": "Henry James",
+    "genre": "Horreur",
+    "niveau": "Avancé",
+    "extrait": "Je me souviens de cette première soirée à Bly comme si c'était hier. Le ciel était d'un bleu profond, et les arbres du parc se découpaient contre l'horizon comme des ombres menaçantes. J'étais venue pour être la gouvernante de deux enfants charmants, Miles et Flora, et je devais les protéger de toute influence maléfique. Leur oncle, qui vivait à Londres, ne s'occupait pas d'eux et m'avait donné carte blanche, à une condition : que je ne le dérange jamais avec des histoires de fantômes ou de surnaturel. Mais dès mon arrivée, je sentis que quelque chose n'allait pas. Les domestiques parlaient à voix basse, et je surpris des regards inquiets échangés entre eux. Puis je vis les enfants pour la première fois, et je fus frappée par leur beauté étrange, par leur regard trop mature pour leur âge. Ils semblaient savoir des choses qu'ils ne devaient pas savoir, et ils parlaient de personnes que je ne voyais pas, des amis invisibles qui habitaient la maison. Je découvris bientôt que ces amis étaient les anciens domestiques de Bly, Peter Quint et Miss Jessel, qui étaient morts dans des circonstances mystérieuses. Peter Quint, un homme cruel et pervers, avait abusé de Miles, et Miss Jessel, l'ancienne gouvernante, avait été sa complice. Leurs fantômes hantaient la maison, et ils semblaient vouloir s'emparer des enfants pour les entraîner dans leur monde sombre. Je vis Peter Quint pour la première fois sur la tour du château, debout dans le crépuscule, et je sentis un frisson me parcourir l'échine. Il me regarda avec un sourire cruel, et je compris que la bataille pour l'âme des enfants venait de commencer, une bataille que je ne pouvais partager avec personne, car la promesse faite à l'oncle m'enchaînait au silence. Je guettais chaque ombre, chaque reflet, craignant que les enfants ne sombrent peu à peu dans le monde pâle de ces apparitions, et je priais en silence pour trouver la force de les arracher à l'emprise de ce qui hantait Bly, avant que tout ne fût perdu.",
+    "quiz": [
+      {
+        "q": "Pourquoi la narratrice est-elle venue à Bly ?",
+        "o": [
+          "Pour visiter le château",
+          "pour être la gouvernante de deux enfants",
+          "Pour travailler comme domestique",
+          "Pour écrire un livre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle condition l'oncle impose-t-il à la narratrice ?",
+        "o": [
+          "Qu'elle travaille gratuitement",
+          "que je ne le dérange jamais avec des histoires de fantômes",
+          "Qu'elle se marie",
+          "Qu'elle parte après un an"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui sont les amis invisibles dont parlent les enfants ?",
+        "o": [
+          "Des voisins",
+          "Peter Quint et Miss Jessel",
+          "Des animaux",
+          "Des anges"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voit la narratrice sur la tour du château ?",
+        "o": [
+          "Un oiseau",
+          "Peter Quint",
+          "Un voleur",
+          "Un incendie"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 116
+  },
+  {
+    "id": "HOR_011",
+    "titre": "L'Étrange Cas du docteur Jekyll et de M. Hyde",
+    "auteur": "Robert Louis Stevenson",
+    "genre": "Horreur",
+    "niveau": "Avancé",
+    "extrait": "Monsieur Utterson, le notaire, était un homme froid et réservé, qui passait ses soirées au coin du feu, lisant des ouvrages sérieux et buvant du vin vieux. Il était l'ami de longue date du docteur Jekyll, un savant respecté qui vivait dans une maison sombre et imposante de la ville. Un soir, en rentrant chez lui, Utterson fut abordé par un jeune homme nommé Enfield, qui lui raconta une histoire étrange : il avait vu un homme difforme et monstrueux, Edward Hyde, écraser une petite fille sous ses pieds sans la moindre pitié, puis payer le père avec un chèque signé du docteur Jekyll. Utterson fut troublé par ce récit, car il savait que Jekyll avait récemment modifié son testament, léguant tous ses biens à Hyde en cas de disparition. Il décida d'aller voir son ami pour comprendre, mais Jekyll refusa de parler, affirmant qu'il pouvait se débarrasser de Hyde quand il le voulait. Les semaines passèrent, et des crimes de plus en plus graves furent commis, tous attribués à Hyde. Un jour, un serviteur de Jekyll vit Hyde entrer dans la maison du docteur, et il entendit des cris déchirants. La police força la porte, et ils trouvèrent Hyde mort sur le sol, tenant dans sa main un flacon vide. Derrière lui, sur le bureau, ils découvrirent une lettre écrite par Jekyll, dans laquelle il expliquait tout : il avait découvert un philtre qui lui permettait de se transformer en Hyde, libérant ainsi tous ses instincts les plus sombres et les plus cruels. Mais Hyde devenait de plus en plus fort, et Jekyll perdait peu à peu le contrôle de son propre corps. Dans sa dernière lettre, Jekyll écrivait qu'il sentait Hyde grandir en lui, qu'il ne pourrait bientôt plus résister, et qu'il préférait mourir plutôt que de laisser le monstre continuer à tuer, car il savait que le mal en lui avait définitivement gagné.",
+    "quiz": [
+      {
+        "q": "Quelle est la profession de monsieur Utterson ?",
+        "o": [
+          "Médecin",
+          "Monsieur Utterson, le notaire",
+          "Policier",
+          "Avocat"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Edward Hyde à une petite fille dans la rue ?",
+        "o": [
+          "Il la vole",
+          "écraser une petite fille sous ses pieds",
+          "Il l'aide",
+          "Il l'ignore"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle découverte Jekyll a-t-il faite ?",
+        "o": [
+          "Un trésor",
+          "un philtre qui lui permettait de se transformer en Hyde",
+          "Un remède contre la vieillesse",
+          "Une machine à voyager dans le temps"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi Jekyll préfère-t-il mourir ?",
+        "o": [
+          "Parce qu'il est malade",
+          "qu'il ne pourrait bientôt plus résister",
+          "Parce qu'il est pauvre",
+          "Parce qu'il est triste"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 109
+  },
+  {
+    "id": "HOR_012",
+    "titre": "Le Fantôme de l'Opéra",
+    "auteur": "Gaston Leroux",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "Le palais Garnier était l'un des théâtres les plus magnifiques de Paris, mais il recélait un secret terrifiant que personne n'osait évoquer. On racontait qu'un fantôme habitait les couloirs sombres et les salles vides, qu'il se promenait la nuit dans les galeries désertes, et qu'il avait fait disparaître plusieurs machinistes qui avaient osé s'aventurer dans les sous-sols. Ce fantôme, connu sous le nom d'Opéra, était en réalité un homme nommé Erik, un compositeur de génie au visage défiguré, qui vivait depuis des années dans les entrailles du théâtre. Il avait construit un lac souterrain, des pièges mortels et un palais secret où il recevait les rares personnes qu'il autorisait à pénétrer dans son domaine. Un jour, une jeune chanteuse nommée Christine Daaé arriva au palais Garnier, et Erik fut fasciné par sa voix pure et sa beauté. Il décida de la prendre sous sa protection, de lui enseigner le chant et de faire d'elle la plus grande cantatrice du monde. Mais Erik était jaloux et possessif, et il ne supportait pas l'idée que Christine puisse aimer un autre homme que lui. Lorsque le vicomte Raoul de Chagny, l'enfance de Christine, la demanda en mariage, Erik devint fou de rage. Il enleva Christine et l'emmena dans son palais souterrain, où il la retint prisonnière. Raoul, aidé par le persan, un ancien prisonnier d'Erik, descendit dans les profondeurs du théâtre pour la sauver. Ils trouvèrent Erik dans sa salle de torture, entouré d'instruments de mort, et ils découvrirent que le fantôme était un homme désespéré, qui n'avait jamais connu l'amour et qui ne demandait qu'un peu de tendresse. Erik, voyant que Christine aimait Raoul, les laissa partir, mais il leur annonça qu'il mourrait bientôt, car il ne pouvait plus vivre sans elle, laissant derrière lui le mystère de ses murs qui pleuraient.",
+    "quiz": [
+      {
+        "q": "Quel est le nom du fantôme de l'Opéra ?",
+        "o": [
+          "Raoul",
+          "Erik",
+          "Chagny",
+          "Le Persan"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que construit Erik dans les sous-sols du palais Garnier ?",
+        "o": [
+          "Un théâtre",
+          "un lac souterrain, des pièges mortels et un palais secret",
+          "Une prison",
+          "Un laboratoire"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi Erik enlève-t-il Christine ?",
+        "o": [
+          "Pour la voler",
+          "Erik était jaloux et possessif",
+          "Pour lui apprendre à chanter",
+          "Pour la protéger"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Erik à la fin de l'histoire ?",
+        "o": [
+          "Il tue Raoul",
+          "Erik, voyant que Christine aimait Raoul, les laissa partir",
+          "Il s'enfuit",
+          "Il se marie avec Christine"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 103
+  },
+  {
+    "id": "HOR_013",
+    "titre": "La Maison aux pignons verts",
+    "auteur": "Lucy Maud Montgomery",
+    "genre": "Horreur",
+    "niveau": "Débutant",
+    "extrait": "La maison se dressait au bout d'une allée de sapins, avec ses pignons verts qui semblaient grimper vers le ciel comme des doigts crochus. Depuis des années, personne n'osait y entrer, car on racontait que des bruits étranges en sortaient la nuit : des gémissements, des pas lourds, et parfois des lumières qui s'allumaient et s'éteignaient dans les fenêtres sans que personne ne les allume. Les enfants du village se défiaient d'aller jusqu'à la maison, et ils racontaient des histoires de fantômes et de sorcières pour effrayer les plus courageux. Un soir d'orage, un groupe d'adolescents décida de relever le défi. Ils s'approchèrent de la maison avec des lanternes, le cœur battant, et ils poussèrent la porte qui grinça sur ses gonds rouillés. L'intérieur était sombre et poussiéreux, avec des meubles recouverts de draps blancs qui ressemblaient à des spectres immobiles. Ils montèrent l'escalier qui craquait à chaque pas, et ils arrivèrent dans une chambre où un vieux portrait était accroché au mur. Le portrait représentait une femme au visage sévère, et ses yeux semblaient les suivre dans la pièce. Soudain, la porte se referma derrière eux avec un bruit sec, et ils entendirent des pas lourds monter l'escalier. Les lanternes s'éteignirent une à une, et ils se retrouvèrent dans l'obscurité totale, avec seulement le bruit de leur respiration et celui des pas qui se rapprochaient. Ils crièrent, ils frappèrent les murs, ils cherchèrent une issue, mais la maison semblait les retenir prisonniers. Au petit matin, on les retrouva endormis sur le perron, le visage marqué par la peur, et ils ne purent jamais expliquer ce qui s'était passé cette nuit-là. La maison aux pignons verts resta abandonnée, et personne n'osa plus y entrer, car tous savaient désormais que les murs avaient une mémoire. Et lorsque le vent du nord se levait, on jurait entendre, derrière les volets clos, le grincement lent d'une porte que nulle main n'avait ouverte, et le pas lourd de celui qui ne quittait plus sa maison.",
+    "quiz": [
+      {
+        "q": "Quelle est la particularité de la maison ?",
+        "o": [
+          "Elle est toute blanche",
+          "ses pignons verts qui semblaient grimper vers le ciel",
+          "Elle est en verre",
+          "Elle est sans toit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que raconte-t-on sur la maison ?",
+        "o": [
+          "Qu'elle est habitée par un prince",
+          "des bruits étranges en sortaient la nuit",
+          "Qu'elle est pleine de trésors",
+          "Qu'elle est enchantée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voient les adolescents dans la chambre du premier étage ?",
+        "o": [
+          "Un trésor",
+          "un vieux portrait était accroché au mur",
+          "Un animal",
+          "Un message"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que se passe-t-il après que la porte s'est refermée ?",
+        "o": [
+          "Ils trouvent une sortie",
+          "Les lanternes s'éteignirent une à une",
+          "Un fantôme apparaît",
+          "La maison s'effondre"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 114
+  },
+  {
+    "id": "HOR_014",
+    "titre": "Le Cimetière",
+    "auteur": "Stephen King",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "Le cimetière de Ludlow était un endroit étrange, entouré de hautes herbes et d'arbres tortueux dont les branches semblaient s'agripper au ciel. Les pierres tombales étaient penchées, couvertes de mousse et de lichen, et certaines portaient des dates si anciennes qu'elles étaient devenues illisibles. Les enfants du village évitaient cet endroit, car on racontait que ceux qui s'y aventuraient après la tombée de la nuit ne revenaient jamais les mêmes. Louis Creed, le médecin de la famille, avait emménagé à Ludlow avec sa femme Rachel et ses deux enfants, Ellie et Gage. Un jour, le chat de la famille, Church, fut écrasé par un camion sur la route qui longeait le cimetière. Jud Crandall, le voisin âgé, proposa à Louis d'enterrer Church dans le cimetière indien, un endroit secret situé derrière le cimetière principal, où les Micmacs enterraient leurs morts depuis des siècles. Louis accepta, et il enterra Church dans le sol noir et gras. Le lendemain, Church était de retour à la maison, mais il n'était plus le même : il sentait mauvais, il était agressif, et ses yeux avaient une lueur étrange. Louis comprit alors que le cimetière indien avait un pouvoir terrible : il pouvait ramener les morts à la vie, mais pas tels qu'ils étaient avant. Les créatures qui revenaient étaient différentes, corrompues, et elles portaient en elles une part de l'au-delà qui les rendait malfaisantes. Peu de temps après, Gage, le petit garçon de trois ans, fut également écrasé par un camion. Dans un accès de désespoir, Louis enterra Gage dans le cimetière indien, espérant le ramener à la vie. Mais Gage revint, et il n'était plus l'enfant doux et aimant qu'il avait été. Il était devenu une créature maléfique, et il tua Jud, Rachel et tous ceux qui se trouvaient sur son passage. Louis réalisa trop tard qu'il avait commis une erreur terrible, et il mourut en tentant de détruire le cimetière maudit, maudit par sa propre main.",
+    "quiz": [
+      {
+        "q": "Où se trouve le cimetière indien ?",
+        "o": [
+          "Au centre du village",
+          "derrière le cimetière principal",
+          "Dans la forêt",
+          "Sur une colline"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Jud Crandall à Louis après la mort de Church ?",
+        "o": [
+          "Il l'emmène au cinéma",
+          "Jud Crandall, le voisin âgé, proposa à Louis d'enterrer Church",
+          "Il lui achète un nouveau chat",
+          "Il l'appelle un médecin"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre Louis quand Church revient à la maison ?",
+        "o": [
+          "Qu'il est en bonne santé",
+          "il sentait mauvais, il était agressif",
+          "Qu'il a grandi",
+          "Qu'il peut parler"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que devient Gage après avoir été enterré dans le cimetière indien ?",
+        "o": [
+          "Il reste mort",
+          "Il était devenu une créature maléfique",
+          "Il devient gentil",
+          "Il s'enfuit"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 112
+  },
+  {
+    "id": "HOR_015",
+    "titre": "La Légende de Sleepy Hollow",
+    "auteur": "Washington Irving",
+    "genre": "Horreur",
+    "niveau": "Débutant",
+    "extrait": "Sleepy Hollow était un petit village paisible situé dans une vallée étroite, entouré de collines boisées et de champs tranquilles. Les habitants y menaient une vie simple et calme, mais ils avaient une peur étrange : celle du Cavalier sans tête, un spectre qui hantait les routes la nuit, cherchant sa tête perdue. On racontait que ce cavalier était un soldat hollandais mort pendant la guerre d'indépendance, et que son fantôme errait encore dans la vallée, brandissant sa tête comme un trophée. Ichabod Crane, le maître d'école du village, était un homme grand et maigre, avec un appétit énorme et une imagination fertile. Il était amoureux de Katrina Van Tassel, la fille du fermier le plus riche du coin, et il espérait l'épouser pour accéder à sa fortune. Mais il avait un rival : Brom Bones, un jeune homme robuste et courageux, qui était également amoureux de Katrina. Un soir d'automne, Ichabod rentrait chez lui après une fête chez les Van Tassel, et il traversait la route de Sleepy Hollow à cheval. Le vent soufflait dans les arbres, les feuilles mortes dansaient autour de lui, et il entendait des bruits étranges dans l'obscurité. Soudain, il vit une silhouette sombre chevaucher à toute allure derrière lui, et il reconnut le Cavalier sans tête, brandissant sa tête dans sa main. Ichabod piqua des éperons et galopa de toutes ses forces, mais le spectre le poursuivait sans relâche. Arrivé près d'un pont, Ichabod se retourna et vit le cavalier lever sa tête pour la lui lancer. Il se baissa, et la tête passa au-dessus de lui, mais il perdit l'équilibre et tomba de cheval. Le lendemain, on ne trouva que son chapeau, son fouet et un pot de potiron brisé. Ichabod Crane avait disparu, et personne ne le revit jamais. Certains dirent qu'il avait été enlevé par le spectre, d'autres qu'il avait fui le village de honte, mais le mystère de sa disparition resta entier, et le pont garda son secret.",
+    "quiz": [
+      {
+        "q": "Quelle est la peur des habitants de Sleepy Hollow ?",
+        "o": [
+          "Les loups",
+          "le Cavalier sans tête",
+          "Les inondations",
+          "Les incendies"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la particularité physique d'Ichabod Crane ?",
+        "o": [
+          "Il est petit et fort",
+          "un homme grand et maigre",
+          "Il est aveugle",
+          "Il est boiteux"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le rival d'Ichabod pour l'amour de Katrina ?",
+        "o": [
+          "Un soldat",
+          "Brom Bones",
+          "Le Cavalier sans tête",
+          "Un marchand"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que trouve-t-on le lendemain de la disparition d'Ichabod ?",
+        "o": [
+          "Son corps",
+          "son chapeau, son fouet et un pot de potiron brisé",
+          "Son cheval",
+          "Rien du tout"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 113
+  },
+  {
+    "id": "HOR_016",
+    "titre": "Le Portrait de Dorian Gray",
+    "auteur": "Oscar Wilde",
+    "genre": "Horreur",
+    "niveau": "Avancé",
+    "extrait": "Dorian Gray était un jeune homme d'une beauté extraordinaire, dont le visage inspirait les peintres et faisait rêver les poètes. Un jour, son ami Basil Hallward peignit son portrait, et Dorian, en le voyant, fut saisi par une jalousie terrible. Il comprit que tandis que le portrait vieillirait et se fanerait, lui resterait jeune et beau pour toujours. Dans un accès de désespoir et d'égoïsme, il formula un vœu étrange : que le portrait vieillisse à sa place, et que lui-même conserve à jamais sa jeunesse et sa beauté. Ce vœu fut exaucé, et Dorian mena une vie de plaisirs et de débauches, sans que son visage ne portât la moindre trace de ses crimes. Mais le portrait, caché dans une pièce secrète de sa maison, se déformait peu à peu, reflétant la corruption de son âme. Les yeux du visage peint devenaient cruels, la bouche se tordait en un rictus de haine, et des rides de méchanceté creusaient le front. Dorian ne voyait jamais le portrait, mais il sentait son pouvoir sur lui, comme une malédiction qui grandissait chaque jour. Un soir, il rencontra une jeune actrice nommée Sibyl Vane, et il tomba amoureux d'elle. Mais quand Sibyl, sur scène, donna une mauvaise représentation, Dorian la repoussa avec cruauté, et elle se suicida. Le lendemain, en regardant le portrait, il vit que les lèvres du visage peint avaient pris une teinte rouge, comme si elles venaient de boire du sang. Dorian comprit alors que le portrait absorbait la corruption de ses actes, et qu'il deviendrait bientôt monstrueux. Il passa des années à cacher le tableau, à fuir les regards, à chercher un moyen de se libérer de cette malédiction. Mais il était trop tard : le mal qu'il avait fait était trop profond, et le portrait était devenu une chose hideuse, un monstre de haine et de vice. Dans un accès de rage, Dorian prit un couteau et poignarda le tableau, mais c'est lui-même qui tomba, transpercé par le couteau. Quand les serviteurs entrèrent dans la pièce, ils trouvèrent le cadavre d'un homme vieux et laid, et le portrait, redevenu magnifique, souriait avec la beauté de Dorian Gray, intact et éternel.",
+    "quiz": [
+      {
+        "q": "Que peint Basil Hallward ?",
+        "o": [
+          "Un paysage",
+          "son portrait",
+          "Un animal",
+          "Une bataille"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel vœu formule Dorian en voyant le portrait ?",
+        "o": [
+          "De devenir riche",
+          "que le portrait vieillisse à sa place",
+          "De voyager",
+          "De devenir célèbre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que devient le portrait au fil des années ?",
+        "o": [
+          "Il reste beau",
+          "se déformait peu à peu",
+          "Il disparaît",
+          "Il brille"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que trouve-t-on à la mort de Dorian ?",
+        "o": [
+          "ils trouvèrent le cadavre d'un homme vieux et laid, et le portrait, redevenu magnifique",
+          "Le portrait détruit",
+          "Rien",
+          "Un trésor"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 125
+  },
+  {
+    "id": "HOR_017",
+    "titre": "La Lettre volée",
+    "auteur": "Edgar Allan Poe",
+    "genre": "Horreur",
+    "niveau": "Avancé",
+    "extrait": "Le préfet de police de Paris était un homme habile et expérimenté, mais il était perplexe. Une lettre compromettante avait été volée dans les appartements royaux, et le voleur, un ministre sans scrupules, la utilisait pour faire chanter la reine. La lettre devait être récupérée à tout prix, car si elle tombait entre de mauvaises mains, le scandale serait immense et la monarchie en danger. Le préfet avait fait fouiller la maison du ministre de fond en comble, il avait interrogé les domestiques, il avait inspecté chaque meuble, chaque tiroir, chaque cachette possible. Mais la lettre restait introuvable, et le ministre continuait à faire chanter la reine avec une impunité insolente. Le préfet fit appel à C. Auguste Dupin, un amateur d'énigmes et de mystères, qui accepta de l'aider. Dupin se rendit chez le ministre, et il observa la disposition des pièces, le mobilier, les habitudes du propriétaire. Il remarqua que le ministre avait un goût particulier pour les objets sales et en désordre, et qu'il aimait cacher les choses importantes dans des endroits où personne ne songerait à chercher. Dupin retourna chez le ministre sous un prétexte quelconque, et il examina la pièce avec attention. Il vit un porte-lettres en carton suspendu au mur, avec quelques lettres épinglées dessus. Il remarqua que l'une d'elles était pliée de façon étrange, et il comprit que c'était la lettre volée. Le ministre, qui était présent, ne se douta de rien, et Dupin put la récupérer sans difficulté. Le préfet fut stupéfait par la simplicité de la solution, et il demanda à Dupin comment il avait fait. Dupin répondit que le ministre avait caché la lettre dans l'endroit le plus évident, là où tout le monde la voyait sans la reconnaître, et que c'était là que personne ne songeait à chercher, car l'esprit humain néglige ce qui est trop à découvert.",
+    "quiz": [
+      {
+        "q": "Quelle lettre a été volée ?",
+        "o": [
+          "Une lettre d'amour",
+          "Une lettre compromettante",
+          "Une lettre de démission",
+          "Une lettre de menace"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le voleur de la lettre ?",
+        "o": [
+          "Un domestique",
+          "un ministre sans scrupules",
+          "Un policier",
+          "Un étranger"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où Dupin trouve-t-il la lettre ?",
+        "o": [
+          "Dans un tiroir secret",
+          "un porte-lettres en carton suspendu au mur",
+          "Sous le tapis",
+          "Dans un livre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi personne n'avait-il trouvé la lettre avant Dupin ?",
+        "o": [
+          "Parce qu'elle était bien cachée",
+          "l'endroit le plus évident, là où tout le monde la voyait",
+          "Parce qu'elle était invisible",
+          "Parce qu'elle avait été détruite"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 106
+  },
+  {
+    "id": "HOR_018",
+    "titre": "Le Chien des Baskerville",
+    "auteur": "Arthur Conan Doyle",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "La lande de Dartmoor était un endroit sauvage et désolé, avec des collines de pierre grise, des tourbières profondes et un brouillard permanent qui enveloppait tout comme un linceul. On racontait qu'un chien monstrueux, aux yeux de feu et à la taille d'un poney, hantait les landes depuis des siècles, et qu'il était responsable de la mort de plusieurs membres de la famille Baskerville. Le docteur Mortimer, ami de Sherlock Holmes, vint le consulter après la mort étrange de sir Charles Baskerville, retrouvé mort sur la lande avec une expression de terreur sur le visage et des traces de griffes sur le sol. Mortimer craignait que le nouveau héritier, sir Henry Baskerville, ne soit la prochaine victime de la malédiction. Holmes envoya le docteur Watson accompagner sir Henry à Dartmoor, pour le protéger et observer ce qui se passait. Watson découvrit que la lande était peuplée de personnages étranges : un naturaliste solitaire qui étudiait les papillons, un fermier qui semblait cacher quelque chose, et un évadé de prison qui rôdait dans les collines. Il vit également une lumière qui se déplaçait la nuit sur la lande, et il entendit des hurlements qui glaçaient le sang. Holmes arriva plus tard, et il résolut l'énigme : le chien n'était pas un fantôme, mais un vrai chien, peint avec du phosphore pour briller dans l'obscurité, et dressé par Stapleton, un naturaliste qui voulait hériter de la fortune Baskerville. Stapleton avait fait croire à la malédiction pour effrayer les héritiers et les éliminer un par un. Holmes et Watson poursuivirent le chien à travers la lande, et ils le tuèrent avant qu'il ne puisse attaquer sir Henry. Stapleton s'enfuit, mais il se noya dans les tourbières, et la malédiction fut enfin levée, laissant la lande à son silence habituel. Le brouillard, lentement, effaça les traces de la tragédie, et les villageois, soulagés, rentrèrent chez eux sans oser prononcer le nom de Stapleton, car ils savaient que la lande gardait encore, quelque part dans ses tourbières, le secret d'une mort que nul n'avait vue.",
+    "quiz": [
+      {
+        "q": "Où se déroule l'histoire ?",
+        "o": [
+          "À Londres",
+          "la lande de Dartmoor",
+          "À Paris",
+          "Dans un château"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la particularité du chien des Baskerville ?",
+        "o": [
+          "Il est petit et gentil",
+          "un chien monstrueux, aux yeux de feu",
+          "Il est blanc",
+          "Il est invisible"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est responsable de la mort de sir Charles Baskerville ?",
+        "o": [
+          "Un fantôme",
+          "Stapleton, un naturaliste",
+          "Un évadé",
+          "Un fermier"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment meurt Stapleton ?",
+        "o": [
+          "Il est tué par Holmes",
+          "il se noya dans les tourbières",
+          "Il est arrêté",
+          "Il s'enfuit à l'étranger"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 117
+  },
+  {
+    "id": "HOR_019",
+    "titre": "Le Pacte des Loups",
+    "auteur": "Jean Ray",
+    "genre": "Horreur",
+    "niveau": "Avancé",
+    "extrait": "Le village de Fontenoy était un lieu sombre et silencieux, niché au creux d'une vallée profonde, où les maisons de pierre semblaient se blottir contre la montagne comme des animaux apeurés. Depuis des générations, les habitants vivaient dans la peur d'une malédiction ancienne : chaque pleine lune, un loup-garou rôdait dans les bois, et il emportait les voyageurs qui s'aventuraient hors du village après la tombée de la nuit. Le curé du lieu, un homme savant et courageux, avait découvert que la malédiction était le résultat d'un pacte conclu par un ancêtre du village avec une entité démoniaque. En échange de la protection du village contre les invasions et les maladies, l'ancêtre avait promis de livrer chaque mois une victime à la bête. Le pacte avait été scellé avec du sang, et il ne pouvait être rompu sans provoquer la destruction complète du village. Un jeune homme nommé Pierre arriva à Fontenoy par une nuit d'orage, et il fut accueilli avec méfiance par les habitants. Il était écrivain, et il venait chercher l'inspiration dans ce lieu étrange. Mais il ne tarda pas à découvrir la vérité : le loup-garou était le fils du curé, un homme doux et timide qui se transformait chaque pleine lune sous l'effet de la malédiction. Le curé avait tout tenté pour briser le pacte, mais il n'y était pas parvenu, et il avait fini par accepter son sort, espérant protéger les autres villageois. Pierre décida d'aider le curé, et il passa des nuits à étudier les anciens grimoires, cherchant un moyen de rompre le pacte sans détruire le village. Il découvrit que le seul moyen était de tuer la bête avec une arme bénie, pendant la pleine lune, et de verser son sang sur l'autel de l'église. Mais pour tuer la bête, il fallait d'abord la trouver, et le loup-garou était rapide et rusé. Pierre se prépara, et il attendit la prochaine pleine lune, décidé à affronter la créature et à libérer le village de la malédiction, coûte que coûte, même de sa propre vie.",
+    "quiz": [
+      {
+        "q": "Quelle malédiction pèse sur le village de Fontenoy ?",
+        "o": [
+          "Une malédiction de pauvreté",
+          "un loup-garou rôdait dans les bois",
+          "Une malédiction de stérilité",
+          "Une malédiction de maladie"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est l'origine de la malédiction ?",
+        "o": [
+          "Un sort jeté par une sorcière",
+          "la malédiction était le résultat d'un pacte conclu par un ancêtre",
+          "Une malédiction naturelle",
+          "Un crime ancien"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le loup-garou ?",
+        "o": [
+          "Un étranger",
+          "le fils du curé",
+          "Le maire",
+          "Un chasseur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Pierre pense-t-il pouvoir rompre le pacte ?",
+        "o": [
+          "En priant",
+          "de tuer la bête avec une arme bénie",
+          "En s'enfuyant",
+          "En négociant avec l'entité"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 117
+  },
+  {
+    "id": "HOR_020",
+    "titre": "La Nuit des morts-vivants",
+    "auteur": "George Romero",
+    "genre": "Horreur",
+    "niveau": "Intermédiaire",
+    "extrait": "La nuit était tombée sur la Pennsylvanie, et les étoiles brillaient dans un ciel noir et profond. Barbara et son frère Johnny traversaient le cimetière en voiture, discutant de leur grand-mère malade, quand ils virent un homme étrange qui marchait lentement parmi les tombes. L'homme avait le visage pâle et les yeux vides, et il portait des vêtements sales et déchirés. Johnny, qui était courageux mais imprudent, décida de l'approcher pour lui demander ce qu'il faisait là, mais l'homme se jeta sur lui avec une violence inouïe. Barbara, terrifiée, prit la fuite en voiture, et elle se réfugia dans une ferme isolée, où elle trouva un groupe de survivants : un homme noir nommé Ben, un couple de jeunes gens, Tom et Judy, et un vieil homme avec sa fille. Ils barricadèrent les portes et les fenêtres, et ils se préparèrent à affronter les morts-vivants qui commençaient à envahir la région. Les créatures étaient des hommes et des femmes qui avaient été mordus et qui étaient revenus à la vie, mais sans intelligence, sans pitié, avec une seule obsession : dévorer les vivants. Ils étaient lents mais nombreux, et ils attaquaient en masse, brisant les portes, escaladant les murs, mordant tout ce qui bougeait. Le groupe se défendit avec des fusils, des haches et des cocktails Molotov, mais ils étaient trop peu nombreux, et les morts-vivants semblaient infatigables. Tom et Judy tentèrent de s'échapper en voiture, mais ils furent attaqués et dévorés. Le vieil homme fut mordu, et il se transforma à son tour, attaquant sa propre fille. Ben et Barbara se réfugièrent au sous-sol, et ils passèrent la nuit à écouter les bruits des créatures qui rôdaient autour de la ferme. Au matin, des hommes armés arrivèrent, et ils abattirent tous les morts-vivants sans distinction. Mais Barbara, qui avait tout vu, regarda les hommes avec des yeux vides, car elle comprit que la vraie horreur n'était pas dans les morts-vivants, mais dans la façon dont les survivants s'étaient comportés, prêts à tuer sans pitié pour sauver leur propre peau, devenus eux-mêmes des monstres.",
+    "quiz": [
+      {
+        "q": "Où se déroule l'histoire ?",
+        "o": [
+          "En France",
+          "sur la Pennsylvanie",
+          "En Angleterre",
+          "En Allemagne"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voient Barbara et Johnny dans le cimetière ?",
+        "o": [
+          "Un ange",
+          "un homme étrange qui marchait lentement",
+          "Un loup",
+          "Un fantôme"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que sont les morts-vivants ?",
+        "o": [
+          "Des fantômes",
+          "des hommes et des femmes qui avaient été mordus",
+          "Des zombies",
+          "Des vampires"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que comprend Barbara à la fin de l'histoire ?",
+        "o": [
+          "Que les morts-vivants sont dangereux",
+          "la vraie horreur n'était pas dans les morts-vivants",
+          "Qu'elle doit fuir",
+          "Qu'elle est devenue un monstre"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 118
+  },
+  {
+    "id": "DYS_001",
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "genre": "Dystopie",
+    "niveau": "Débutant",
+    "extrait": "C'était une journée froide et claire d'avril, et les horloges sonnaient treize heures. Winston Smith, le menton enfoui dans le col de son uniforme bleu, se frayait un chemin à travers les rues de Londres avec une rapidité qui trahissait son désir d'échapper au vent piquant. Devant le Ministère de la Vérité, l'immense pyramide de pierre blanche s'élevait vers le ciel gris, portant en lettres géantes les trois slogans du Parti : LA GUERRE C'EST LA PAIX, LA LIBERTÉ C'EST L'ESCLAVAGE, L'IGNORANCE C'EST LA FORCE. Winston entra dans l'ascenseur en évitant le regard des autres employés, car dans l'Airstrip One, chaque visage était suspect, chaque silence pouvait cacher une pensée criminelle. Il gravit les sept étages jusqu'à son bureau, où l'odeur de vieux papier et de vapeur de café lui rappela que son travail consistait à réécrire l'histoire, à effacer les noms des dissidents des photographies et des articles, à modifier les statistiques pour que les prévisions du Parti soient toujours justes. Sur son bureau, la télécran diffusait en continu la voix du Ministre de l'Abondance qui annonçait une nouvelle hausse de la production de chocolat, alors que Winston savait pertinemment que les rations avaient été réduites de vingt pour cent la semaine précédente. Il prit une feuille blanche et une plume, et commença à écrire dans un langage secret, un mélange de sténographie et de mots codés, car la simple pensée de tenir un journal était un crime passible de la peine de mort. Il écrivit : À une époque où les chars roulent sur les places et les avions bombardent les villes, il est impossible de ne pas éprouver un sentiment d'impuissance. Puis il ajouta : Le Parti veut que nous croyions que deux et deux font cinq, mais je sais que deux et deux font quatre. Il referma le cahier avec précaution, le cacha dans un renfoncement du mur, derrière une affiche représentant un navire de guerre, et se dit que si le Parti pouvait contrôler le passé, il contrôlerait aussi l'avenir, et que la seule façon de résister était de préserver la vérité dans le secret de son esprit. Winston sentit alors une émotion étrange monter en lui, une sorte de joie sombre et courageuse, car pour la première fois depuis des années, il avait accompli un acte qui n'était pas dicté par le Parti, un acte qui lui appartenait entièrement. Il regarda par la fenêtre et vit les enfants jouer dans la rue, mais il savait que beaucoup d'entre eux étaient des espions du Parti, que leurs jeux innocents dissimulaient une éducation à la délation, et que le moindre mot imprudent pourrait être rapporté aux autorités. Il se tourna vers son écran et murmura : Je hais le meilleur des mondes, en référence à ce roman que le Parti avait interdit et dont il ne restait que quelques exemplaires clandestins. La journée s'écoula dans un flot de corrections et de falsifications, et quand Winston quitta enfin le Ministère, la nuit était déjà tombée, les projecteurs balayaient le ciel à la recherche d'hélicoptères de la Police de la Pensée, et les affiches du visage de Big Brother semblaient le suivre du regard dans l'obscurité.",
+    "temps_cible_secondes": 182,
+    "quiz": [
+      {
+        "q": "Quelle est la devise du Parti qui figure sur la façade du Ministère de la Vérité ?",
+        "o": [
+          "La Paix par la Guerre",
+          "LA GUERRE C'EST LA PAIX, LA LIBERTÉ C'EST L'ESCLAVAGE, L'IGNORANCE C'EST LA FORCE",
+          "Le Progrès par la Science",
+          "L'Ordre par la Discipline"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le travail de Winston au Ministère de la Vérité ?",
+        "o": [
+          "Il surveille les caméras de sécurité",
+          "réécrire l'histoire",
+          "Il distribue les rations alimentaires",
+          "Il enseigne la doctrine du Parti"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Winston en cachette dans son bureau ?",
+        "o": [
+          "Il écoute de la musique interdite",
+          "écrire dans un langage secret",
+          "Il fabrique des faux papiers",
+          "Il cache des armes"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle phrase Winston écrit-il dans son journal ?",
+        "o": [
+          "Vive le Parti",
+          "Je hais le meilleur des mondes",
+          "Longue vie à Big Brother",
+          "La guerre est nécessaire"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_002",
+    "titre": "Le Meilleur des mondes",
+    "auteur": "Aldous Huxley",
+    "genre": "Dystopie",
+    "niveau": "Intermédiaire",
+    "extrait": "L'horloge marquait onze heures lorsque le Directeur des Incubateurs et de la Conditionnement termina son discours devant les étudiants réunis dans la grande salle blanche du Centre de Londres. Il leur expliqua avec une satisfaction évidente que le système de castes avait été perfectionné au fil des générations, que les Alpha étaient destinés à diriger, les Beta à seconder, les Gamma, Delta et Epsilon à accomplir les tâches subalternes sans jamais éprouver de frustration ni de désir d'ascension sociale. Un élève leva la main et demanda pourquoi les Epsilon étaient conditionnés pour aimer leur condition, et le Directeur répondit que c'était là le secret de la stabilité sociale : chaque individu était programmé dès sa naissance pour occuper la place qui lui était assignée, sans jamais ressentir l'envie de changer de condition. Il ajouta que le conditionnement néo-pavlovien permettait d'associer les livres et les fleurs à des sentiments de dégoût chez les classes inférieures, afin qu'elles ne puissent jamais accéder à la culture ou à la réflexion critique. Dans la salle voisine, des bébés en couches-culottes étaient exposés à des livres et à des fleurs, et des chocs électriques légers leur étaient administrés chaque fois qu'ils manifestaient de l'intérêt pour ces objets, de sorte qu'ils développassent une aversion profonde et irréversible. Le Directeur poursuivit en décrivant les techniques de l'hypnopédie, cette méthode qui consistait à diffuser des messages subliminaux pendant le sommeil des enfants, messages qui deviendraient partie intégrante de leur personnalité et guideraient leurs comportements toute leur vie. Il cita l'exemple des enfants Delta qui entendaient cent cinquante fois par nuit la phrase : Les livres sont ennuyeux, les fleurs sont sales, afin qu'ils grandissent en haïssant la nature et la littérature. Un étudiant observa que ce système supprimait toute liberté individuelle, et le Directeur répondit que la liberté était un danger pour le bonheur collectif, que les hommes préféraient le confort à la liberté, et que le rôle de l'État était de leur épargner les tourments du choix et de la responsabilité. Il conclut en affirmant que le monde était désormais stable, que les guerres avaient été abolies, que la pauvreté et la maladie avaient disparu, et que chaque citoyen vivait dans un bonheur artificiel mais parfaitement entretenu par le soma, cette drogue miracle qui permettait d'oublier les soucis et de s'évader dans un rêve éveillé sans effets secondaires. Les étudiants applaudirent, et le Directeur sourit, car il savait que le système qu'il défendait était le fruit de plusieurs siècles de recherche et d'expérimentation, et qu'aucune révolte ne pourrait jamais ébranler une société où chaque individu était conditionné pour aimer sa servitude. Dans les couloirs du Centre, des groupes de Beta discutaient de leurs vacances programmées, de leurs partenaires sexuels assignés, de leurs distractions autorisées, sans jamais se poser de questions sur le sens de leur existence, car le conditionnement avait effacé en eux toute capacité de réflexion critique et toute envie de transcendance. Le monde était parfait, et ceux qui le contestaient étaient traités comme des malades mentaux, envoyés dans des îles isolées où ils pourraient exprimer leur originalité sans nuire à l'ordre social établi. Le Directeur quitta la salle avec un sentiment de fierté, car il venait de former une nouvelle génération de gardiens du système, des êtres humains transformés en rouages dociles d'une machine sociale dont la seule finalité était la stabilité perpétuelle.",
+    "temps_cible_secondes": 192,
+    "quiz": [
+      {
+        "q": "Quel est le rôle du soma dans la société du Meilleur des mondes ?",
+        "o": [
+          "C'est un aliment de base",
+          "cette drogue miracle qui permettait d'oublier les soucis",
+          "C'est un vaccin contre les maladies",
+          "C'est un stimulant pour le travail"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment s'appelle la méthode qui consiste à diffuser des messages pendant le sommeil des enfants ?",
+        "o": [
+          "l'hypnopédie",
+          "La névrose conditionnelle",
+          "Le conditionnement pavlovien",
+          "L'endoctrinement nocturne"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Pourquoi les Epsilon sont-ils conditionnés pour aimer leur condition ?",
+        "o": [
+          "Pour qu'ils soient plus productifs",
+          "la stabilité sociale",
+          "Pour réduire les coûts de formation",
+          "Pour améliorer leur santé"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que préfèrent les hommes selon le Directeur : le confort ou la liberté ?",
+        "o": [
+          "La liberté",
+          "le confort à la liberté",
+          "L'aventure",
+          "La richesse"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_003",
+    "titre": "La Ferme des animaux",
+    "auteur": "George Orwell",
+    "genre": "Dystopie",
+    "niveau": "Débutant",
+    "extrait": "Le vieux Major, le verrat respecté de tous les animaux de la ferme du Manoir, convoqua une réunion secrète dans le grand hangar après que M. Jones, le propriétaire ivrogne et négligent, se fut endormi devant sa télévision. Les animaux se pressèrent autour de lui, les cochons et les chiens à l'avant, les chevaux et les vaches derrière, les moutons et les poules dans les derniers rangs, tous curieux d'entendre ce que le vieux Major avait à leur dire. Il se leva lentement sur ses pattes de derrière, toussa pour éclaircir sa voix, et commença par dénoncer l'exploitation dont ils étaient victimes depuis des générations, expliquant que la cause de tous leurs maux était l'homme, cet être paresseux et cruel qui volait le fruit de leur travail pour le dépenser en alcool et en jeux. Il décrivit une vision de l'avenir où les animaux seraient libres, où ils posséderaient eux-mêmes les champs et les granges, où le lait et les pommes leur appartiendraient au lieu d'être vendus au marché pour le profit de Jones. Il leur enseigna un chant nouveau, la Chanson des animaux, qui deviendrait l'hymne de leur révolte, et il leur révéla les Sept Commandements qui seraient inscrits sur le mur du hangar après la victoire : Tout ce qui marche sur deux pattes est un ennemi, tout ce qui marche sur quatre pattes ou a des ailes est un ami, aucun animal ne doit porter de vêtements, aucun animal ne doit dormir dans un lit, aucun animal ne doit boire d'alcool, aucun animal ne doit tuer un autre animal, tous les animaux sont égaux. Le vieux Major mourut trois jours plus tard, mais ses paroles avaient germé dans l'esprit des animaux, et lorsque Jones oublia de les nourrir un soir, ils se soulevèrent, chassèrent le propriétaire et ses hommes, et prirent le contrôle de la ferme qu'ils rebaptisèrent Ferme des animaux. Les cochons, considérés comme les plus intelligents, prirent en charge l'administration, et Napoléon, un verrat massif et rusé, s'imposa peu à peu comme le leader incontesté, aidé par Boule de Neige, un cochon plus idéaliste et éloquent qui rêvait de construire un moulin à vent pour produire de l'électricité. Les semaines passèrent, et les animaux travaillèrent dur pour récolter les champs et réparer les bâtiments, fiers de leur indépendance nouvelle, persuadés que leur condition s'améliorerait chaque jour. Cependant, les cochons commencèrent à réserver le lait et les pommes pour eux seules, arguant que leur cerveau avait besoin de ces aliments pour organiser la ferme, et les autres animaux acceptèrent cette explication sans protester, car ils avaient confiance en leurs dirigeants. Un soir, les cochons découvrirent une caisse de whisky dans la cave de Jones, et ils la burent en secret, puis ils décidèrent de dormir dans les lits de la maison, arguant que les lits n'étaient que des couvertures mal rangées, et que l'interdiction concernait les draps et les matelas. Les Sept Commandements furent progressivement modifiés pour justifier ces nouveaux comportements, et les moutons, qui ne comprenaient pas grand-chose, répétaient en chœur : Quatre pattes oui, deux pattes non, sans se rendre compte que les cochons marchaient maintenant sur deux pattes et invitaient les fermiers humains à dîner dans la maison. Benjamin, le vieil âne cynique et pessimiste, observait tout cela en silence, et quand les autres animaux lui demandaient si la situation était meilleure qu'avant, il répondait invariablement que la vie était toujours aussi dure, que les jours étaient longs et les nuits courtes, et que rien ne changeait vraiment pour ceux qui n'étaient pas des cochons. À la fin de l'histoire, les animaux regardaient par la fenêtre de la maison et ne pouvaient plus distinguer les cochons des hommes, car tous partageaient la même table, les mêmes vêtements, les mêmes habitudes de pouvoir et de corruption.",
+    "temps_cible_secondes": 217,
+    "quiz": [
+      {
+        "q": "Quel est le nom du verrat qui convoque la réunion secrète dans le hangar ?",
+        "o": [
+          "Napoléon",
+          "le vieux Major",
+          "Boule de Neige",
+          "Jones"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le premier des Sept Commandements ?",
+        "o": [
+          "Aucun animal ne doit dormir dans un lit",
+          "Tout ce qui marche sur deux pattes est un ennemi",
+          "Aucun animal ne doit boire d'alcool",
+          "Tous les animaux sont égaux"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel projet Boule de Neige veut-il réaliser pour améliorer la ferme ?",
+        "o": [
+          "Un nouveau poulailler",
+          "un moulin à vent",
+          "Une piscine pour les cochons",
+          "Une route vers le village"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que remarquent les animaux à la fin de l'histoire en regardant par la fenêtre ?",
+        "o": [
+          "Les cochons travaillent dans les champs",
+          "ne pouvaient plus distinguer les cochons des hommes",
+          "Les moutons dorment paisiblement",
+          "Les chevaux mangent du foin"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_004",
+    "titre": "Fahrenheit 451 : le bonheur de brûler",
+    "auteur": "Ray Bradbury",
+    "genre": "Dystopie",
+    "niveau": "Intermédiaire",
+    "extrait": "Il était heureux, il se sentait parfaitement conscient et satisfait de la vie, et il brûlait les livres avec une joie qui le surprenait lui-même. Guy Montag, le pompier, tenait dans sa main le lancer-allumettes, ce dispositif perfectionné qui permettait d'enflammer les ouvrages en quelques secondes, et il regardait les flammes dévorer les pages avec une fascination mêlée de honte. La maison appartenait à une vieille femme qui avait caché des livres dans son grenier, et les voisins avaient appelé les pompiers pour signaler l'infraction. Montag et son équipe avaient fait irruption dans la demeure, avaient jeté les livres dans la cour, et maintenant ils regardaient l'incendie consumer les mots, les idées, les histoires qui avaient appartenu à cette femme. La vieille femme était sortie de la maison avec un livre dans les bras, et elle avait refusé de le laisser prendre, préférant mourir avec ses livres plutôt que de les voir brûler. Montag avait tenté de la convaincre de se sauver, mais elle avait allumé une allumette et s'était jetée dans les flammes, et il avait vu son visage illuminé par l'incendie, un visage calme et résolu, comme si elle accomplissait un acte sacré. Cette image le hantait depuis plusieurs jours, et il ne pouvait plus ignorer le malaise qui grandissait en lui, ce sentiment que son travail était peut-être moins noble qu'il ne l'avait cru. Il rentra chez lui dans la nuit, traversant les rues éclairées par les écrans géants qui diffusaient des programmes interactifs, et il trouva sa femme Mildred endormie devant le mur de télévision, les oreilles branchées sur des coquilles auditives qui diffusaient en continu des chansons et des émissions sans interruption. Il s'assit à côté d'elle et regarda son visage pâle et vide, et il se demanda combien de temps elle passait chaque jour devant ces écrans, combien de livres elle avait lus dans sa vie, et si elle savait seulement ce que signifiait le mot liberté. Le lendemain, il rencontra Clarisse McClellan, une jeune voisine de dix-sept ans qui posait des questions étranges et qui marchait dans la nature pour observer les étoiles et les fleurs, des activités que Montag n'avait jamais pratiquées. Elle lui demanda s'il était heureux, et cette question simple le bouleversa, car il réalisa qu'il ne savait pas répondre, qu'il n'avait jamais réfléchi à son propre bonheur, qu'il vivait dans un monde où les gens ne se posaient plus de questions. Elle lui parla de la pluie et du vent, des arbres et des rivières, des choses que les livres décrivaient et que les écrans effaçaient, et elle lui dit que les pompiers étaient les gardiens du silence, que leur travail consistait à empêcher les gens de penser. Montag rentra chez lui avec une nouvelle conscience, et il regarda les livres qu'il avait cachés dans le conduit de ventilation, des ouvrages qu'il avait volés lors d'incendies précédents, et il se demanda lequel il allait lire en premier. Il choisit un recueil de poèmes, et il lut les premiers vers à voix haute, et il sentit une émotion puissante monter en lui, comme si les mots avaient réveillé une partie de son âme qui dormait depuis des années. Il comprit alors que les livres n'étaient pas des objets inanimés, qu'ils contenaient des vies, des pensées, des rêves, et que les brûler revenait à assassiner des êtres humains. Il ferma le livre et regarda par la fenêtre, et il vit les flammes d'un autre incendie au loin, et il sut qu'il devait choisir un camp, qu'il ne pouvait plus continuer à brûler les mots sans perdre son humanité.",
+    "temps_cible_secondes": 205,
+    "quiz": [
+      {
+        "q": "Quel est le métier de Guy Montag ?",
+        "o": [
+          "Il est écrivain",
+          "brûlait les livres",
+          "Il est policier",
+          "Il est professeur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait la vieille femme plutôt que de laisser brûler ses livres ?",
+        "o": [
+          "Elle s'enfuit de la maison",
+          "s'était jetée dans les flammes",
+          "Elle appelle la police",
+          "Elle donne ses livres aux pompiers"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle question Clarisse pose-t-elle à Montag qui le bouleverse ?",
+        "o": [
+          "Aimes-tu ton travail ?",
+          "s'il était heureux",
+          "Pourquoi brûles-tu les livres ?",
+          "Quel est ton livre préféré ?"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que cache Montag dans le conduit de ventilation ?",
+        "o": [
+          "Des armes",
+          "qu'il avait volés lors d'incendies précédents",
+          "De l'argent",
+          "Des médicaments"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_005",
+    "titre": "La Servante écarlate",
+    "auteur": "Margaret Atwood",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "Nous dormions dans ce qui avait autrefois été un gymnase de lycée, les lits alignés en rangées impeccables, les couvertures de laine grise tirées avec une précision militaire, les oreillers gonflés à la même hauteur pour que rien ne dépasse de l'alignement parfait. La Tante Lydia, debout sur l'estrade, nous observait avec un sourire qui ne parvenait pas à dissimuler la rigidité de son regard, et elle nous rappela que nous étions des privilégiées, que nous avions échappé aux Zones Toxiques, que nous vivions dans un monde où la sécurité était garantie, où la faim était inconnue, où chaque femme avait un rôle défini et une place dans la société. Elle nous parla des Anciens Temps, de cette époque de chaos où les femmes avaient le droit de travailler, de posséder des comptes en banque, de choisir leurs partenaires, et où les hommes les exploitaient, les violaient, les abandonnaient, où les enfants étaient maltraités et les avortements pratiqués dans la clandestinité. Elle nous expliqua que la République de Galaad avait mis fin à ces abus, que chaque Femme était désormais protégée par un Commandant qui lui assurait un toit, de la nourriture, une place dans la communauté, et que le prix de cette sécurité était l'obéissance, la soumission, la renonciation à toute indépendance. La Tante Lydia brandit un exemplaire de la Bible et lut un passage du Livre de Genèse, où Rachel dit à Jacob : Voici ma servante Bilha, va vers elle, et qu'elle enfante sur mes genoux, afin que j'aie des enfants par elle. Elle expliqua que ce passage justifiait notre fonction, que nous étions des ventres, des utérus ambulants, des instruments de procréation au service des Commandants et de leurs Épouses stériles. Elle ajouta que les Handmaids, comme on nous appelait, devaient être modestes, silencieuses, obéissantes, que nous ne devions jamais lever les yeux sur un Commandant sans qu'il nous ait adressé la parole, que nous ne devions jamais parler à d'autres hommes, que nous devions accepter notre sort avec gratitude et humilité. Je regardai les autres femmes autour de moi, leurs visages fermés, leurs yeux baissés, et je me demandai ce qu'elles pensaient, si elles avaient encore des souvenirs de leur ancienne vie, si elles se souvenaient de leurs maris, de leurs enfants, de leurs maisons, de leurs noms. Je pensais à mon mari Luke, à notre fille, à la maison que nous avions partagée, aux courses que nous faisions ensemble le samedi matin, aux films que nous regardions le soir, et je sentis une douleur aiguë me transpercer le cœur, car je savais que je ne les reverrais jamais, que Galaad les avait effacés de ma vie comme on efface une écriture sur un tableau noir. La Tante Lydia poursuivit son discours en décrivant les cérémonies de la Procréation, où la Femme était allongée sur le dos pendant que le Commandant récitait des prières bibliques, et où l'Épouse tenait la tête de la Servante pour l'empêcher de voir le visage de l'homme. Elle nous dit que cette cérémonie était sacrée, qu'elle ne devait jamais être associée à du plaisir, que la Servante devait rester passive et résignée, que tout désir ou toute émotion était interdit. Je baissai les yeux et regardai mes mains, ces mains qui avaient autrefois tenu un pinceau, qui avaient écrit des lettres, qui avaient caressé les cheveux de ma fille, et je me demandai si ces mains pourraient jamais retrouver leur liberté, si je pourrais un jour toucher un homme sans honte, si je pourrais un jour choisir mon propre destin. La Tante Lydia termina son discours par une bénédiction, et nous nous levâmes en silence, nous dirigeâmes vers nos lits, et nous nous couchâmes dans l'obscurité, écoutant les respirations des autres femmes, sentant la peur et le désespoir qui flottaient dans l'air comme un parfum amer. Je fermai les yeux et je priai, non pas pour moi, mais pour Luke et pour ma fille, pour qu'ils soient en sécurité, pour qu'ils m'attendent quelque part, pour que nous soyons réunis un jour, même si ce jour semblait aussi lointain et impossible que les étoiles que je ne pouvais plus voir à travers le toit du gymnase.",
+    "temps_cible_secondes": 239,
+    "quiz": [
+      {
+        "q": "Où dorment les Servantes écarlates au début du roman ?",
+        "o": [
+          "Dans des maisons individuelles",
+          "un gymnase de lycée",
+          "Dans des dortoirs de l'armée",
+          "Dans des hôtels de luxe"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel passage de la Bible la Tante Lydia utilise-t-elle pour justifier la fonction des Servantes ?",
+        "o": [
+          "Le Sermon sur la montagne",
+          "Voici ma servante Bilha, va vers elle",
+          "Les Dix Commandements",
+          "L'Apocalypse de Jean"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du mari de la narratrice ?",
+        "o": [
+          "Nick",
+          "mon mari Luke",
+          "Fred",
+          "Moira"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle couleur est le costume des Servantes écarlates ?",
+        "o": [
+          "Bleu",
+          "la République de Galaad",
+          "Blanc",
+          "Vert"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_006",
+    "titre": "Divergente",
+    "auteur": "Veronica Roth",
+    "genre": "Dystopie",
+    "niveau": "Débutant",
+    "extrait": "Le jour de la Cérémonie de la Répartition, je me tenais debout dans la salle à manger de ma famille, entourée de mes parents et de mon frère Caleb, et je sentais mon cœur battre à une vitesse qui me faisait mal. Ma mère, les yeux brillants d'une émotion qu'elle tentait de cacher, me rappela que le choix que j'allais faire déterminerait le reste de ma vie, que je devais écouter ma voix intérieure, suivre mon instinct, et ne pas laisser la peur me dicter ma décision. Mon père, plus pragmatique, me dit que l'important était de choisir une faction qui me correspondait, où je pourrais grandir et contribuer à la société. Caleb, qui avait été réparti dans Erudite l'année précédente, me serra la main et me souhaita bonne chance, et je vis dans ses yeux une lueur d'inquiétude, car il savait que je n'avais jamais vraiment su quelle faction me convenait. Nous nous rendîmes au stade, où des milliers de jeunes de seize ans attendaient leur tour, et je regardai les visages autour de moi, certains calmes et déterminés, d'autres nerveux et tremblants, tous partageant la même angoisse : quelle faction allait nous choisir, ou plutôt, quelle faction allions-nous choisir ? Le stade était immense, entouré de gradins remplis de spectateurs, et au centre se dressait le bol de braises où chacun devait plonger la main pour recevoir une vision de sa faction idéale. Je regardai les autres jeunes entrer un par un, certains sortir en souriant, d'autres en pleurant, et je me demandai ce que je verrais quand ce serait mon tour. Le présentateur annonça les noms, et quand il appela Tris Prior, je me levai et marchai vers le bol, les jambes tremblantes, le souffle court, et je plongeai ma main dans les braises ardentes. La douleur fut intense, mais elle ne dura qu'un instant, et je vis alors une série d'images défiler devant mes yeux : des visages, des lieux, des couleurs, des émotions, et je compris que je n'appartenais pas à une seule faction, que j'avais des traits de plusieurs d'entre elles, que j'étais divergente, une anomalie dangereuse dans un système qui exigeait la conformité. Je retirai ma main du bol et regardai le résultat, et je vis que la vision montrait Abnegation, Erudite et Dauntless à la fois, et je sus que je devais cacher ma divergence, que je devais choisir une faction et y entrer sans révéler ma nature, car les divergents étaient traqués et éliminés par le système. Je choisis Dauntless, la faction des courageux, des audacieux, de ceux qui défiaient la peur et protégeaient les autres, et je quittai le stade avec un sentiment de soulagement mêlé d'angoisse, car je savais que mon secret me mettrait en danger, que je devrais me battre pour survivre dans un monde qui ne tolérait pas la différence. Je regardai Caleb, qui avait choisi Erudite, et je lui fis un signe de la main, et je me dis que nous étions maintenant séparés, que nos chemins allaient diverger, que nous allions entrer dans des mondes différents avec des valeurs opposées, et que peut-être nous ne nous reverrions jamais. Je marchai vers le quartier de Dauntless, un quartier sombre et bruyant, rempli de graffitis et de bruit, et je sentis une excitation monter en moi, car pour la première fois de ma vie, j'allais pouvoir être moi-même, ou du moins, la version de moi-même que je pouvais montrer au monde.",
+    "temps_cible_secondes": 197,
+    "quiz": [
+      {
+        "q": "Quel est le nom de la narratrice de Divergente ?",
+        "o": [
+          "Caleb",
+          "Tris Prior",
+          "Quatre",
+          "Jeanine"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle faction Tris choisit-elle finalement ?",
+        "o": [
+          "Erudite",
+          "Abnegation",
+          "Dauntless",
+          "Candor"
+        ],
+        "r": 2
+      },
+      {
+        "q": "Que signifie le terme divergente dans le contexte du roman ?",
+        "o": [
+          "des traits de plusieurs d'entre elles",
+          "Quelqu'un qui est courageux",
+          "Quelqu'un qui est intelligent",
+          "Quelqu'un qui est altruiste"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Pourquoi Tris doit-elle cacher sa divergence ?",
+        "o": [
+          "traqués et éliminés",
+          "Parce que c'est honteux",
+          "Parce que ses parents le lui interdisent",
+          "Parce que c'est trop difficile"
+        ],
+        "r": 0
+      }
+    ]
+  },
+  {
+    "id": "DYS_007",
+    "titre": "Hunger Games",
+    "auteur": "Suzanne Collins",
+    "genre": "Dystopie",
+    "niveau": "Intermédiaire",
+    "extrait": "Le jour de la Moisson, je me levai avant l'aube, comme tous les ans, et je regardai par la fenêtre de ma chambre les rues du District Douze encore endormies, les maisons de bois sombre alignées le long de la route principale, les cheminées qui commençaient à fumer, les enfants qui se rendaient à l'école en courant pour échapper au froid matinal. Ma sœur Prim, sept ans, dormait encore dans le lit voisin, et je la regardai avec une tendresse mêlée d'inquiétude, car c'était son premier jour de candidature aux Hunger Games, et je savais que si son nom était tiré, je ferais n'importe quoi pour la sauver. Ma mère était déjà debout dans la cuisine, préparant le petit déjeuner, et elle me regarda avec des yeux tristes, car elle savait que cette journée serait la plus difficile de ma vie, que je devrais peut-être dire au revoir à ma sœur pour toujours. Le District Douze était le plus pauvre des douze districts, situé dans la région du Charbon, où les mineurs travaillaient douze heures par jour dans des galeries souterraines dangereuses, où la nourriture était rare, où les gens mouraient de faim et de maladie sans que le Capitole ne s'en soucie. Le Capitole, cette ville opulente et extravagante, gouvernait les districts avec une main de fer, exigeant chaque année un tribut de deux adolescents, un garçon et une fille, qui devaient s'affronter dans une arène jusqu'à la mort, pour le divertissement des citoyens du Capitole et pour rappeler aux districts leur soumission totale. Je descendis les escaliers et mangeai mon petit déjeuner en silence, puis je mis mon vieux manteau de laine et mes bottes usées, et je sortis dans la rue avec Prim et ma mère. Nous marchâmes vers la place de la Moisson, où des milliers de personnes s'étaient rassemblées, et je vis les visages tristes et résignés de mes voisins, les enfants qui serraient la main de leurs parents, les anciens qui regardaient le ciel avec une expression de désespoir. Le maire de district monta sur l'estrade et commença le discours annuel, rappelant l'histoire des Hunger Games, la rébellion des districts, la victoire du Capitole, et l'importance du sacrifice pour la paix. Puis il tira les noms, et quand il appela Primrose Everdeen, mon cœur s'arrêta de battre, et je vis ma sœur se lever et marcher vers l'estrade, les larmes aux yeux, et je savais que je ne pouvais pas la laisser mourir. Je me levai et je criai : Je me porte volontaire ! et la foule se tut, et tous les regards se tournèrent vers moi, et je montai les marches de l'estrade à côté de ma sœur, et je la pris dans mes bras, et je lui dis que tout irait bien, que je la protégerais, même si je savais que c'était un mensonge, que les Hunger Games étaient une épreuve de survie impitoyable, que seul un des vingt-quatre participants en sortirait vivant. Le maire me regarda avec une expression mêlée de surprise et de respect, et il annonça que Katniss Everdeen, seize ans, du District Douze, se portait volontaire à la place de sa sœur Primrose Everdeen, douze ans, et la foule applaudit, et je vis des larmes couler sur les visages de mes voisins, et je sentis une détermination farouche monter en moi, car je savais que je devais gagner, que je devais revenir, que je devais protéger ma sœur coûte que coûte. Je regardai Peeta Mellark, le garçon du District Douze qui avait été tiré avec moi, et je vis dans ses yeux une lueur étrange, une lueur qui me fit peur, car je savais qu'il était fort, qu'il était gentil, qu'il avait peut-être des sentiments pour moi, et que dans l'arène, ces sentiments pourraient nous détruire tous les deux. Le train du Capitole nous attendait sur la place, et je montai dans le wagon avec Peeta, et je regardai par la fenêtre les visages de ma mère et de Prim qui s'éloignaient, et je promis silencieusement que je reviendrais, que je ne les abandonnerais pas, que je gagnerais les Hunger Games, même si cela signifiait devenir une arme, un symbole, une menace pour le Capitole lui-même.",
+    "temps_cible_secondes": 240,
+    "quiz": [
+      {
+        "q": "Quel est le nom de la sœur de Katniss qui est tirée au sort ?",
+        "o": [
+          "Gale",
+          "Primrose Everdeen",
+          "Madge",
+          "Rue"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi Katniss se porte-t-elle volontaire ?",
+        "o": [
+          "Pour gagner de l'argent",
+          "à la place de sa sœur Primrose Everdeen",
+          "Pour devenir célèbre",
+          "Pour échapper au District Douze"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le rôle des Hunger Games dans la société du roman ?",
+        "o": [
+          "C'est un sport populaire",
+          "rappeler aux districts leur soumission",
+          "C'est une compétition scolaire",
+          "C'est une fête nationale"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel garçon du District Douze est tiré avec Katniss ?",
+        "o": [
+          "Gale Hawthorne",
+          "Peeta Mellark",
+          "Finnick Odair",
+          "Cato"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_008",
+    "titre": "Le Maître du Haut Château",
+    "auteur": "Philip K. Dick",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "Dans la San Francisco de 1962, sous la domination de l'Empire du Japon, le soleil se couchait sur les collines dorées, et les habitants se pressaient dans les rues pour acheter des produits japonais, pour admirer les jardins zen des maisons coloniales, pour écouter les disques de musique japonaise qui diffusaient des mélodies douces et mélancoliques dans les magasins et les restaurants. Robert Childan, le propriétaire d'une boutique d'antiquités américaines, rangeait ses vitrines avec soin, exposant des pièces de monnaie anciennes, des timbres rares, des bijoux indiens, des objets qui rappelaient un temps où l'Amérique était libre, où les États-Unis avaient gagné la Seconde Guerre mondiale et dominaient le monde. Mais dans cette réalité alternative, c'était l'Axe qui avait triomphé, que l'Allemagne nazie régnait sur l'Europe et l'Afrique, que le Japon contrôlait l'Asie et le Pacifique, et que les deux superpuissances se partageaient le monde dans une guerre froide silencieuse et meurtrière. Childan attendait un client important, un Japonais fortuné qui collectionnait les objets américains authentiques, et il vérifiait chaque pièce, chaque détail, pour s'assurer qu'aucune falsification ne se serait glissée dans sa collection. Il pensa à Juliana Frink, la jeune femme qu'il avait rencontrée quelques jours plus tôt, une femme mystérieuse et intelligente qui semblait cacher un secret, qui parlait d'un livre interdit, Le Poids de la sauterelle, écrit par un auteur américain qui avait imaginé une histoire où les Alliés avaient gagné la guerre. Ce livre était considéré comme subversif par les autorités japonaises, car il remettait en question la légitimité de leur domination, car il suggérait que l'histoire pouvait être différente, que les événements passés n'étaient pas immuables, que le monde pouvait basculer dans une autre direction à tout moment. Childan se demanda si Juliana avait raison, si le livre disait vrai, si l'histoire était vraiment aussi fragile qu'elle le prétendait, et il sentit un frisson lui parcourir l'échine, car si l'histoire pouvait changer, alors tout était possible, alors rien n'était certain, alors la réalité elle-même était une illusion précaire. Le client entra dans la boutique, un homme élégant en kimono de soie, et Childan se leva pour l'accueillir, et ils discutèrent des pièces de collection, de leur authenticité, de leur valeur historique, et Childan sentit une admiration mêlée de ressentiment pour cet homme qui représentait la puissance japonaise, qui possédait des objets américains comme on possède des trophées de chasse. Le client acheta une pièce de monnaie de 1936, et il sortit de la boutique avec un sourire satisfait, et Childan resta seul dans la vitrine, regardant les objets qui représentaient un monde disparu, un monde qui n'existait peut-être que dans les livres interdits et les rêves des hommes libres. Il pensa à son propre père, qui avait combattu dans la guerre, qui avait perdu la guerre, qui avait vu son pays occupé et transformé, et il se demanda si son père avait jamais imaginé que l'Amérique pourrait un jour être soumise à une puissance étrangère, que ses enfants grandiraient dans un monde où l'anglais serait une langue seconde, où les rues porteraient des noms japonais, où les statues des héros américains seraient remplacées par des statues de samouraïs. Il ferma la boutique et marcha dans les rues de San Francisco, et il vit les enseignes en japonais, les soldats japonais en uniforme, les civils japonais qui marchaient avec assurance, et il sentit une colère sourde monter en lui, une colère qu'il ne pouvait exprimer, qu'il devait cacher sous un masque de respect et de soumission. Il entra dans un bar et commanda un whisky, et il regarda les autres clients, des Américains comme lui, qui buvaient en silence, qui ne parlaient pas de politique, qui évitaient les sujets dangereux, qui avaient appris à survivre dans un monde qui n'était pas le leur. Il pensa à Juliana et à son livre, et il se demanda si elle avait raison, si l'histoire était vraiment un labyrinthe de possibilités, si chaque décision créait un nouveau monde, si le monde dans lequel il vivait n'était qu'une des nombreuses réalités possibles. Il sortit du bar et marcha vers la baie, et il regarda l'océan, et il sentit le vent sur son visage, et il se dit que même dans un monde dominé par l'ennemi, il y avait encore des choses qui lui appartenaient, des souvenirs, des émotions, des rêves que personne ne pourrait jamais lui prendre.",
+    "temps_cible_secondes": 249,
+    "quiz": [
+      {
+        "q": "Dans quelle ville se déroule l'histoire du Maître du Haut Château ?",
+        "o": [
+          "New York",
+          "San Francisco",
+          "Los Angeles",
+          "Chicago"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle puissance a gagné la Seconde Guerre mondiale dans cette réalité alternative ?",
+        "o": [
+          "Les Alliés",
+          "l'Axe qui avait triomphé",
+          "L'Union soviétique",
+          "La Chine"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du livre interdit que Juliana mentionne ?",
+        "o": [
+          "1984",
+          "Le Poids de la sauterelle",
+          "Le Meilleur des mondes",
+          "La Ferme des animaux"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le métier de Robert Childan ?",
+        "o": [
+          "Il est écrivain",
+          "boutique d'antiquités américaines",
+          "Il est soldat japonais",
+          "Il est professeur"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_009",
+    "titre": "Nous",
+    "auteur": "Ievgueni Zamiatine",
+    "genre": "Dystopie",
+    "niveau": "Intermédiaire",
+    "extrait": "Je suis le numéro D-503, constructeur en chef de l'Intégrale, le premier vaisseau spatial de l'État Unifié, et je tiens ce journal pour la postérité, pour que les générations futures sachent comment nous vivions dans la Cité de verre, comment nous travaillions, comment nous aimions, comment nous pensions. L'État Unifié est né de la Révolution, qui a aboli la liberté, ce fléau qui avait conduit l'humanité à la guerre, à la famine, à la souffrance, et qui a établi un ordre parfait où chaque individu est assigné à une fonction, où chaque heure est réglementée, où chaque pensée est contrôlée par le Tableau des Heures. Je me levai à l'heure exacte, six heures moins une, selon le Tableau, et je me rendis à la salle de bain collective, où je me lavai avec une eau tiède et parfumée, selon les prescriptions de l'hygiène publique, et je mis mon uniforme gris, le numéro D-503 cousu sur la poitrine, et je sortis dans la rue de verre qui reflétait le ciel bleu et les tours de la Cité. Je marchai vers l'usine, entouré de milliers d'autres numéros, tous marchant au même rythme, tous portant le même uniforme, tous ayant le même visage calme et vide, car dans l'État Unifié, l'individualité était considérée comme une maladie, comme une anomalie qui devait être corrigée par l'opération de l'âme. Je traversai la place centrale, où se dressait la statue du Bienfaiteur, le fondateur de l'État Unifié, et je m'arrêtai un instant pour regarder son visage sévère et bienveillant, et je me dis que nous devions tout à ce grand homme, que nous lui devions notre sécurité, notre bonheur, notre ordre parfait. Je rentrai dans l'usine et je montai à mon bureau, où mes collaborateurs m'attendaient pour discuter des derniers détails de l'Intégrale, ce vaisseau qui devait emporter la civilisation de l'État Unifié vers les étoiles, qui devait convertir les autres planètes à notre système parfait, qui devait étendre notre ordre à l'univers entier. Je regardai les plans du vaisseau, les schémas complexes, les calculs précis, et je sentis une fierté monter en moi, car je savais que l'Intégrale était mon œuvre, que mon nom resterait dans l'histoire, que je serais célébré comme un héros de la Révolution. Mais en même temps, je sentais une inquiétude grandir en moi, une inquiétude que je ne pouvais expliquer, une sensation que quelque chose n'allait pas, que l'ordre parfait de l'État Unifié était peut-être une prison dorée, que la liberté que nous avions perdue était peut-être la chose la plus précieuse de toutes. Je pensai à O-90, la femme qui m'était assignée par le Tableau des Heures, une femme douce et belle, avec qui je passais des moments de bonheur artificiel, des moments où nous dansions, où nous parlions, où nous aimions selon les règles de l'État. Mais je sentais que quelque chose manquait, que ces moments étaient vides, qu'ils n'avaient pas de profondeur, que l'amour dans l'État Unifié était une fonction, une obligation, un devoir, et non une passion, une émotion, une révolte. Je sortis de l'usine à l'heure exacte, dix-huit heures, selon le Tableau, et je me rendis à la salle de danse, où O-90 m'attendait, et nous dansâmes au son de la musique officielle, et je regardai son visage, et je me demandai si elle ressentait la même inquiétude que moi, si elle aussi sentait que quelque chose manquait, que la vie était plus que des numéros et des horaires. Je rentrai chez moi à l'heure exacte, vingt-deux heures, selon le Tableau, et je me couchai dans mon lit de verre, et je regardai le plafond, et je pensai à la Révolution, à la liberté, à l'amour, et je me demandai si un jour nous pourrions retrouver ces choses perdues, si un jour nous pourrions être libres, si un jour nous pourrions aimer sans règles, sans horaires, sans numéros. Je fermai les yeux et je me dis que ce journal était mon secret, que personne ne le lirait jamais, que je le cacherais dans un endroit sûr, et que peut-être, un jour, il serait découvert, et que les générations futures sauraient que nous avions existé, que nous avions pensé, que nous avions aimé, même dans la prison de l'État Unifié.",
+    "temps_cible_secondes": 242,
+    "quiz": [
+      {
+        "q": "Quel est le numéro du narrateur de Nous ?",
+        "o": [
+          "D-503",
+          "O-90",
+          "I-330",
+          "R-13"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Quel est le métier de D-503 ?",
+        "o": [
+          "Il est médecin",
+          "constructeur en chef de l'Intégrale",
+          "Il est professeur",
+          "Il est soldat"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom de la femme assignée à D-503 par le Tableau des Heures ?",
+        "o": [
+          "I-330",
+          "O-90",
+          "R-13",
+          "U"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la devise de l'État Unifié concernant la liberté ?",
+        "o": [
+          "La liberté est notre droit",
+          "ce fléau qui avait conduit l'humanité à la guerre",
+          "La liberté est nécessaire",
+          "La liberté est un rêve"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_010",
+    "titre": "Paris au XXe siècle",
+    "auteur": "Jules Verne",
+    "genre": "Dystopie",
+    "niveau": "Débutant",
+    "extrait": "Michel Dufrénoy, jeune diplômé de l'École des Arts et Métiers, sortit du bureau de placement avec un sentiment d'amertume et de désillusion qui ne le quitterait plus de toute sa vie. Il avait passé cinq années à étudier la littérature et la poésie, à apprendre les classiques, à admirer les grands écrivains du passé, et maintenant il découvrait que dans le Paris de l'an 1960, ces connaissances étaient inutiles, que la société ne valorisait plus les arts, que l'argent et la technique étaient les seules choses qui comptaient. Il marcha dans les rues de la capitale, et il vit des immeubles de verre et d'acier qui s'élevaient vers le ciel, des tramways électriques qui circulaient à grande vitesse, des machines à calculer qui traitaient les données en quelques secondes, et il se demanda comment un monde aussi avancé technologiquement pouvait être aussi pauvre spirituellement. Il entra dans un café et commanda un verre d'eau, car il n'avait pas d'argent pour acheter du vin, et il regarda les clients qui discutaient de leurs affaires, de leurs profits, de leurs inventions, sans jamais mentionner la beauté, la poésie, l'amour, ces choses qui avaient autrefois donné un sens à la vie humaine. Un homme s'approcha de lui et lui proposa un emploi dans une banque, lui expliquant que les banquiers étaient les nouveaux rois du monde, qu'ils contrôlaient l'argent, qu'ils décidaient du sort des entreprises, qu'ils étaient respectés et admirés. Michel refusa avec dégoût, car il ne voulait pas vendre son âme pour de l'argent, car il croyait encore en la beauté des mots, en la puissance des idées, en la valeur de l'art. Il sortit du café et marcha vers la bibliothèque, où il passa l'après-midi à feuilleter des livres anciens, à relire les poèmes de Victor Hugo, les romans de Balzac, les essais de Voltaire, et il sentit une émotion puissante monter en lui, comme si ces mots étaient des amis qui le comprenaient, qui le consolaient, qui lui rappelaient que la beauté existait encore, même si le monde l'avait oubliée. Le soir, il rentra chez lui, une petite chambre mansardée qu'il partageait avec son oncle, un homme pragmatique qui travaillait dans l'industrie et qui ne comprenait pas la passion de Michel pour la littérature. Son oncle lui dit que l'avenir appartenait à la technique, que les poètes étaient des reliques du passé, que le progrès était la seule valeur qui comptait, et Michel se tut, car il savait que son oncle avait raison, que le monde changeait, que les valeurs anciennes disparaissaient, que la poésie était en train de mourir. Il se coucha dans son lit, et il regarda le plafond, et il pensa à ses rêves d'enfance, à ses projets d'écrivain, à ses espoirs de gloire, et il se demanda si tout cela était vain, si la poésie avait encore un sens dans un monde de machines et de calculs. Il ferma les yeux et il se dit qu'il continuerait à écrire, qu'il continuerait à croire en la beauté des mots, même si personne ne les lisait, même si le monde les oubliait, car la poésie était sa raison de vivre, son dernier refuge, sa seule liberté dans un monde qui avait perdu son âme. Le lendemain, il se leva à l'aube, et il sortit dans les rues de Paris, et il regarda les tours de verre qui brillaient au soleil, et il sentit une tristesse infinie l'envahir, car il savait que ce monde était magnifique et terrifiant à la fois, qu'il était le fruit du progrès et de la décadence, qu'il contenait à la fois l'espoir et le désespoir, et que les poètes étaient les seuls à pouvoir voir cette dualité, les seuls à pouvoir la décrire, les seuls à pouvoir la dénoncer. Il marcha vers le parc, où il s'assit sur un banc, et il sortit un carnet de sa poche, et il commença à écrire un poème sur la beauté perdue, sur les rêves oubliés, sur les mots qui meurent dans le silence des villes modernes, et il sentit une paix l'envahir, car pour la première fois de la journée, il faisait quelque chose qui avait un sens, quelque chose qui lui appartenait, quelque chose qui résistait à la marche aveugle du progrès.",
+    "temps_cible_secondes": 243,
+    "quiz": [
+      {
+        "q": "Quel est le métier que Michel a étudié à l'École des Arts et Métiers ?",
+        "o": [
+          "L'ingénierie",
+          "étudier la littérature et la poésie",
+          "La médecine",
+          "Le droit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Dans quelle année se déroule l'histoire de Paris au XXe siècle ?",
+        "o": [
+          "1900",
+          "l'an 1960",
+          "2000",
+          "1880"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la profession que l'oncle de Michel lui recommande ?",
+        "o": [
+          "Poète",
+          "une banque",
+          "Professeur",
+          "Artiste"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Michel dans le parc pour se sentir mieux ?",
+        "o": [
+          "Il lit un journal",
+          "écrire un poème",
+          "Il dessine les arbres",
+          "Il écoute de la musique"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_011",
+    "titre": "L'Île des morts",
+    "auteur": "Alain Damasio",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "La mer était calme ce matin-là, trop calme, comme si elle retenait son souffle avant un cataclysme, et le bateau glissait sur l'eau sans faire de bruit, comme s'il était porté par une force invisible. Je me tenais à la proue, les mains crispées sur le garde-fou, et je regardais l'horizon, où les nuages s'amoncelaient en masses sombres et menaçantes, et je sentais une angoisse sourde grandir en moi, car je savais que nous approchions de l'Île des Morts, ce lieu maudit où les âmes des défunts erraient sans repos, où le temps n'avait plus de sens, où la réalité se déformait et se recomposait sans cesse. Le capitaine, un vieil homme au visage buriné par les tempêtes, se tenait à la barre, et il me regarda avec des yeux tristes et fatigués, et il me dit que l'Île n'était pas un lieu comme les autres, qu'elle absorbait les pensées, qu'elle reflétait les peurs, qu'elle montrait à chaque visiteur l'image de ses regrets les plus profonds. Je lui demandai pourquoi nous venions ici, pourquoi nous affrontions ce danger, et il répondit que nous venions chercher quelqu'un, que quelqu'un était resté sur l'Île, que quelqu'un avait besoin d'être sauvé. Je ne posai pas de questions supplémentaires, car je savais que le capitaine ne dirait rien de plus, que chaque homme sur ce bateau portait un secret, que chaque secret était lié à l'Île, que l'Île était le miroir de nos âmes. Le bateau ralentit, et je vis l'Île apparaître dans la brume, une masse sombre et imposante, couverte de forêts denses, de rochers pointus, de plages de sable noir, et je sentis un frisson me parcourir l'échine, car l'Île semblait vivante, comme si elle nous observait, comme si elle nous attendait. Nous jetâmes l'ancre à une centaine de mètres de la côte, et nous descendîmes dans un canot, et nous ramâmes vers la plage, et chaque coup de rame résonnait dans le silence de l'Île, comme si l'air lui-même était épais et lourd. Nous atteignîmes la plage, et nous marchâmes sur le sable noir, et je regardai les traces de pas qui disparaissaient dans la forêt, et je me demandai qui les avait laissées, si c'était quelqu'un de vivant, si c'était quelqu'un de mort, si c'était une illusion de l'Île. Le capitaine nous fit signe de le suivre, et nous pénétrâmes dans la forêt, et les arbres étaient hauts et sombres, et leurs branches s'entrelaçaient pour former une voûte qui bloquait la lumière du jour, et nous marchâmes pendant des heures dans ce labyrinthe de verdure, sans savoir où nous allions, sans savoir ce que nous cherchions. Soudain, nous entendîmes un bruit, un bruit de pas, un bruit de respiration, et nous nous arrêtâmes, et nous regardâmes dans l'obscurité, et nous vîmes une silhouette se détacher des arbres, une silhouette humaine, et je reconnus quelqu'un que je n'avais pas vu depuis des années, quelqu'un que je croyais mort, quelqu'un qui m'avait trahi, quelqu'un que je haïssais et que j'aimais à la fois. La silhouette s'approcha, et je vis son visage, et je reconnus mon frère, mon frère jumeau, celui qui avait disparu dans l'Île des Morts dix ans plus tôt, celui que j'avais cherché pendant des années, celui que j'avais fini par oublier. Il me regarda avec des yeux vides et tristes, et il me dit que l'Île ne lâchait jamais ses proies, que ceux qui entraient dans l'Île ne pouvaient jamais en sortir, que la mort était la seule issue, et que lui-même était mort depuis longtemps, que ce que je voyais n'était qu'une ombre, un souvenir, une illusion. Je voulus le toucher, mais ma main passa à travers lui comme à travers de la fumée, et je compris qu'il avait raison, qu'il était mort, que l'Île le retenait prisonnier de son souvenir, que je devais le laisser partir, que je devais accepter sa mort pour pouvoir moi-même survivre. Je fermai les yeux, et je sentis des larmes couler sur mes joues, et je murmurai son nom, et je lui dis adieu, et quand je rouvris les yeux, il avait disparu, et je me trouvai seul dans la forêt, avec le capitaine et les autres hommes, et je compris que l'Île m'avait montré ce que je devais voir, que j'avais accompli mon deuil, que je pouvais maintenant quitter l'Île et retourner au monde des vivants. Nous retournâmes au bateau, et nous levâmes l'ancre, et nous quittâmes l'Île des Morts, et je regardai la masse sombre s'éloigner dans la brume, et je sentis un poids se soulever de mon cœur, car j'avais enfin accepté la mort de mon frère, j'avais enfin pu dire adieu, et je pouvais maintenant commencer une nouvelle vie, libéré du poids du passé.",
+    "temps_cible_secondes": 270,
+    "quiz": [
+      {
+        "q": "Quel est le nom de l'Île vers laquelle le bateau se dirige ?",
+        "o": [
+          "L'Île des Vivants",
+          "l'Île des Morts",
+          "L'Île des Rêves",
+          "L'Île des Trésors"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la particularité de l'Île des Morts selon le capitaine ?",
+        "o": [
+          "Elle est habitée par des fantômes",
+          "qu'elle absorbait les pensées",
+          "Elle est pleine de trésors",
+          "Elle est interdite aux humains"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui le narrateur rencontre-t-il dans la forêt de l'Île ?",
+        "o": [
+          "Un vieil ami",
+          "mon frère jumeau",
+          "Un capitaine de pirate",
+          "Un animal étrange"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que comprend le narrateur quand il essaie de toucher son frère ?",
+        "o": [
+          "Que son frère est vivant",
+          "était mort depuis longtemps",
+          "Que son frère est un fantôme",
+          "Que son frère l'a trahi"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_012",
+    "titre": "V pour Vendetta",
+    "auteur": "Alan Moore",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "La nuit était tombée sur Londres, et les rues étaient désertes, car le couvre-feu était en vigueur depuis le coucher du soleil, et quiconque était surpris dans les rues après la nuit tombée était arrêté par la Police de la Vertu, ce corps de milice créé par le gouvernement fasciste de Norsefire pour maintenir l'ordre et réprimer toute dissidence. Evey Hammond, une jeune femme de seize ans, marchait rapidement vers la station de métro, le visage baissé, le manteau serré autour d'elle, car elle savait qu'il était dangereux de sortir seul la nuit, que les Fingermen, les agents de Norsefire, patrouillaient dans les rues, cherchant des prétextes pour arrêter les gens, pour les interroger, pour les faire disparaître. Elle entendit un bruit derrière elle, un bruit de pas, et elle se retourna, et elle vit une silhouette vêtue de noir, un masque de Guy Fawkes sur le visage, une cape qui flottait dans le vent, et elle sentit une peur panique l'envahir, car elle savait qui était cette silhouette, elle avait entendu les rumeurs, les histoires, les avertissements. L'homme s'approcha d'elle, et il lui dit de ne pas avoir peur, qu'il ne lui voulait pas de mal, qu'il voulait seulement lui parler, et elle remarqua sa voix, une voix calme et cultivée, une voix qui semblait venir d'un autre temps, d'un autre monde. Il lui demanda si elle avait peur de la nuit, et elle répondit que oui, que tout le monde avait peur de la nuit, que la nuit était le domaine des Fingermen, des disparitions, des secrets. Il lui dit que la nuit était aussi le domaine de la liberté, que dans l'obscurité, les masques tombaient, que les hommes pouvaient être eux-mêmes, que la peur était une invention des tyrans pour contrôler les peuples. Il lui parla de Guy Fawkes, de la conspiration des Poudres, de la tentative de faire sauter le Parlement anglais en 1605, et il lui dit que Guy Fawkes était un héros, un homme qui avait osé défier un gouvernement tyrannique, un homme qui avait sacrifié sa vie pour la liberté. Evey l'écouta avec fascination, et elle sentit une admiration monter en elle, car cet homme étrange et masqué semblait porter en lui une conviction absolue, une certitude que la tyrannie serait un jour renversée, que le peuple se réveillerait, que la liberté reviendrait. Il lui donna un CD et lui dit de l'écouter, que le CD contenait un message, une musique, une idée, et il disparut dans la nuit, aussi vite qu'il était apparu, et Evey resta seule sur le trottoir, le CD dans la main, le cœur battant, l'esprit rempli de questions et d'espoirs. Elle rentra chez elle, et elle écouta le CD, et elle entendit une voix qui parlait de la liberté, de la résistance, de la nécessité de se révolter contre l'oppression, et elle sentit une émotion puissante monter en elle, comme si elle avait enfin trouvé un sens à sa vie, comme si elle avait enfin trouvé une cause pour laquelle se battre. Le lendemain, elle découvrit que l'homme masqué avait fait sauter le Parlement, qu'il avait détruit le siège du gouvernement de Norsefire, qu'il avait tué le chef de la Police de la Vertu, et que tout Londres parlait de lui, de V, le terroriste, le justicier, le vengeur. Elle regarda les images à la télévision, et elle vit le masque de Guy Fawkes, et elle sut que c'était le même homme, que c'était celui qui lui avait parlé la nuit précédente, et elle sentit une fierté et une peur mêlées, car elle savait qu'elle était maintenant liée à lui, qu'elle faisait partie de quelque chose de plus grand qu'elle, d'une révolte qui pourrait changer le monde. Elle regarda par la fenêtre, et elle vit les rues de Londres, et elle se dit que peut-être, pour la première fois depuis des années, il y avait de l'espoir, que peut-être le peuple allait se réveiller, que peut-être la tyrannie allait tomber, et que peut-être, un jour, Londres serait libre à nouveau.",
+    "temps_cible_secondes": 231,
+    "quiz": [
+      {
+        "q": "Quel est le nom de la jeune femme qui rencontre V ?",
+        "o": [
+          "Valerie",
+          "Evey Hammond",
+          "Rosemary",
+          "Helen"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel masque porte V ?",
+        "o": [
+          "Un masque de clown",
+          "un masque de Guy Fawkes",
+          "Un masque de Zorro",
+          "Un masque de Batman"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel bâtiment V fait-il sauter ?",
+        "o": [
+          "La Tour Eiffel",
+          "faire sauter le Parlement anglais",
+          "La Banque d'Angleterre",
+          "Le Palais de Buckingham"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la devise de V concernant la peur ?",
+        "o": [
+          "La peur est nécessaire",
+          "une invention des tyrans",
+          "La peur est un instinct naturel",
+          "La peur est un signe de faiblesse"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_013",
+    "titre": "Les Guerriers de la pluie",
+    "auteur": "Alain Damasio",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "La pluie tombait sans interruption depuis trois jours, transformant les rues de la Cité en rivières boueuses, inondant les sous-sols, faisant déborder les canaux, et les habitants se barricadaient chez eux, attendant que le ciel se calme, attendant que la tempête passe, attendant que la vie reprenne son cours normal. Mais dans le quartier des Bas-Fonds, les Guerriers de la pluie dansaient sous les averses, leurs corps nus couverts de peinture bleue, leurs pieds nus frappant le sol boueux au rythme des tambours, leurs voix hurlant des chants anciens qui remontaient à l'époque où les hommes vivaient en harmonie avec la nature, où la pluie était une bénédiction, où l'eau était sacrée. Kael, le chef des Guerriers, se tenait au centre du cercle, les bras levés vers le ciel, et il recevait l'eau sur son visage comme une bénédiction, comme une communion avec les éléments, et il criait que la pluie était la voix de la Terre, que la Terre se révoltait contre les hommes qui l'avaient blessée, que la tempête était un message, un avertissement, une dernière chance de se racheter. Les autres Guerriers dansaient autour de lui, leurs corps musclés et tatoués, leurs visages peints de symboles anciens, leurs yeux brillants de ferveur, et ils criaient que le monde des hommes était mort, que le monde de la nature allait renaître, que la pluie allait tout nettoyer, tout effacer, tout recommencer. Kael regarda les visages autour de lui, et il vit des jeunes et des vieux, des hommes et des femmes, des enfants même, tous unis par la même foi, la même espérance, la même rage contre le monde moderne qui avait détruit la nature, qui avait pollué les rivières, qui avait abattu les forêts, qui avait tué les animaux, qui avait oublié que les hommes n'étaient que des invités sur la Terre, que la Terre était la maîtresse, que la Terre pouvait se venger. Il pensa à sa sœur, qui était morte d'une maladie causée par la pollution de l'air, à son père, qui avait été tué par la police pour avoir protesté contre la construction d'un barrage, à sa mère, qui avait disparu dans les inondations de l'année précédente, et il sentit une douleur aiguë lui transpercer le cœur, car il savait que la tempête était aussi une vengeance, que la Terre se vengeait des crimes des hommes, que la pluie était le sang de la Terre qui coulait pour laver les péchés de l'humanité. Les tambours s'accélérèrent, et les Guerriers dansèrent plus vite, leurs pieds frappant le sol avec une force croissante, leurs voix hurlant plus fort, et la pluie sembla répondre à leur appel, les éclairs illuminèrent le ciel, le tonnerre gronda comme un rugissement de colère, et Kael sentit une puissance immense monter en lui, une puissance qui venait de la Terre, de la pluie, des ancêtres, de tous les êtres vivants qui avaient souffert de la folie des hommes. Il leva les bras vers le ciel, et il cria un nom ancien, un nom qui avait été oublié depuis des siècles, un nom qui était le nom de la Terre elle-même, et il sentit la pluie entrer dans son corps, dans son âme, dans son esprit, et il devint un avec la tempête, un avec la Terre, un avec la vengeance de la nature. Les Guerriers s'arrêtèrent de danser, et ils regardèrent Kael avec des yeux écarquillés, car ils virent que quelque chose avait changé en lui, que son visage brillait, que ses yeux brillaient, que son corps semblait fait de lumière et d'eau, et ils comprirent que Kael était devenu un prophète, un messager de la Terre, un guide pour le nouveau monde qui allait naître des ruines de l'ancien. Kael parla, et sa voix était différente, plus profonde, plus puissante, et il dit que la tempête allait durer encore sept jours, que les eaux allaient monter, que les villes allaient être inondées, que les hommes allaient être punis, que seuls les Guerriers de la pluie allaient survivre, que seuls les Guerriers allaient construire le nouveau monde, un monde où les hommes vivraient en harmonie avec la nature, où la pluie serait une bénédiction, où la Terre serait respectée et aimée. Les Guerriers crièrent de joie, et ils dansèrent autour de Kael, et la pluie tomba plus fort, et les éclairs illuminèrent le ciel, et le tonnerre gronda, et la Terre se révoltait, et les Guerriers de la pluie dansaient sous la tempête, et ils savaient que le monde allait changer, que le vieux monde allait mourir, que le nouveau monde allait naître, et qu'ils seraient les pères de ce nouveau monde, les gardiens de la Terre, les enfants de la pluie.",
+    "temps_cible_secondes": 268,
+    "quiz": [
+      {
+        "q": "Quel est le nom du chef des Guerriers de la pluie ?",
+        "o": [
+          "Kael",
+          "Damon",
+          "Zephyr",
+          "Orion"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Depuis combien de temps la pluie tombe-t-elle sans interruption ?",
+        "o": [
+          "Un jour",
+          "depuis trois jours",
+          "Une semaine",
+          "Un mois"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi les Guerriers dansent-ils sous la pluie ?",
+        "o": [
+          "Pour se divertir",
+          "la Terre se vengeait des crimes des hommes",
+          "Pour se réchauffer",
+          "Pour honorer un dieu"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que devient Kael à la fin de l'extrait ?",
+        "o": [
+          "Il meurt",
+          "un prophète, un messager de la Terre",
+          "Il s'enfuit",
+          "Il est arrêté par la police"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_014",
+    "titre": "Le Monde de la fin",
+    "auteur": "Alain Damasio",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "Le monde touchait à sa fin, non pas avec fracas, pas avec des explosions ou des cataclysmes, mais avec une lenteur infinie, avec une usure progressive de toutes choses, comme si le temps lui-même se fatiguait, comme si les lois de la physique se relâchaient, comme si la réalité perdait peu à peu sa cohérence. Les villes se vidaient, les rues se vidaient, les maisons se vidaient, et les hommes partaient vers l'Est, vers la Montagne, vers le lieu où, selon la légende, le monde ne finissait pas, où le temps s'arrêtait, où les morts revenaient à la vie, où les vivants pouvaient rencontrer leurs ancêtres. Otoh, le vieux gardien du phare, restait sur la côte, et il regardait la mer, et il voyait les bateaux partir, les familles entières charger leurs biens sur des carrioles, les enfants pleurer, les vieux sourire, et il se demandait pourquoi il restait, pourquoi il ne partait pas avec les autres, pourquoi il continuait à entretenir le phare qui n'éclairait plus personne, qui n'était plus utile, qui était devenu un monument inutile dans un monde qui n'avait plus besoin de lumière. Il pensa à sa femme, qui était morte depuis dix ans, qui reposait dans le cimetière du village, et il se dit qu'il restait pour elle, que le phare était leur maison, que la lumière était son souvenir, que tant que le phare brillerait, elle serait toujours avec lui. Il descendit les escaliers en colimaçon, et il vérifia la lampe, l'huile, les lentilles, et il alluma la mèche, et la lumière jaillit, et elle traversa la nuit, et elle éclaira la mer, et elle éclaira les bateaux qui s'éloignaient, et elle éclua les visages des hommes qui regardaient en arrière, et ils virent le phare, et ils firent un signe de la main, et Otoh leur répondit, et il sentit une émotion étrange, une émotion mêlée de tristesse et de fierté, car il savait que le phare était le dernier symbole d'un monde qui mourait, que la lumière était le dernier espoir d'un peuple qui partait, que lui-même était le dernier gardien d'une époque qui s'achevait. Il remonta les escaliers, et il s'assit dans la salle de contrôle, et il regarda la mer, et il vit les étoiles, et il se dit que le monde de la fin était aussi un monde de beauté, que la fin n'était pas une catastrophe, mais une transformation, que la mort d'un monde était la naissance d'un autre, que la lumière du phare était aussi une lumière d'adieu, une lumière d'espoir, une lumière qui guidait les hommes vers leur nouvelle destinée. Il pensa aux histoires que les anciens racontaient, à la Montagne qui ne finissait jamais, au temps qui s'arrêtait, aux morts qui revenaient, et il se demanda si ces histoires étaient vraies, si la Montagne existait vraiment, si le monde de la fin était en réalité un monde de commencement, si la fin était en réalité un nouveau départ. Il ferma les yeux, et il sentit la brise marine sur son visage, et il entendit le bruit des vagues, et il se dit que même si le monde finissait, même si tout disparaissait, même si la lumière du phare s'éteignait, quelque chose resterait, quelque chose de plus fort que le temps, que la mort, que l'oubli, quelque chose qui était en lui, qui était dans le phare, qui était dans la mer, qui était dans les étoiles, quelque chose qui ne finirait jamais. Il ouvrit les yeux, et il regarda la mer, et il vit une lumière à l'horizon, une lumière qui n'était pas celle du phare, une lumière qui venait de la Montagne, et il comprit que les hommes étaient arrivés, que le monde de la fin était terminé, que le monde de la Montagne commençait, et qu'il pouvait enfin partir, qu'il pouvait enfin rejoindre sa femme, qu'il pouvait enfin entrer dans le monde qui ne finissait jamais. Il descendit les escaliers, et il éteignit la lampe, et le phare devint sombre, et Otoh sortit dans la nuit, et il marcha vers la mer, et il sentit la brise sur son visage, et il sourit, car il savait que la fin était un commencement, que la mort était une naissance, que le monde de la fin était le monde de la vie éternelle.",
+    "temps_cible_secondes": 247,
+    "quiz": [
+      {
+        "q": "Quel est le métier d'Otoh ?",
+        "o": [
+          "Il est pêcheur",
+          "le vieux gardien du phare",
+          "Il est capitaine de bateau",
+          "Il est agriculteur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Vers quel lieu les habitants partent-ils pour échapper à la fin du monde ?",
+        "o": [
+          "Vers la mer",
+          "vers la Montagne",
+          "Vers la forêt",
+          "Vers le désert"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi Otoh reste-t-il sur la côte au lieu de partir avec les autres ?",
+        "o": [
+          "Parce qu'il a peur du voyage",
+          "la lumière était son souvenir",
+          "Parce qu'il est malade",
+          "Parce qu'il attend un bateau"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voit Otoh à l'horizon à la fin de l'extrait ?",
+        "o": [
+          "Un navire en feu",
+          "une lumière qui venait de la Montagne",
+          "Un oiseau géant",
+          "Une tempête"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_015",
+    "titre": "La Zone du dehors",
+    "auteur": "Alain Damasio",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "La Zone du dehors commençait là où la Cité finissait, là où les murs de béton armé s'arrêtaient, là où les caméras de surveillance ne filmaient plus, là où les drones ne patrouillaient plus, là où les hommes pouvaient enfin respirer, pouvaient enfin parler, pouvaient enfin penser sans être écoutés, sans être surveillés, sans être jugés. Les habitants de la Cité appelaient la Zone du dehors le Territoire Sauvage, le Pays des Ombres, le Monde des Anormaux, et ils la décrivaient comme un lieu de danger, de chaos, de violence, où rôdaient des bêtes féroces, où se cachaient des criminels, où la loi n'existait pas. Mais ceux qui connaissaient la Zone savaient que c'était un mensonge, que la Zone était un lieu de liberté, un lieu de création, un lieu où les hommes pouvaient être eux-mêmes, où ils pouvaient exprimer leurs pensées, leurs émotions, leurs rêves, sans être contraints par les règles de la Cité. Koyomi, la jeune fugitive, marchait dans la Zone depuis trois jours, et elle sentait la liberté monter en elle à chaque pas, à chaque respiration, à chaque regard vers le ciel étoilé, car dans la Cité, le ciel était caché par les tours, par les écrans, par les nuages de pollution, et les hommes ne savaient plus ce qu'était une étoile, ce qu'était la nuit, ce qu'était le silence. Elle marchait vers le Camp des Ombres, le lieu où se rassemblaient les fugitifs, les dissidents, les anormaux, ceux qui avaient refusé de se soumettre à la Cité, qui avaient choisi la liberté plutôt que la sécurité, qui avaient préféré le risque à la soumission. Elle traversa des champs de blé sauvage, des forêts de pins, des rivières cristallines, et elle vit des animaux qu'elle n'avait jamais vus dans la Cité, des cerfs, des renards, des oiseaux, et elle sentit une joie immense l'envahir, car elle savait que la Zone était vivante, que la Zone était belle, que la Zone était la vraie vie, celle que les hommes avaient perdue en entrant dans la Cité. Elle arriva au Camp des Ombres au crépuscule, et elle vit les feux, les tentes, les hommes et les femmes qui dansaient, qui chantaient, qui riaient, et elle sentit une émotion puissante monter en elle, car elle savait qu'elle était arrivée chez elle, qu'elle était parmi les siens, qu'elle n'était plus seule. Un homme s'approcha d'elle, un homme grand et fort, avec des cheveux longs et des yeux brillants, et il lui sourit, et il lui dit qu'elle était la bienvenue, que le Camp était sa maison maintenant, que la Cité ne pourrait plus jamais la toucher. Elle regarda les visages autour d'elle, et elle vit des gens de tous âges, de toutes origines, tous unis par la même cause, la même espérance, la même rage contre la Cité qui les avait chassés, qui les avait traqués, qui avait détruit leur vie. Elle pensa à sa famille, qui était restée dans la Cité, qui avait choisi de se soumettre, qui avait préféré la sécurité à la liberté, et elle sentit une tristesse mêlée de détermination, car elle savait qu'elle ne pourrait jamais retourner dans la Cité, que son chemin était tracé, que sa vie était maintenant dans la Zone, parmi les Ombres, parmi les libres. Elle s'assit près du feu, et elle regarda les flammes danser, et elle écouta les histoires des autres fugitifs, des histoires de fuite, de poursuite, de perte, d'espoir, et elle sentit qu'elle appartenait à cette communauté, que cette communauté était sa famille maintenant, que la Zone du dehors était sa maison, son refuge, son monde. Elle regarda les étoiles, et elle vit des constellations qu'elle n'avait jamais vues dans la Cité, et elle se dit que le monde était plus grand que la Cité, que la vie était plus belle que la sécurité, que la liberté valait tous les sacrifices, tous les dangers, toutes les peurs. Elle ferma les yeux, et elle sentit la brise sur son visage, et elle entendit les chants des oiseaux, et elle se dit qu'elle était enfin libre, enfin vivante, enfin elle-même, et que rien ne pourrait jamais lui reprendre cela, pas la Cité, pas les drones, pas les murs de béton, pas la peur, pas l'oubli.",
+    "temps_cible_secondes": 243,
+    "quiz": [
+      {
+        "q": "Où commence la Zone du dehors ?",
+        "o": [
+          "Au centre de la Cité",
+          "là où la Cité finissait",
+          "Dans les montagnes",
+          "Sous la mer"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment les habitants de la Cité appellent-ils la Zone du dehors ?",
+        "o": [
+          "Le Paradis",
+          "le Territoire Sauvage",
+          "La Nouvelle Cité",
+          "Le Refuge"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom de la jeune fugitive qui arrive au Camp des Ombres ?",
+        "o": [
+          "Koyomi",
+          "Mira",
+          "Soren",
+          "Lior"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Pourquoi Koyomi a-t-elle fui la Cité ?",
+        "o": [
+          "Pour trouver de l'or",
+          "choisi la liberté plutôt que la sécurité",
+          "Pour rejoindre sa famille",
+          "Pour devenir soldat"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_016",
+    "titre": "Le Cycle de Dune",
+    "auteur": "Frank Herbert",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "La planète Arrakis, connue sous le nom de Dune, était un désert de sable et de roche, sans eau, sans végétation, sans vie apparente, et pourtant c'était la planète la plus précieuse de l'univers, car c'était la seule source de l'épice, la mélange, cette substance qui prolongeait la vie, qui augmentait la conscience, qui permettait la navigation spatiale, qui valait plus que l'or, plus que les diamants, plus que toutes les richesses de l'univers réunies. La Maison Atréides, dirigée par le Duc Leto, venait d'être assignée à la gouvernance d'Arrakis par l'Empereur Padishah Shaddam IV, une faveur qui était en réalité un piège, car l'Empereur, jaloux de la popularité du Duc, avait conclu un accord avec la Maison Harkonnen, l'ennemi séculaire des Atréides, pour les anéantir et s'emparer de l'épice. Le Duc Leto savait que le piège se refermerait bientôt, mais il accepta la mission, car il n'avait pas le choix, car refuser aurait été un acte de rébellion, et l'Empereur aurait envoyé les Sardaukar, ses troupes d'élite, pour détruire sa maison. Il arriva sur Arrakis avec son fils Paul, une femme nommée Jessica, et une armée de soldats fidèles, et il s'installa dans le palais de la cité de Arrakeen, et il commença à organiser la défense, à former ses hommes, à négocier avec les Fremen, les habitants natifs du désert, des hommes mystérieux et farouches qui vivaient dans les profondeurs du désert, qui maîtrisaient l'eau, qui connaissaient les secrets de l'épice, qui étaient les véritables maîtres d'Arrakis. Paul, le fils du Duc, était un jeune homme de quinze ans, intelligent, sensible, entraîné par sa mère Jessica, qui était une membre de l'ordre des Bene Gesserit, un ordre de femmes qui maîtrisaient le corps et l'esprit, qui pouvaient contrôler les émotions, qui pouvaient voir l'avenir, qui avaient un plan secret pour sauver l'humanité. Jessica avait été chargée par les Bene Gesserit de donner naissance à une fille, mais elle avait eu un fils, Paul, et elle savait que ce fils était peut-être le Kwisatz Haderach, l'être suprême que les Bene Gesserit attendaient depuis des millénaires, l'être qui pourrait voir le passé et l'avenir, qui pourrait sauver l'humanité de sa propre destruction. Paul sentait quelque chose de différent en lui, une conscience accrue, une perception élargie, une intuition qui le guidait, et il savait que l'épice était la clé, que l'épice ouvrait les portes de la perception, que l'épice lui permettrait de voir ce que les autres ne pouvaient pas voir. Il marcha dans le désert, et il sentit le sable sous ses pieds, et il sentit la chaleur du soleil, et il sentit l'épice dans l'air, et il comprit que le désert était vivant, que l'épice était le sang de la planète, que Dune était un être vivant, une conscience immense qui observait, qui attendait, qui choisissait. Il rencontra les Fremen, et il parla avec leur chef, Stilgar, et il leur dit qu'il était le Lisan al Gaib, le messager du ciel, celui qui apporterait l'eau à Arrakis, qui transformerait le désert en jardin, qui libérerait les Fremen de la tyrannie des Harkonnen et de l'Empereur. Les Fremen le regardèrent avec des yeux brillants, et ils virent en lui le sauveur, le prophète, le guide, et ils jurèrent fidélité, et ils commencèrent à l'entraîner, à lui apprendre les secrets du désert, à lui apprendre à utiliser l'épice, à lui apprendre à devenir un Fremen, à devenir un guerrier, à devenir un leader. Le Duc Leto organisa une réception pour les chefs des grandes Maisons, et il invita le Baron Harkonnen, son ennemi, et il sentit la tension monter, car il savait que le Baron était venu pour le tuer, pour anéantir sa maison, pour s'emparer de l'épice. Il regarda Paul, et il vit dans les yeux de son fils une lueur étrange, une lueur qui le fit peur, car il savait que Paul était différent, que Paul avait un destin, que Paul était peut-être le sauveur de leur maison, de leur peuple, de l'univers entier. Il serra la main de son fils, et il lui dit de se préparer, que les temps difficiles arrivaient, que la bataille allait commencer, que leur survie dépendait de leur courage, de leur intelligence, de leur foi. Paul regarda son père, et il sentit une détermination farouche monter en lui, car il savait que le piège allait se refermer, que la trahison allait se produire, que la Maison Atréides allait être attaquée, et que lui, Paul Atréides, allait devoir survivre, se venger, accomplir son destin, devenir le Kwisatz Haderach, sauver l'humanité, transformer Arrakis, transformer l'univers.",
+    "temps_cible_secondes": 261,
+    "quiz": [
+      {
+        "q": "Quelle est la particularité de la planète Arrakis ?",
+        "o": [
+          "C'est une planète océanique",
+          "la seule source de l'épice",
+          "C'est une planète glacée",
+          "C'est une planète volcanique"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le chef de la Maison Atréides ?",
+        "o": [
+          "Paul Atréides",
+          "le Duc Leto",
+          "le Baron Harkonnen",
+          "l'Empereur Shaddam IV"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du peuple natif d'Arrakis ?",
+        "o": [
+          "Les Sardaukar",
+          "les Fremen",
+          "Les Bene Gesserit",
+          "Les Mentats"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le titre que les Fremen donnent à Paul ?",
+        "o": [
+          "Le Kwisatz Haderach",
+          "le Lisan al Gaib",
+          "Le Muad'Dib",
+          "Le Baron"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_017",
+    "titre": "Le Passe-muraille",
+    "auteur": "Marcel Aymé",
+    "genre": "Dystopie",
+    "niveau": "Débutant",
+    "extrait": "Dutilleul, le modeste employé de bureau, habitait un petit appartement rue Montmartre, au quatrième étage d'un immeuble vétuste, et il menait une existence monotone et réglée, allant chaque matin à son bureau, rentrant chaque soir pour dîner avec sa femme, regardant la télévision, se couchant tôt, sans jamais rien faire d'extraordinaire, sans jamais rien faire d'imprévu, sans jamais rien faire qui sorte de l'ordinaire. Un matin, en se réveillant, il découvrit qu'il avait un don étrange et merveilleux : il pouvait traverser les murs, passer à travers la pierre comme si elle était faite d'air, marcher dans les solides comme si c'était du vide, et il se demanda si c'était un rêve, une hallucination, un miracle, et il décida de le vérifier en se levant et en marchant vers le mur de sa chambre. Il posa la main sur le mur, et il sentit la pierre froide et dure, et il ferma les yeux, et il fit un pas en avant, et il se retrouva de l'autre côté, dans le couloir, et il regarda sa main, et elle était intacte, et il regarda le mur, et il n'y avait pas de trou, et il comprit que le don était réel, qu'il pouvait traverser les murs, qu'il était devenu un passe-muraille. Il passa la journée à expérimenter son pouvoir, traversant les murs de son appartement, les murs de l'immeuble, les murs des maisons voisines, et il découvrit qu'il pouvait entrer dans n'importe quel endroit, dans n'importe quelle pièce, dans n'importe quel bâtiment, sans jamais avoir à ouvrir une porte, sans jamais avoir à demander la permission, sans jamais avoir à justifier sa présence. Il se rendit à la banque, et il traversa le mur de la salle des coffres, et il regarda les lingots d'or, les billets de banque, les bijoux, et il fut tenté d'en prendre, mais il se retint, car il était honnête, parce qu'il ne voulait pas utiliser son don pour commettre des crimes. Il se rendit au Palais de l'Élysée, et il traversa les murs du bureau du Président, et il écouta les conversations des ministres, et il découvrit des secrets d'État, des complots, des trahisons, et il se dit que son don était une arme, qu'il pouvait utiliser son pouvoir pour dénoncer les injustices, pour combattre la corruption, pour défendre les faibles. Mais il était timide, il était modeste, il avait peur du pouvoir, et il décida de ne rien dire, de ne rien faire, de garder son secret pour lui, de vivre sa vie normale, en utilisant son don seulement pour son plaisir, pour ses petites aventures, pour ses escapades secrètes. Il traversa les murs des théâtres, et il assista aux spectacles sans payer, il traversa les murs des restaurants, et il mangea sans commander, il traversa les murs des hôtels, et il dormit dans les lits les plus confortables sans être vu, et il se dit que la vie était devenue un jeu, un jeu merveilleux et excitant, un jeu où il pouvait aller où il voulait, faire ce qu'il voulait, être qui il voulait. Un soir, en traversant le mur d'un appartement luxueux, il rencontra une femme, une femme belle et mystérieuse, qui le regarda avec des yeux brillants, et qui lui dit qu'elle savait ce qu'il était, qu'elle savait qu'il était un passe-muraille, qu'elle avait le même don, et qu'elle l'attendait depuis longtemps. Dutilleul fut surpris, et il demanda qui elle était, et elle répondit qu'elle s'appelait Grâce, qu'elle était une passe-muraille comme lui, qu'elle avait vécu des siècles, qu'elle avait traversé les murs des châteaux, des palais, des prisons, qu'elle avait vu l'histoire défiler, qu'elle avait connu les rois et les reines, les empereurs et les impératrices, et qu'elle cherchait un compagnon, quelqu'un qui partageait son don, quelqu'un qui comprendrait sa solitude, quelqu'un qui l'accompagnerait dans ses voyages à travers les murs du temps et de l'espace. Dutilleul regarda Grâce, et il sentit une émotion puissante monter en lui, une émotion mêlée de peur et d'excitation, car il savait que sa vie allait changer, que son don allait prendre un sens, qu'il allait enfin ne plus être seul, qu'il allait enfin avoir une raison de vivre, d'explorer, de découvrir, d'aimer. Il prit la main de Grâce, et ils traversèrent le mur ensemble, et ils se retrouvèrent dans la rue, et ils regardèrent les étoiles, et ils se dirent que le monde était grand, que les murs étaient nombreux, que leur voyage ne faisait que commencer, que leur histoire allait durer des siècles, que leur amour allait traverser les murs du temps, que rien ne pourrait jamais les séparer.",
+    "temps_cible_secondes": 263,
+    "quiz": [
+      {
+        "q": "Quel est le nom de l'employé de bureau qui découvre son don ?",
+        "o": [
+          "Grâce",
+          "Dutilleul",
+          "Marcel",
+          "Georges"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le don de Dutilleul ?",
+        "o": [
+          "Il peut voler",
+          "il pouvait traverser les murs",
+          "Il peut devenir invisible",
+          "Il peut lire dans les pensées"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom de la femme qui a le même don que Dutilleul ?",
+        "o": [
+          "Marguerite",
+          "s'appelait Grâce",
+          "Isabelle",
+          "Clara"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que font Dutilleul et Grâce à la fin de l'extrait ?",
+        "o": [
+          "Ils se séparent",
+          "regardèrent les étoiles",
+          "Ils rentrent chez eux",
+          "Ils appellent la police"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_018",
+    "titre": "Le Château des Carpathes",
+    "auteur": "Jules Verne",
+    "genre": "Dystopie",
+    "niveau": "Débutant",
+    "extrait": "Le château des Carpathes dominait la vallée du haut de son rocher, une masse sombre et imposante qui se découpait contre le ciel étoilé, et les villageois de la région racontaient des histoires étranges à son sujet, des histoires de fantômes, de monstres, de malédictions, des histoires qui effrayaient les enfants et faisaient frémir les adultes. Le comte Franz de Télek, jeune noble hongrois, voyageait à travers les montagnes des Carpathes, et il entendit parler du château, et il décida de le visiter, car il était curieux, car il aimait les mystères, car il ne croyait pas aux fantômes, car il pensait que toutes ces histoires n'étaient que des superstitions de paysans ignorants. Il arriva au pied du rocher, et il regarda le château, et il vit que les tours étaient sombres, que les fenêtres étaient fermées, que le pont-levis était relevé, et il se dit que le château était abandonné, que personne n'y vivait, que les histoires de fantômes n'étaient que des légendes sans fondement. Il gravit le sentier qui menait au château, et il sentit le vent froid des montagnes sur son visage, et il entendit des bruits étranges, des cris, des gémissements, des rires, et il se demanda si ces bruits étaient réels, si c'était le vent, si c'était des animaux, si c'était son imagination. Il atteignit la porte du château, et il frappa, et il attendit, et personne ne répondit, et il poussa la porte, et elle s'ouvrit sans résistance, et il entra dans le hall, et il vit des torches allumées, des meubles couverts de poussière, des tableaux aux murs, et il se dit que quelqu'un vivait bien dans le château, que les histoires de fantômes n'étaient peut-être pas des légendes. Il monta l'escalier, et il entendit des pas au-dessus de lui, et il appela, et personne ne répondit, et il continua à monter, et il arriva dans une salle immense, avec des vitraux colorés, des tapis épais, des chaises dorées, et au centre de la salle, il vit une femme, une femme magnifique, vêtue de blanc, avec des cheveux d'or, et des yeux bleus, et elle le regarda avec une expression de tristesse et de surprise. Elle lui dit qu'il ne devait pas être là, que le château était dangereux, que des forces maléfiques y régnaient, que s'il restait, il serait en danger, qu'il devait partir immédiatement. Franz lui demanda qui elle était, et elle répondit qu'elle s'appelait Stéphanie, qu'elle était la fille du propriétaire du château, qu'elle était prisonnière des forces maléfiques, qu'elle ne pouvait pas sortir, qu'elle était condamnée à errer dans les couloirs du château pour l'éternité. Franz lui dit qu'il allait la sauver, qu'il allait combattre les forces maléfiques, qu'il allait la libérer, et Stéphanie lui dit que c'était impossible, que personne ne pouvait la sauver, que le château était maudit, que les forces maléfiques étaient trop puissantes, que quiconque essayait de les combattre était tué, était maudit, était condamné à errer comme elle pour l'éternité. Franz regarda Stéphanie, et il sentit une détermination farouche monter en lui, car il était amoureux d'elle, car il voulait la sauver, car il ne croyait pas aux malédictions, car il croyait en la force de l'amour, en la puissance du courage, en la victoire du bien sur le mal. Il descendit les escaliers, et il chercha des indices, des objets, des armes, et il trouva un vieux livre dans la bibliothèque, un livre de sorcellerie, un livre qui décrivait les forces maléfiques, leurs points faibles, leur histoire, et il comprit que le château était habité par un vampire, un vampire ancien et puissant, qui avait maudit Stéphanie et sa famille, qui les retenait prisonniers, qui se nourrissait de leur sang, de leur énergie, de leur vie. Il prépara un plan, il rassembla des armes, du bois, de l'ail, un crucifix, et il retourna dans la salle où Stéphanie l'attendait, et il lui dit qu'il allait combattre le vampire, qu'il allait le tuer, qu'il allait la libérer, et Stéphanie pleura, et elle lui dit de faire attention, que le vampire était puissant, que le combat serait dangereux, que s'il échouait, ils seraient tous deux condamnés. Franz lui prit la main, et il lui dit de ne pas avoir peur, que l'amour était plus fort que le mal, que le courage était plus fort que la peur, que la lumière était plus forte que les ténèbres, et ils descendirent ensemble vers les profondeurs du château, vers la crypte où le vampire dormait, et ils savaient que le combat allait être terrible, que la victoire n'était pas certaine, mais qu'ils allaient se battre, qu'ils allaient gagner, qu'ils allaient être libres.",
+    "temps_cible_secondes": 266,
+    "quiz": [
+      {
+        "q": "Quel est le nom du jeune noble qui visite le château ?",
+        "o": [
+          "Rodolphe",
+          "Franz de Télek",
+          "Alexandre",
+          "Henri"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom de la femme que Franz rencontre dans le château ?",
+        "o": [
+          "Marguerite",
+          "s'appelait Stéphanie",
+          "Isabelle",
+          "Clara"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle créature maléfique habite le château selon le vieux livre ?",
+        "o": [
+          "Un loup-garou",
+          "un vampire",
+          "Un fantôme",
+          "Un démon"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que trouve Franz dans la bibliothèque du château ?",
+        "o": [
+          "Un trésor",
+          "un vieux livre dans la bibliothèque",
+          "Une arme magique",
+          "Une carte au trésor"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_019",
+    "titre": "L'Écho des âmes",
+    "auteur": "Jean-Philippe Jaworski",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "La citadelle de Varengeville s'élevait sur la falaise, dominant la mer du haut de ses tours de pierre grise, et les remparts étaient gardés par des archers qui surveillaient l'horizon, car les temps étaient troubles, car les armées du Roi-Sorcier approchaient, car la guerre allait bientôt éclater, et les hommes de la citadelle savaient que cette bataille serait la dernière, que si la citadelle tombait, tout serait perdu, que le monde libre serait détruit, que les ténèbres régneraient pour l'éternité. Le seigneur Gaultier, commandant de la citadelle, se tenait sur la tour la plus haute, et il regardait les plaines au sud, et il vit les feux des camps ennemis, et il sentit une lourdeur dans son cœur, car il savait que ses hommes étaient peu nombreux, que leurs provisions étaient limitées, que leurs renforts n'arriveraient pas à temps, que la défaite était inévitable. Il descendit les escaliers, et il traversa la cour, et il entra dans la salle du conseil, où les capitaines l'attendaient, et il leur annonça que l'ennemi était à trois jours de marche, que la citadelle allait être assiégée, que chaque homme devait se préparer au combat, que chaque homme devait défendre la citadelle jusqu'à la mort. Les capitaines hochèrent la tête, et ils sortirent pour organiser les défenses, pour distribuer les armes, pour renforcer les murailles, pour préparer les catapultes, pour creuser des fossés, pour tendre des pièges, et Gaultier resta seul dans la salle du conseil, et il regarda les tableaux des ancêtres, des hommes qui avaient défendu la citadelle pendant des siècles, des hommes qui étaient morts pour la liberté, pour l'honneur, pour leur pays, et il se dit qu'il allait rejoindre leurs rangs, qu'il allait mourir pour la même cause, que son nom allait être ajouté à la liste des héros. Il pensa à sa femme, qui était morte depuis cinq ans, qui reposait dans la crypte de la citadelle, et il sentit une douleur aiguë lui transpercer le cœur, car il savait qu'il allait la rejoindre bientôt, qu'il allait la retrouver, qu'ils allaient être réunis dans la mort, dans l'éternité, dans la paix. Il descendit dans la crypte, et il s'agenouilla devant la tombe de sa femme, et il lui parla, et il lui dit qu'il allait bientôt la rejoindre, qu'il allait défendre la citadelle jusqu'à la mort, qu'il allait mourir avec honneur, qu'il allait être fier de mourir pour elle, pour leur pays, pour leur amour. Il sentit une présence à côté de lui, et il se retourna, et il vit une femme, une femme vêtue de blanc, avec des cheveux d'argent, et des yeux brillants, et elle lui sourit, et elle lui dit qu'elle était là, qu'elle l'attendait, que la mort n'était pas une fin, qu'elle était un commencement, qu'ils allaient être réunis, que leur amour était éternel, que rien ne pourrait jamais le briser. Gaultier regarda la femme, et il reconnut sa femme, son âme sœur, celle qui l'attendait de l'autre côté, et il sentit une paix l'envahir, car il savait que la mort n'était pas une fin, que l'amour survivait à la mort, que les âmes se retrouvaient toujours, que l'écho des âmes résonnait à travers les siècles, à travers les mondes, à travers l'éternité. Il se leva, et il embrassa la femme, et il sentit sa bouche sur la sienne, et il sentit son amour, sa chaleur, sa vie, et il sut qu'il était prêt, qu'il était prêt à mourir, qu'il était prêt à se battre, qu'il était prêt à défendre la citadelle jusqu'à la mort, car il savait que sa femme l'attendait, que l'amour était plus fort que la mort, que l'écho des âmes était plus fort que les ténèbres. Il remonta les escaliers, et il sortit de la crypte, et il traversa la cour, et il regarda ses hommes, et il vit leurs visages déterminés, leurs yeux brillants, leurs armes prêtes, et il se dit que la citadelle allait résister, que les hommes allaient se battre, que l'écho des âmes allait résonner dans les murs de pierre, dans les tours, dans les remparts, et que même si la citadelle tombait, même si les hommes mouraient, leur courage, leur honneur, leur amour allaient survivre, allaient résonner à travers les siècles, allaient inspirer les générations futures, allaient rappeler que la liberté valait tous les sacrifices, que l'honneur valait toutes les richesses, que l'amour valait toutes les vies.",
+    "temps_cible_secondes": 251,
+    "quiz": [
+      {
+        "q": "Quel est le nom du commandant de la citadelle de Varengeville ?",
+        "o": [
+          "Rodolphe",
+          "le seigneur Gaultier",
+          "Alexandre",
+          "Henri"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle armée approche de la citadelle ?",
+        "o": [
+          "les armées du Roi-Sorcier",
+          "Les armées du Roi de France",
+          "Les armées des Vikings",
+          "Les armées des Romains"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que voit Gaultier dans la crypte de la citadelle ?",
+        "o": [
+          "Un trésor",
+          "celle qui l'attendait de l'autre côté",
+          "Un monstre",
+          "Un vieux livre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la conviction de Gaultier à la fin de l'extrait ?",
+        "o": [
+          "Que la citadelle va tomber",
+          "l'écho des âmes résonnait",
+          "Que la guerre est inutile",
+          "Que l'amour est une faiblesse"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "DYS_020",
+    "titre": "La Planète des singes : la chute de l'Élysée",
+    "auteur": "Pierre Boulle",
+    "genre": "Dystopie",
+    "niveau": "Avancé",
+    "extrait": "Le vaisseau spatial Élysée venait de s'écraser sur une planète inconnue, et les trois explorateurs survivants, le journaliste Ulysse Mérou, le professeur Antelle et son neveu Arthur Levain, se retrouvèrent seuls dans une forêt dense et silencieuse. Ils marchèrent pendant des heures, guidés par le soleil qui déclinait à l'horizon, et ils découvrirent bientôt un monde étrange où les singes semblaient tenir le rôle de maîtres, et où les hommes étaient des bêtes sauvages, traquées et enfermées dans des cages. Ulysse vit un gorille en uniforme qui tenait un fusil, et il comprit avec effroi que l'évolution s'était inversée, que les singes avaient développé l'intelligence et la parole, et que les humains avaient perdu les leurs. Il fut capturé par des babouins armés, enfermé dans une cage avec d'autres hommes, et il observa les singes qui le regardaient avec la curiosité des scientifiques étudiant des animaux. Une chimpanzé nommée Zira, qui travaillait au laboratoire, prit pitié de lui et commença à l'éduquer, lui apprenant à parler, à écrire, à se comporter comme un être civilisé. Ulysse réalisa que cette planète était la Terre elle-même, mais à une époque lointaine où les singes avaient remplacé les hommes, et il se demanda ce qui avait causé cette inversion, si c'était la guerre, la maladie, ou la décadence de l'humanité. Il rencontra le docteur Zira et son collègue Cornélius, un archéologue qui étudiait les ruines des anciennes cités humaines, et ils lui expliquèrent que les singes vivaient en paix, sans guerre, sans famine, dans un ordre stable où chacun connaissait sa place. Ulysse comprit que les singes étaient devenus les gardiens de la planète, et que les hommes n'étaient plus que des vestiges d'un passé oublié, des créatures sans langage ni mémoire. Il tenta de s'enfuir, mais il fut rattrapé par les gardes, et il comprit que sa liberté était illusoire, que ce monde n'avait pas de place pour un homme qui pensait et parlait. Il regarda Zira avec tristesse, et il sut que son destin était de rester un objet d'étude, une curiosité scientifique, un témoin vivant d'une humanité disparue. La planète des singes était devenue sa prison, et il n'avait plus qu'à accepter son sort, à apprendre la langue des singes, à vivre parmi eux, à devenir un homme-singe, un être sans passé ni avenir, condamné à errer dans les cages de ce nouveau monde où les singes régnaient en maîtres absolus.",
+    "quiz": [
+      {
+        "q": "Quel est le nom du journaliste explorateur survivant ?",
+        "o": [
+          "Ulysse Mérou",
+          "Antelle",
+          "Arthur Levain",
+          "Cornélius"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Quel animal tient le rôle de maître sur cette planète ?",
+        "o": [
+          "Les chiens",
+          "les singes",
+          "Les chats",
+          "Les oiseaux"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle chimpanzé prend pitié d'Ulysse et l'éduque ?",
+        "o": [
+          "Zira",
+          "Cornélius",
+          "Arthur",
+          "Levain"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que réalise Ulysse à propos de cette planète ?",
+        "o": [
+          "C'est une autre galaxie",
+          "la Terre elle-même",
+          "C'est une simulation",
+          "C'est une lune"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 138
+  },
+  {
+    "id": "AVA_001",
+    "titre": "Le Tour du monde en quatre-vingts jours",
+    "auteur": "Jules Verne",
+    "genre": "Aventure",
+    "niveau": "Débutant",
+    "extrait": "Phileas Fogg était un gentleman anglais d'une régularité exemplaire. Chaque matin, à la même heure, il quittait sa maison du numéro sept de Savile Row pour se rendre au Reform Club, où il déjeunait et lisait le journal avec une application silencieuse. Le 2 octobre 1872, après un repas calme, il s'installa dans le grand salon où plusieurs membres discutaient des voyages lointains. L'un d'eux affirma qu'aujourd'hui, grâce aux chemins de fer et aux paquebots, on pouvait faire le tour du monde en trois mois à peine. Fogg, d'un ton calme et sans lever les yeux, déclara que quatre-vingts jours suffisaient amplement. Ses amis éclatèrent de rire, croyant à une plaisanterie de sa part. Pour les convaincre, il proposa un pari de vingt mille livres, une somme considérable pour l'époque. Aussitôt, il ordonna à son nouveau domestique, le Français Jean Passepartout, de préparer une petite valise avec deux chemises de rechange et le nécessaire de voyage. À vingt heures quarante-cinq, les deux hommes montaient dans un train à destination de Douvres. Passepartout, encore étourdi par la rapidité des événements, regardait défiler la campagne anglaise par la fenêtre, ne comprenant pas bien la folie de son maître. Son maître, lui, lisait le Times sans la moindre émotion, comme si le temps n'était qu'une affaire de chiffres. Ils traversèrent la Manche en bateau, puis gagnèrent Paris par le chemin de fer. De là, ils prirent l'Orient-Express vers Turin et Brindisi. Fogg notait chaque heure dans un carnet, comparant le réel au prévu, comme s'il réglait une machine parfaite. À bord d'un paquebot, ils devaient rejoindre l'Égypte, puis l'Inde, et enfin continuer vers l'Extrême-Orient. Passepartout découvrait avec émerveillement les ports étrangers, les marins au teint bronzé et les odeurs de poivre et de café qui montaient des cales. Son maître, insensible au décor, comptait les milles et vérifiait son itinéraire. Une nuit, alors que la lune éclairait la mer d'une lumière laiteuse, un officier annonça que le vent retarderait leur arrivée de plusieurs heures. Fogg ne leva pas les yeux de son journal et répondit simplement que le prochain bateau les attendrait au port suivant. Le domestique comprit alors que son nouveau maître ne craignait ni l'imprévu ni la fatigue. Le pari venait à peine de commencer, et déjà le monde entier semblait se dérouler devant eux comme une carte que l'on déplie lentement. Le train siffla, la mer clapota contre la coque, et l'aventure, silencieuse et précise, était en marche vers l'inconnu. Le voyage se poursuivit à travers l'Inde, où les éléphants portaient les voyageurs sous des palanquins brodés de fils d'or. À Bombay, un incident retarda le départ : Passepartout, distrait par la foule, avait visité un temple sans respecter les usages sacrés. Fogg, imperturbable, régla l'affaire d'un geste de la main et d'un billet de banque, sans un mot de reproche. Le domestique, honteux, jura de ne plus faillir. Ils montèrent ensuite à bord d'un train qui traversait les plaines poussiéreuses, entre les troupeaux de bœufs et les villages de torchis. Le soir, autour d'un feu de camp, Fogg expliqua à son compagnon que la ponctualité était la plus haute des vertus chez un gentleman. Passepartout, peu à peu, apprenait à admirer ce maître de glace qui ne perdait jamais son sang-froid, même face aux retards. La lune se leva sur les rails, et le sifflet lointain d'une locomotive annonça que l'aventure n'était qu'à son aube, promettant encore bien des surprises sur la route du monde entier.",
+    "temps_cible_secondes": 198,
+    "quiz": [
+      {
+        "q": "Quel pari Phileas Fogg propose-t-il à ses amis ?",
+        "o": [
+          "un pari de vingt mille livres",
+          "Gagner une course de chevaux",
+          "Acheter une maison à Paris",
+          "Voyager gratuitement en train"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Quel est le nom du nouveau domestique de Phileas Fogg ?",
+        "o": [
+          "Jean Valjean",
+          "Jean Passepartout",
+          "Pierre Loti",
+          "Phileas Junior"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Phileas Fogg réagit-il face aux imprévus du voyage ?",
+        "o": [
+          "Il rentre chez lui en courant",
+          "Fogg ne leva pas les yeux de son journal",
+          "Il abandonne le pari",
+          "Il crie sur les marins"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Par quel moyen les deux hommes quittent-ils l'Angleterre ?",
+        "o": [
+          "En montgolfière",
+          "Ils traversèrent la Manche en bateau",
+          "À pied",
+          "En calèche"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_002",
+    "titre": "Vingt mille lieues sous les mers",
+    "auteur": "Jules Verne",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "Le professeur Aronnax, son domestique Conseil et le harponneur Ned Land se trouvaient prisonniers à bord du Nautilus, ce sous-marin mystérieux commandé par le capitaine Nemo. Par les larges fenêtres de la grande salle, ils contemplaient un monde que nul homme n'avait jamais approché de si près. Des bancs de poissons lumineux traversaient l'eau bleue comme des étoiles vivantes, et de longues algues ondulaient au gré des courants. Soudain, une ombre immense glissa au-dessus d'eux : c'était un calmar géant, dont les tentacules ondulaient avec une lenteur effrayante et dont l'œil unique semblait les observer. Ned Land saisit son harpon, prêt à frapper, mais Nemo lui fit signe de ne pas bouger. Le capitaine respectait ces créatures, même les plus étranges, car elles appartenaient à la mer qu'il aimait plus que les hommes. Le Nautilus reprit sa descente vers les plaines de corail, où des fleurs de pierre semblaient fleurir dans le silence éternel des abîmes. Aronnax nota chaque détail dans son carnet, émerveillé par la richesse de la vie sous-marine et par la patience de la nature. Conseil, toujours calme, classait mentalement les espèces aperçues, nommant les poissons avec la précision d'un naturaliste. Plus tard, le sous-marin s'immobilisa près d'une épave de navire englouti depuis des siècles. Par la vitre, ils virent des coffres ouverts, des chaînes rouillées et des squelettes encore attachés à leur poste, témoins muets d'un naufrage oublié. Nemo ordonna alors d'éteindre les lumières pour ne pas troubler le lieu. Dans l'obscurité, des milliers de points lumineux apparurent : c'étaient des méduses et des planctons qui brillaient de leur propre clarté. Le spectacle ressemblait à une nuit étoilée renversée sous l'océan, un univers de paix et de mystère. Aronnax sentit un profond respect pour ce capitaine solitaire qui avait choisi de vivre loin des hommes, parmi les abîmes et le silence. Il comprit que le Nautilus n'était pas seulement un vaisseau de métal, mais un refuge, une île de liberté au cœur des eaux immenses. Le harponneur, lui, ne pensait qu'à s'évader, car la mer, pour lui, restait une prison dorée dont il rêvait de briser les barreaux. La nuit passa ainsi, entre fascination et mélancolie, tandis que le courant emportait doucement le navire vers des profondeurs encore inconnues et silencieuses. Le lendemain, le Nautilus remonta vers la surface pour faire provision d'air frais, et la mer reprit ses couleurs d'émeraude sous le soleil. Nemo invita Aronnax sur le pont, où le vent salin fouettait leurs visages. Ils virent des dauphins jouer dans l'écume, indifférents à la présence du métal étranger. Le capitaine, pour une fois, sourit, car la mer était sa patrie et son unique joie. Conseil observait les oiseaux migrateurs avec la curiosité d'un enfant, notant leurs trajectoires dans un carnet de poche. Ned Land, lui, guettait l'horizon, espérant apercevoir une terre où poser le pied. Le soir venu, Nemo fit jouer un orgue aux sons sourds qui résonnaient comme une plainte sous la voûte liquide. Aronnax comprit que cet homme, bien qu'il haït la guerre des hommes, portait en lui une blessure que nulle eau ne pouvait laver. Le Nautilus replongea alors dans le silence, et la nuit sous-marine recommença, peuplée de lueurs douces et de mystères que nul livre n'avait jamais décrits avec tant de paix.",
+    "temps_cible_secondes": 187,
+    "quiz": [
+      {
+        "q": "Qui commande le sous-marin le Nautilus ?",
+        "o": [
+          "Le professeur Aronnax",
+          "le capitaine Nemo",
+          "Ned Land",
+          "Conseil"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que voient-ils glisser au-dessus du Nautilus ?",
+        "o": [
+          "Un banc de sardines",
+          "un calmar géant",
+          "Une épave de navire",
+          "Un phare"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Ned Land réagit-il à la vie sous-marine ?",
+        "o": [
+          "Il veut rester pour toujours",
+          "Le harponneur, lui, ne pensait qu'à s'évader",
+          "Il ne dit rien",
+          "Il devient capitaine"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que représentait le Nautilus aux yeux d'Aronnax ?",
+        "o": [
+          "Une arme de guerre",
+          "Un simple bateau de pêche",
+          "un refuge, une île de liberté",
+          "Un jouet scientifique"
+        ],
+        "r": 2
+      }
+    ]
+  },
+  {
+    "id": "AVA_003",
+    "titre": "Michel Strogoff",
+    "auteur": "Jules Verne",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "Michel Strogoff, courrier du tsar, avait reçu une mission de la plus haute importance. Il devait traverser la Sibérie en flammes pour porter un message secret à l'irréductible frère du souverain, retranché à Irkoutsk. Vêtu en simple marchand, il cacha soigneusement sa véritable identité sous de grossiers habits de voyageur. Le danger était partout : des tribus rebelles ravageaient les villages, et les espions tartares guettaient chaque voyageur suspect pour le livrer au prix de quelques pièces. Au départ de Moscou, la jeune Nadia, fille d'un exilé, se joignit à lui pour rejoindre son père emprisonné loin dans l'Est. Strogoff promit de la protéger, car sa mère, qu'il aimait tendrement, le lui avait appris avant son départ. Le voyage commença en traîneau, sous un ciel de neige où le froid mordait les visages et où le silence pesait comme une chape de plomb. Puis vint la steppe brûlante, où le soleil transformait la terre en fournaise et où l'horizon tremblait de chaleur. Ils croisèrent des Cosaques fidèles, mais aussi des traîtres qui auraient vendu l'empire pour quelques pièces d'or. Un jour, au bord d'un fleuve en crue, Strogoff dut construire un radeau avec des branches et des cordes trouvées dans la forêt. Nadia, courageuse, ramait tandis que les courants menaçaient de les engloutir dans les remous boueux. La nuit, ils veillaient tour à tour, car le sommeil pouvait être fatal et trahir leur présence. Strogoff sentait peser sur ses épaules le poids de la Russie entière, et il savait que si le message tombait entre de mauvaises mains, des villes seraient livrées au pillage. Pourtant, il ne montra jamais sa peur, car sa force venait d'une discipline de fer et d'un amour profond pour sa patrie. Lorsqu'ils atteignirent enfin les montagnes qui entourent le lac Baïkal, une troupe ennemie les captura et les sépara. On banda les yeux de Strogoff, mais il garda le message caché dans sa botte, serré contre sa cheville. Même prisonnier, son esprit restait libre, et son courage, intact. Il jura en silence de tenir sa promesse, coûte que coûte, pour le tsar et pour la mère qui l'attendait quelque part, loin du tumulte et de la guerre. Au matin, on les sépara et l'on conduisit Strogoff devant le chef des rebelles, un homme au regard dur et à la voix de faucon. On exigea de lui qu'il livre le secret du tsar, promettant la torture si le silence persistait. Strogoff serra les dents, car il savait que la moindre parole trahirait des milliers d'innocents. On lui appliqua alors un supplice ancien : un fer rougi au feu fut approché de ses yeux, menaçant de le rendre aveugle. Il supporta la douleur sans crier, pensant à sa mère et à la Russie. Par miracle, un éclat de lumière lui permit de distinguer encore les visages, et il comprit que sa vue était sauve. La nuit suivante, dans la confusion d'une attaque, il brisa ses liens et rejoignit Nadia cachée sous une charrette. Ensemble, ils reprirent la route vers Irkoutsk, courbés mais non vaincus. Strogoff savait désormais que nulle souffrance ne pourrait effacer son serment, et que la force véritable naît de l'esprit, bien plus que des armes ou des chevaux.",
+    "temps_cible_secondes": 184,
+    "quiz": [
+      {
+        "q": "Quelle mission Michel Strogoff doit-il accomplir ?",
+        "o": [
+          "Livrer une lettre d'amour",
+          "porter un message secret",
+          "Devenir marchand",
+          "Gagner une guerre seul"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui accompagne Strogoff dans son voyage ?",
+        "o": [
+          "Le tsar en personne",
+          "la jeune Nadia",
+          "Un espion tartare",
+          "Conseil"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où Strogoff cache-t-il le message lors de sa capture ?",
+        "o": [
+          "dans sa botte",
+          "Sous un arbre",
+          "Dans ses cheveux",
+          "Dans un coffre"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Qu'est-ce qui donne à Strogoff sa force face au danger ?",
+        "o": [
+          "La peur de mourir",
+          "une discipline de fer et d'un amour profond pour sa patrie",
+          "L'argent promis",
+          "La compagnie des ennemis"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_004",
+    "titre": "L'Île mystérieuse",
+    "auteur": "Jules Verne",
+    "genre": "Aventure",
+    "niveau": "Avancé",
+    "extrait": "Lorsque le ballon, déchiré par l'orage, toucha enfin le sol de l'île déserte, les cinq naufragés retinrent leur souffle. L'ingénieur Cyrus Smith fut le premier à se redresser et à secouer la poussière de ses habits. Il inspecta ses compagnons d'un regard calme et rassurant : le journaliste Gédéon Spilett, le marin Pencroff, le jeune Harbert et le fidèle serviteur Nab. Tous avaient survécu à la guerre d'Amérique et à la tempête, mais un défi plus grand les attendait : vivre sur une terre inconnue, sans outils, sans abri, sans rien de ce que la civilisation offre. Smith ne perdit pas une seconde et déclara que la raison et le travail sauveraient le groupe. Ils partirent explorer l'île, qu'ils nommèrent Lincoln en hommage à leur pays lointain. D'abord, ils découvrirent un ruisseau d'eau douce qu'ils baptisèrent la Rivière de la Hache, tant il coulait avec force. Pencroff, habitué à la mer, pêcha des coquillages tandis qu'Harbert, passionné de botanique, reconnaissait les plantes comestibles avec le sourire. Smith, lui, cherchait la pierre et le minerai dans les rochers. Avec du bois et du charbon, il construisit un four primitif et obtint du fer pur. Chaque jour apportait sa victoire : une cabane creusée dans la roche, une meule pour moudre le grain, des cordes tressées avec patience. Une nuit, alors qu'ils observaient le ciel étoilé, un étrange faisceau lumineux jaillit au large, comme un signal venu d'une autre rive. Les hommes se turent, inquiets et fascinés à la fois. Était-ce un navire perdu, un phare oublié, ou la trace d'un mystère enfoui sur l'île ? Smith serra les poings, car il savait que leur survie dépendait autant de leur ingéniosité que de leur union. Ils n'étaient plus des étrangers jetés par le hasard, mais une famille de fortune, liée par l'effort et l'espoir. Le vent du large apportait l'odeur du sel et des pins. Quelque part, dans l'ombre des arbres, l'île veillait sur eux, gardant peut-être un secret que seule la patience révélerait au fil des saisons. Le lendemain, Harbert découvrit des graines de blé oubliées dans une poche, et Smith décida d'en semer un champ protégé par une palissade de bois. Pencroff, de son côté, construisit un fourneau de briques pour cuire des pots en argile. Nab, silencieux et dévoué, préparait des repas à base de racines et de poisson séché, veillant à la santé de tous. Chaque soir, ils partageaient le récit de leurs découvertes autour d'un feu de bois mort. Un jour, en explorant la côte, ils trouvèrent une bouteille enfermant un vieux parchemin portant des mots effacés. Smith y vit le signe qu'ils n'étaient peut-être pas seuls sur cette terre. La méfiance s'installa, mêlée à l'espérance. Ils renforcèrent leur abri et apprirent à reconnaître les bruits de la forêt. La vie sur l'île devenait une école de patience, où chacun trouvait sa place et sa fierté. Ensemble, ils formaient une petite république de fortune, prouvant que l'intelligence humaine peut fleurir même sur la roche la plus nue et perdue.",
+    "temps_cible_secondes": 173,
+    "quiz": [
+      {
+        "q": "Combien de naufragés ont survécu sur l'île ?",
+        "o": [
+          "Trois",
+          "les cinq naufragés",
+          "Un seul",
+          "Dix"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est l'ingénieur qui dirige le groupe ?",
+        "o": [
+          "Pencroff",
+          "Gédéon Spilett",
+          "Cyrus Smith",
+          "Nab"
+        ],
+        "r": 2
+      },
+      {
+        "q": "Comment les naufragés obtiennent-ils du fer ?",
+        "o": [
+          "Ils le trouvent tout fait sur la plage",
+          "il construisit un four primitif et obtint du fer pur",
+          "Ils le volent à un navire",
+          "Ils l'achètent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que remarquent-ils une nuit en observant la mer ?",
+        "o": [
+          "Un banc de poissons",
+          "un étrange faisceau lumineux jaillit au large",
+          "Un ouragan",
+          "Un bateau ami"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_005",
+    "titre": "Cinq semaines en ballon",
+    "auteur": "Jules Verne",
+    "genre": "Aventure",
+    "niveau": "Débutant",
+    "extrait": "Le docteur Samuel Fergusson rêvait de survoler l'Afrique, ce continent encore mystérieux pour les Européens du dix-neuvième siècle. Avec son ami le chasseur Dick Kennedy et le fidèle serviteur Joe, il fit construire un ballon nommé Victoria. La nacelle était petite mais bien garnie : des vivres, des cordes, un fusil et surtout un appareil ingénieux qui, en brûlant du gaz, permettait de monter ou de descendre sans perdre d'altitude. Le jour du départ, la foule anglaise acclama les trois hommes, agitant des mouchoirs blancs sous le ciel gris. Le ballon s'éleva doucement, et bientôt les toits de la ville ne furent plus qu'un jouet posé sur la terre. Kennedy, d'abord inquiet, finit par rire de joie en voyant les nuages sous ses pieds comme un océan de coton. Joe, lui, saluait les oiseaux comme de vieux amis de passage. Ils survolèrent d'abord le désert de sable, où le vent dessinait des vagues de poussière qui roulaient à perte de vue. Puis vinrent les forêts sombres peuplées de cris inconnus et de feux lointains. Le docteur notait la position du soleil et la force du vent dans un carnet relié de cuir. Une fois, ils durent descendre près d'un village pour puiser de l'eau fraîche. Les habitants, effrayés, les prirent pour des dieux venus du ciel et se prosternèrent sur le sol. Fergusson les rassura par des gestes doux et leur offrit quelques perles brillantes en signe d'amitié. Kennedy chassa un lion qui rôdait autour du campement, d'un coup de fusil bien ajusté. Le soir, suspendus au-dessus d'un lac tranquille, ils dînèrent en regardant le reflet des étoiles sur l'eau immobile. Le voyage serait long, cinq semaines au total, mais l'équipe restait unie et joyeuse. Chaque matin, le soleil levant teintait le ballon de rose, et chaque soir, le crépuscule les berçait de sa lumière douce. Ils savaient que l'Afrique gardait bien des secrets, mais, portés par le vent et leur courage, ils avançaient vers l'inconnu avec le cœur léger et l'esprit ouvert. Plus au sud, ils survolèrent un fleuve large comme une mer intérieure, bordé de palmiers et de villages de roseaux. Des pirogues montèrent vers le ciel, mais le ballon était déjà hors de portée, bercé par un vent d'est constant. Fergusson en profita pour mesurer la largeur du cours d'eau à l'aide d'une lunette, notant chaque détail dans son journal de bord. Kennedy, fasciné, dessinait les oiseaux aux plumes de feu qui suivaient leur ombre. Joe, pendu par-dessus la nacelle, jetait des éclats de pain aux crocodiles qui grondaient en dessous. Une tempête soudaine les obligea à monter très haut, là où l'air glacé leur coupa le souffle. Le docteur actionna l'appareil à gaz pour redescendre doucement vers une clairière abritée. Ils y passèrent la nuit, blottis sous des couvertures, à écouter le rythme de la jungle. Au matin, un soleil d'or réchauffa leurs corps, et le Victoria reprit son envol, porté par l'espérance de voir enfin l'autre rive de ce continent fabuleux et secret.",
+    "temps_cible_secondes": 171,
+    "quiz": [
+      {
+        "q": "Quel est le nom du ballon du docteur Fergusson ?",
+        "o": [
+          "Victoria",
+          "Nautilus",
+          "Victoire",
+          "Africaine"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Qui accompagne le docteur dans son voyage ?",
+        "o": [
+          "Son frère et sa sœur",
+          "le chasseur Dick Kennedy et le fidèle serviteur Joe",
+          "Un roi africain",
+          "Le capitaine Nemo"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment le ballon peut-il monter ou descendre ?",
+        "o": [
+          "En jetant du sable",
+          "en brûlant du gaz",
+          "Avec des rames",
+          "En priant le vent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment les villageois africains perçoivent-ils les voyageurs ?",
+        "o": [
+          "Comme des ennemis",
+          "pour des dieux venus du ciel",
+          "Comme des marchands",
+          "Comme des oiseaux"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_006",
+    "titre": "Les Trois Mousquetaires",
+    "auteur": "Alexandre Dumas",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "En l'an de grâce mille six cent dix-huit, un jeune gentilhomme nommé d'Artagnan quitta la Gascogne pour conquérir Paris. Son père lui avait donné trois présents : quinze écus, un cheval jaune un peu ridicule, et le conseil de ne jamais reculer devant un ennemi. Arrivé à la porte du Louvre, il croisa Athos, Porthos et Aramis, trois mousquetaires du roi dont la bravoure était légendaire à la cour. D'Artagnan, fougueux et impatient, provoqua chacun en duel, mais une embuscade des gardes du cardinal les réunit bien vite contre un ennemi commun. Ensemble, ils repoussèrent l'attaque en criant leur devise : « Un pour tous, tous pour un ! » Cette phrase scela leur amitié pour toujours, comme un serment de sang et d'honneur. Le jeune homme fut admis parmi les mousquetaires et découvrit la cour de France, faite d'intrigues et de sourires menteurs. La belle et mystérieuse Milady se trouvait au cœur de bien des complots ourdis dans l'ombre. D'Artagnan apprit à manier l'épée avec élégance, à lire dans le regard des courtisans, et surtout à rester fidèle à ses amis contre vents et marées. Une nuit d'hiver, alors que la neige couvrait les toits de Paris, les quatre compagnons jurèrent de protéger la reine contre les machinations du cardinal Richelieu. Ils galopèrent jusqu'à Londres pour y reprendre des bijoux volés, affrontant vents glacés et trahisons de route. Le cheval de d'Artagnan tomba d'épuisement dans la boue, mais le garçon poursuivit à pied, l'épée à la main. À son retour, Paris l'acclama comme un héros, et les cloches sonnèrent à la volée. Il comprit alors que la vraie noblesse ne venait pas du sang ni des titres, mais du courage et de la loyauté partagés. Les mousquetaires, sous la lune pâle, trinquèrent avec de l'eau de la Seine, car l'heure était grave mais leur union, invincible. Dès lors, plus rien ne séparerait ceux que le danger avait soudés pour la vie entière. Les mois passèrent, et les quatre amis affrontèrent bien des périls, des duels aux complots de couloir. D'Artagnan apprit à lire dans les silences de la cour et à deviner les trahisons avant qu'elles n'éclatent. Athos, le plus sage, lui servait de père spirituel, lui enseignant que l'honneur vaut mieux que la fortune. Porthos, fier de sa force, défendait ses amis à coups d'épée large, tandis qu'Aramis, dévot et lettré, rédigeait des lettres qui désarmaient les ennemis. Ensemble, ils sauvèrent la reine d'un scandale qui eût renversé le royaume. Le jeune gascon, désormais respecté, comprit que la vraie gloire se gagne dans l'ombre des services rendus, non sous les applaudissements. Une dernière chevauchée les mena jusqu'aux portes de la ville, où ils jurèrent de se retrouver, quoi qu'il advînt. La devise grava dans leur mémoire comme un sceau indélébile, témoin de leur jeunesse et de leur foi mutuelle.",
+    "temps_cible_secondes": 162,
+    "quiz": [
+      {
+        "q": "Quelle est la devise des mousquetaires ?",
+        "o": [
+          "Vive le roi",
+          "Un pour tous, tous pour un",
+          "Honneur et patrie",
+          "Paris ou la mort"
+        ],
+        "r": 1
+      },
+      {
+        "q": "D'où vient le jeune d'Artagnan ?",
+        "o": [
+          "De Paris",
+          "la Gascogne",
+          "De Londres",
+          "De Rome"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quels sont les trois mousquetaires rencontrés par d'Artagnan ?",
+        "o": [
+          "Athos, Porthos et Aramis",
+          "Lancelot, Arthur et Merlin",
+          "Jean, Paul et Pierre",
+          "Richelieu, Milady et le roi"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que découvre d'Artagnan sur la vraie noblesse ?",
+        "o": [
+          "Elle vient du sang royal",
+          "du courage et de la loyauté partagés",
+          "Elle s'achète avec de l'or",
+          "Elle n'existe pas"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_007",
+    "titre": "Le Comte de Monte-Cristo",
+    "auteur": "Alexandre Dumas",
+    "genre": "Aventure",
+    "niveau": "Avancé",
+    "extrait": "Edmond Dantès, jeune marin de Marseille, était au comble du bonheur le jour de ses fiançailles. Son capitaine venait de mourir en mer, et l'équipage le pressentait déjà nouveau commandant du navire. Sa bien-aimée, Mercédès, l'attendait à l'église, radieuse dans sa robe blanche. Mais la jalousie rongeait certains cœurs, car le bonheur d'un autre est parfois insupportable. Un soir de fête, des hommes jaloux accusèrent Dantès d'être un espion bonapartiste porteur d'une lettre interdite. Le juge, aveuglé par l'ambition et la peur, le fit arrêter sans procès ni défense. On l'enferma au château d'If, prison sombre battue par les vagues et par le cri des mouettes. Là, pendant quatorze années, le jeune homme désespéra, maudissant le ciel et les hommes. Puis il rencontra l'abbé Faria, un vieux prisonnier savant qui creusait un tunnel vers la liberté à travers la roche dure. Le moine enseigna à Dantès les langues, les sciences et surtout la patience, vertu des forts. À sa mort, Dantès prit sa place dans le sac funéraire et fut jeté à la mer depuis le haut des murs. Par un prodige de volonté, il se libéra dans l'eau froide et gagna une île où un trésor fabuleux était caché depuis des siècles. Devenu riche et puissant, il se fit appeler le comte de Monte-Cristo. Il revint en France, non pour se venger par le sang, mais pour rendre justice avec la froideur d'un juge instruit. Il aida ceux qui avaient été bons et confondit ceux qui l'avaient trahi, tissant sa toile avec une patience d'araignée. Mercédès, vieillie mais fidèle en son cœur, le reconnut trop tard, et ses larmes furent les seules armes qu'il ne sut parer. Dantès comprit alors que la vengeance ne guérit pas tout, et que le vrai trésor était la paix de l'âme. Une nuit, il s'éloigna sur un bateau, laissant derrière lui les masques de la société et le poids de son passé, libre enfin de respirer l'air du large. À son retour, le comte observa longuement ceux qui l'avaient jadis trahi, pesant leurs fautes avec une justice de sage plutôt qu'avec la colère d'un homme blessé. Il rendit visite à Mercédès dans la maison de son enfance, et tous deux pleurèrent sur le temps perdu et les années volées. Dantès lui offrit la liberté et une part de fortune, non par pitié, mais par respect pour l'amour qu'elle lui avait porté. Il visita aussi la tombe de son père, longtemps restée sans fleurs, et y déposa enfin le deuil qui lui était dû. Puis, ayant réglé ses comptes avec le passé, il fit ses adieux à la France et à ses ombres. Sur le pont du navire qui le portait vers des cieux inconnus, il serra contre sa poitrine le petit écrin de cailloux qu'il gardait comme unique trésor. La mer ouverte chantait sous la proue, et pour la première fois depuis bien longtemps, le comte sourit, libre de haïr et libre d'aimer.",
+    "temps_cible_secondes": 168,
+    "quiz": [
+      {
+        "q": "Quel était le métier d'Edmond Dantès au début ?",
+        "o": [
+          "Juge",
+          "jeune marin de Marseille",
+          "Espion",
+          "Prêtre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où Dantès est-il emprisonné ?",
+        "o": [
+          "À la Bastille",
+          "au château d'If",
+          "À l'église",
+          "À Londres"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui enseigne à Dantès la science et la patience en prison ?",
+        "o": [
+          "Mercédès",
+          "l'abbé Faria",
+          "Le juge",
+          "Un gardien"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle leçon Dantès tire-t-il de son aventure ?",
+        "o": [
+          "La vengeance guérit tout",
+          "le vrai trésor était la paix de l'âme",
+          "L'or est tout-puissant",
+          "Il faut fuir la mer"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_008",
+    "titre": "Vingt ans après",
+    "auteur": "Alexandre Dumas",
+    "genre": "Aventure",
+    "niveau": "Avancé",
+    "extrait": "Vingt années s'étaient écoulées depuis les glorieuses duels de jeunesse, et les tempes des héros s'étaient grisonnées. Athos, Porthos et Aramis, vieillis mais non domptés, se retrouvèrent dans une France déchirée par la Fronde et les barricades. Le cardinal Mazarin, successeur de Richelieu, gouvernait d'une main ferme que le peuple de Paris commençait à rejeter avec colère. D'Artagnan, devenu lieutenant des mousquetaires, reçut l'ordre d'arrêter ses anciens amis, car ils soutenaient des causes opposées à la couronne. Son cœur saignait, mais son devoir l'emportait sur l'amitié, car il était homme d'honneur avant tout. Une nuit brumeuse, les quatre hommes se rencontrèrent dans une auberge isolée au bord de la route. Ils se jaugèrent, méfiants, puis éclatèrent de rire en se souvenant des batailles passées et des toasts partagés. « Un pour tous, tous pour un », murmura Athos, et la vieille flamme se ralluma aussitôt dans leurs poitrines. Pourtant, les chemins divergèrent de nouveau : les uns servaient le roi, les autres la rébellion des princes. Porthos, fort comme un ours, regrettait les simples combats d'autrefois où l'on savait qui était l'ennemi. Aramis, mystérieux, écrivait des lettres qui pouvaient changer le sort d'un royaume d'un trait de plume. D'Artagnan, partagé, décida de rester fidèle à sa conscience plutôt qu'à un parti, car la vérité lui semblait plus précieuse qu'un uniforme. Ils sauvèrent ensemble la duchesse de Longueville, puis se séparèrent sous la pluie fine, sans un adieu trop long. Chacun savait que la France ne serait plus jamais comme avant, et que les idéaux de la jeunesse avaient rencontré la dure réalité du pouvoir. Mais l'amitié, elle, avait résisté au temps, aux rois et aux complots. Lorsque le vent emporta leur dernière chandelle, ils gardèrent au fond d'eux la certitude que, quelque part, la devise continuerait de briller. Au crépuscule, alors que la pluie avait cessé, les quatre hommes se retrouvèrent un instant seuls sur la route boueuse. Ils évoquèrent les duels de leur jeunesse, les rires partagés et les toasts levés à la santé les uns des autres. Porthos avoua qu'il aurait préféré cent combats francs plutôt que ces guerres de salon où l'on poignarde par derrière. Aramis, songeur, glissa qu'il songeait à entrer dans les ordres pour trouver la paix que le monde ne lui donnait plus. D'Artagnan, la main sur la garde de son épée, promit de veiller sur chacun, même séparés par les camps. Athos, d'un signe de tête, scella ce pacte silencieux, car certaines amitiés défient les couronnes et les années. Ils se séparèrent enfin, les sabots des chevaux martelant la terre lourde. Dans le lointain, le clairon d'une caserne rappela que la France exigeait encore leurs bras et leur sang, mais leurs cœurs, eux, restaient liés pour l'éternité.",
+    "temps_cible_secondes": 156,
+    "quiz": [
+      {
+        "q": "Combien d'années se sont écoulées depuis la jeunesse des mousquetaires ?",
+        "o": [
+          "Dix",
+          "Vingt années s'étaient écoulées",
+          "Cinquante",
+          "Cent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui gouverne la France dans ce récit ?",
+        "o": [
+          "Le cardinal Mazarin",
+          "Richelieu",
+          "Le peuple de Paris",
+          "D'Artagnan"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que doit faire d'Artagnan selon ses ordres ?",
+        "o": [
+          "Protéger ses amis",
+          "d'arrêter ses anciens amis",
+          "Fuir le pays",
+          "Devenir roi"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qu'est-ce qui a résisté au temps selon le texte ?",
+        "o": [
+          "Le pouvoir royal",
+          "l'amitié, elle, avait résisté au temps",
+          "La richesse",
+          "La guerre"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_009",
+    "titre": "L'Île au trésor",
+    "auteur": "Robert Louis Stevenson",
+    "genre": "Aventure",
+    "niveau": "Débutant",
+    "extrait": "Dans l'auberge tenue par son père, le jeune Jim Hawkins trouva un jour, dans le coffre d'un vieux marin mort, une carte étrange et jaunie par le temps. Elle représentait une île lointaine, avec une croix rouge marquant l'endroit où un pirate nommé Flint avait caché son trésor. Jim, le cœur battant la chamade, montra le papier au docteur Livesey et au squire Trelawney, deux hommes de confiance du village. Ensemble, ils décidèrent d'équiper un navire, l'Hispaniola, et de partir à la recherche de la fortune sous le soleil des tropiques. Ils recrutèrent un équipage de braves marins, mais parmi les hommes se trouvait le cuisinier Long John Silver, un homme à jambe de bois et au perroquet parlant posé sur l'épaule. Silver souriait beaucoup, peut-être trop, et ses yeux brillaient d'une lueur suspecte. La traversée fut longue et parsemée d'orages qui secouaient les mâts. Jim, caché dans un tonneau vide sur le pont, surprit un complot : les pirates comptaient se révolter dès l'arrivée pour s'emparer du trésor et tuer les honnêtes gens. Le garçon, malgré la peur, prévint aussitôt le docteur et le squire dans un souffle. À l'île, les deux camps se séparèrent, chacun guettant l'autre. Jim, seul et courageux, découvrit une embarcation échouée et apprit à la manœuvrer sur l'eau claire. Il rencontra même un ancien marin de Flint, devenu sauvage, qui leur donna des indices précieux sur la cache. Après bien des combats et de la ruse, les honnêtes hommes retrouvèrent le coffre enfoui sous un arbre mort, scintillant d'or et de pierres. Silver, capturé, tenta de négocier, mais le navire repartit sans lui, emportant le trésor vers l'Angleterre. Jim rentra chez lui transformé : il avait vu la mer, la trahison et le vrai courage. Il ne chercha plus jamais d'aventure, car, disait-il, une seule île au trésor suffit pour toute une vie d'homme. Le retour vers l'Angleterre fut calme, bercé par le roulis régulier de l'Hispaniola et le chant des matelots à la barre. Jim, appuyé au bastingage, regardait la ligne d'horizon où le ciel et la mer se confondaient en un bleu sans fin. Il songeait aux épreuves surmontées et à la peur qui, par moments, lui avait glacé le sang. Le docteur Livesey lui assura que le vrai courage ne consiste pas à ne jamais trembler, mais à agir malgré la peur qui nous habite. Le squire, lui, comptait déjà les pièces d'or qu'ils partageraient au village, rêvant de repeindre l'auberge de son père. Quant à Long John Silver, laissé sur l'île avec quelques hommes, il leur avait adressé un dernier signe de chapeau, mi-souriant, mi-triste. Jim comprit que les pirates aussi avaient leur propre loi, aussi étrange fût-elle. Enfin, les falaises d'Angleterre apparurent, et le garçon sut que son enfance venait de se terminer au bord de l'aventure la plus grande qu'un garçon pût jamais connaître.",
+    "temps_cible_secondes": 164,
+    "quiz": [
+      {
+        "q": "Que découvre Jim Hawkins dans le coffre du vieux marin ?",
+        "o": [
+          "Une épée",
+          "une carte étrange",
+          "Un perroquet vivant",
+          "De l'or"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel est le nom du cuisinier à jambe de bois ?",
+        "o": [
+          "Flint",
+          "Long John Silver",
+          "Jim",
+          "Livesey"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Jim apprend-il le complot des pirates ?",
+        "o": [
+          "Par une lettre",
+          "caché dans un tonneau vide sur le pont",
+          "En rêve",
+          "Par le perroquet"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que décide Jim à la fin de l'aventure ?",
+        "o": [
+          "Revenir chercher plus d'or",
+          "Il ne chercha plus jamais d'aventure",
+          "Devenir pirate",
+          "Rester sur l'île"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_010",
+    "titre": "Robinson Crusoé",
+    "auteur": "Daniel Defoe",
+    "genre": "Aventure",
+    "niveau": "Débutant",
+    "extrait": "Robinson Crusoé était un jeune homme qui rêvait de mer, contre l'avis de son père qui le voulait notaire. Il s'embarqua donc sur un navire marchand, bien décidé à voir le monde et à faire fortune. Après plusieurs voyages heureux, un terrible naufrage le jeta sur une île déserte, seul survivant de l'équipage englouti. Lorsqu'il reprit ses esprits sur le sable, il pleura de désespoir, car rien ne restait de sa vie passée et nul ne savait où il se trouvait. Mais bientôt, son courage reprit le dessus, car il était jeune et entêté. Il nagea jusqu'à l'épave encore échouée et en tira tout ce qu'il put : des outils, de la poudre, des graines, une hache et même un chien. Jour après jour, il construisit un abri contre la pluie et le vent, protégé par une palissade de pieux. Il apprit à faire du feu, à cuire de la viande de chèvre sauvage, et à semer de l'orge dans la terre retournée. Les premiers mois furent durs, mais Robinson tenait un journal pour ne pas perdre la raison, gravant chaque jour sur une planche de bois. Un jour, il découvrit la trace d'un pied humain dans le sable : c'étaient les cannibales venus de l'autre rive pour leurs rites. Effrayé, il se cacha et fortifia sa demeure avec des souches d'arbres. Plus tard, il sauva un homme que les sauvages voulaient dévorer lors d'une cérémonie. Il l'appela Vendredi, car c'était le jour de la semaine où il l'avait libéré. Vendredi devint son compagnon fidèle, apprenant la langue et le travail de la terre avec une joie d'enfant. Ensemble, ils chassèrent, pêchèrent et veillèrent l'un sur l'autre contre les dangers de l'île. Robinson comprit alors que la solitude avait été son plus grand maître, lui apprenant la patience, la prière et la valeur d'un ami. Des années passèrent avant qu'un navire ne le ramène enfin vers la civilisation, mais il emporta pour toujours la sagesse de l'île dans son cœur. Au fil des saisons, Robinson apprit à lire le ciel et à prévoir les tempêtes qui grondaient au large. Il construisit un second abri sur la colline, d'où il pouvait guetter les voiles à l'horizon avec l'espoir d'un secours. Vendredi, devenu habile, tissait des paniers et péchait à la ligne avec une patience de sage. Ensemble, ils domestiquèrent une petite troupe de chèvres pour avoir du lait et de la laine. Robinson lui enseigna sa langue, sa foi et le nom des étoiles qu'il connaissait. Parfois, le soir, ils s'asseyaient face à la mer et partageaient un silence plein de reconnaissance. Un jour, un navire anglais accosta enfin, alerté par la fumée de leur feu. Le capitaine, ému, offrit à Robinson de le ramener chez lui. L'aventurier accepta, emmenant Vendredi comme un frère. En quittant l'île, il se retourna une dernière fois, saluant en silence celle qui lui avait tout appris de la vie et de lui-même, cette terre de solitude devenue sa première école.",
+    "temps_cible_secondes": 170,
+    "quiz": [
+      {
+        "q": "Pourquoi Robinson se retrouve-t-il seul sur l'île ?",
+        "o": [
+          "Il a choisi de vivre là",
+          "seul survivant de l'équipage englouti",
+          "Il a été exilé",
+          "Il s'est perdu en marchant"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Robinson nomme-t-il l'homme qu'il sauve ?",
+        "o": [
+          "Vendredi",
+          "Samedi",
+          "Lundi",
+          "Capitaine"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que retire Robinson de l'épave du navire ?",
+        "o": [
+          "Des bijoux",
+          "des outils, de la poudre, des graines",
+          "Un cheval",
+          "Une carte"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que lui a appris la solitude selon le texte ?",
+        "o": [
+          "La paresse",
+          "la patience, la prière et la valeur d'un ami",
+          "La peur",
+          "L'oubli"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_011",
+    "titre": "L'Appel de la forêt",
+    "auteur": "Jack London",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "Buck était un chien magnifique, moitié saint-bernard, moitié berger, qui vivait paisiblement dans une maison de Californie, couché au soleil sur la véranda. Mais en mille huit cent quatre-vingt-treize, on découvrit de l'or au Klondike, et les hommes voulurent des chiens forts pour tirer les traîneaux sur la neige. Buck fut enlevé par un jardinier sans scrupule, vendu, et embarqué vers le froid du Nord contre son gré. À son arrivée, le choc fut brutal : la neige épaisse, le fouet du conducteur, et la loi du plus fort qui régnait parmi les chiens. Il apprit vite que, dans la meute, seuls les plus durs survivaient à la faim et au froid mordant. Un soir, un chien nommé Spitz, le chef arrogant, le provoqua près du feu. Buck, après un combat féroce où le sang tacha la neige, le vainquit et prit sa place de meneur. Son nouveau maître, John Thornton, fut le premier à lui montrer la douceur et la tendresse d'un vrai ami. Il soigna ses blessures et lui parla comme à un égal, partageant sa ration de pain. Buck lui voua une fidélité sans bornes, prêt à donner sa vie pour lui. Ensemble, ils descendirent une rivière tumultueuse en canoë et découvrirent une vallée où l'or scintillait au fond des ruisseaux glacés. Mais au plus profond de lui, une voix ancienne l'appelait sans relâche. C'était l'appel de la forêt, ce murmure des ancêtres loups qui dormaient dans son sang depuis des générations. Parfois, la nuit, il s'enfuyait entre les arbres sombres et courait avec les loups sauvages, libre et sauvage. Thornton comprenait ce combat entre l'amour des hommes et la nature primitive. Un hiver, des Indiens tuèrent le maître bien-aimé d'une flèche traîtresse. Buck, fou de douleur, se vengea puis rejoignit définitivement la meute des loups. Il devint une légende, le fantôme gris qui guidait la horde à travers les neiges éternelles, et l'appel de la forêt avait enfin trouvé sa réponse. Le printemps venu, Buck et Thornton remontèrent vers le nord, attirés par la rumeur d'une rivière où l'or affleurait entre les cailloux. Ils vécurent alors des semaines de bonheur simple, partageant le pain et le feu, comprenant chacun le langage de l'autre sans un mot. Buck rapportait le bois mort et veillait sur le camp pendant le sommeil de son maître. Thornton, pour sa part, lui parlait de son enfance et des rêves qu'il n'avait confiés à personne. Mais chaque nuit, lorsque la lune argentait la neige, le chant lointain des loups rappelait à Buck sa nature profonde. Il partait alors courir librement, puis revenait se coucher aux pieds de l'homme qu'il aimait. Cette double vie le rendait à la fois sauvage et fidèle, comme si deux âmes habitaient son corps. Thornton veillait sur ce secret avec tendresse, sachant que la liberté est le plus beau des cadeaux que l'on puisse offrir à ceux que l'on aime vraiment.",
+    "temps_cible_secondes": 166,
+    "quiz": [
+      {
+        "q": "Quelle est l'origine de Buck au début de l'histoire ?",
+        "o": [
+          "Un loup sauvage",
+          "une maison de Californie",
+          "Un renne",
+          "Un chien de berger seul"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est John Thornton ?",
+        "o": [
+          "Un ennemi de Buck",
+          "John Thornton",
+          "Un loup",
+          "Un chercheur d'or méchant"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qu'est-ce que « l'appel de la forêt » pour Buck ?",
+        "o": [
+          "Le son d'un cor",
+          "ce murmure des ancêtres loups",
+          "Un ordre du maître",
+          "Le froid"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que devient Buck à la fin ?",
+        "o": [
+          "Il retourne en Californie",
+          "rejoignit définitivement la meute des loups",
+          "Il meurt de vieillesse",
+          "Il devient chien de berger"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_012",
+    "titre": "Croc-Blanc",
+    "auteur": "Jack London",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "Croc-Blanc était un louveteau né dans le grand Nord, fils d'une louve sauvage et d'un chien de traîneau au poil gris. Dès son plus jeune âge, il apprit la dure loi de la survie : il fallait chasser pour manger et craindre le feu des hommes, ce feu qui pouvait tuer de loin. Sa mère l'initia à la traque du lièvre et à la fuite devant l'ours, lui apprenant à lire les pistes dans la neige. Un hiver rigoureux, une tribu d'Indiens capture la meute affamée. Croc-Blanc devint un chien de traîneau, tirant des charges lourdes sous le fouet et le ciel bas. Il était craint de ses congénères à cause de sa force et de ses crocs redoutables, qui lui valurent son nom. Plus tard, un homme méchant l'acheta pour en faire un chien de combat dans une arène sordide. Enfermé, il dut affronter d'autres bêtes, blessé et seul, sous les cris de la foule avide. Sa haine des hommes grandit, jusqu'au jour où un gentil étranger nommé Weedon Scott le sauva d'une mort certaine. Scott parla doucement, soigna ses plaies avec patience, et gagna peu à peu sa confiance par la bonté. Croc-Blanc découvrit alors un sentiment nouveau et inconnu : l'amour fidèle envers un maître juste qui ne le frappait point. Il suivit Scott jusqu'en Californie, où il connut les prairies chaudes et les enfants qui le caressaient sans crainte. Un jour, des brigands attaquèrent la maison pendant la nuit. Croc-Blanc se jeta sur eux avec rage et sauva la famille, perdant presque la vie sous les coups. Quand il rouvrit les yeux, faible mais vivant, Scott lui dit qu'il était un héros au cœur pur. Le loup des neiges était devenu un compagnon aimé, prouvant que même la bête la plus sauvage peut apprendre la tendresse lorsqu'on la traite avec bonté et respect. Dans la maison de la vallée, Croc-Blanc devint le gardien attentif des enfants, les suivant partout comme une ombre protectrice et douce. Il apprit à reconnaître le pas de chacun et à aboyer pour avertir lorsqu'un étranger s'approchait de la clôture. Scott, chaque soir, lui grattait le cou en lui racontant les nouvelles du jour, comme à un ami de longue date. La méfiance du loup s'était muée en une confiance totale, fondée sur la douceur et la régularité des soins. Un hiver, une tempête de neige isola la ferme, et Croc-Blanc aida à tirer la charrette chargée de vivres jusqu'au village voisin. Les voisins, d'abord craintifs, finirent par l'accueillir comme un héros de village. Le chien des neiges avait trouvé sa place, prouvant que la bonté transforme même les cœurs les plus farouches. Le soir, devant l'âtre, il dormait d'un sommeil profond, rêvant peut-être aux étoiles froides du Nord, mais heureux de la chaleur d'une maison où l'on l'aimait pour ce qu'il était.",
+    "temps_cible_secondes": 162,
+    "quiz": [
+      {
+        "q": "Quels sont les parents de Croc-Blanc ?",
+        "o": [
+          "Deux chiens de berger",
+          "d'une louve sauvage et d'un chien de traîneau",
+          "Un renard et un loup",
+          "Des Indiens"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui sauve Croc-Blanc des combats de chiens ?",
+        "o": [
+          "Un méchant maître",
+          "Weedon Scott",
+          "Un loup",
+          "Un enfant"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvre Croc-Blanc grâce à Scott ?",
+        "o": [
+          "La haine",
+          "l'amour fidèle envers un maître juste",
+          "La peur des hommes",
+          "La fuite"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Croc-Blanc sauve-t-il la famille ?",
+        "o": [
+          "En fuyant",
+          "se jeta sur eux avec rage",
+          "En aboyant",
+          "En se cachant"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_013",
+    "titre": "Le Livre de la jungle",
+    "auteur": "Rudyard Kipling",
+    "genre": "Aventure",
+    "niveau": "Débutant",
+    "extrait": "Mowgli était un petit garçon que les hommes avaient perdu dans la forêt indienne après une attaque de tigre. Une panthère noire nommée Bagheera le trouva tout frêle et le confia à une famille de loups qui venait de mettre bas. Élevé par la meute, l'enfant apprit la loi de la jungle : respecter la vie, partager la proie, et n'obéir qu'au conseil des animaux réunis. Le vieil ours Baloo lui enseigna les mots pour parler à chaque créature, depuis le moustique jusqu'à l'éléphant au pas lourd. Mowgli aimait courir sur la mousse humide et grimper aux arbres plus vite que les singes les plus agiles. Mais Shere Khan, le tigre boiteux aux dents jaunes, haïssait l'enfant parce qu'il était homme et sentait la fumée. Il rôdait autour de la tanière, promettant de le dévorer dès la première occasion. Lors du conseil de la meute, Bagheera offrit un taureau bien gras pour sauver la vie du garçon menacé. Mowgli, grandissant, comprit qu'il devait se défendre par lui-même. Avec l'aide des abeilles et du feu volé au village voisin, il terrifia le tigre, car la bête craint par-dessus tout la flamme orange. Les singes l'enlevèrent un jour pour rire, mais les oiseaux prévinrent Baloo par leurs cris. Ensemble, ils le délivrèrent au sommet des ruines. Mowgli sut alors que la jungle, bien qu'hostile, pouvait être une famille adoptive. Il y avait appris le courage, la ruse et la fraternité des êtres vivants. Pourtant, les anciens lui rappelaient qu'il était différent, un homme parmi les bêtes, un être à part. Le jour viendrait où il devrait choisir son monde, entre la forêt et le village des hommes. En attendant, il dansait sous la lune avec les loups, heureux de sa liberté sauvage et de la chanson que la forêt chantait pour lui seul, fils de la jungle et du vent. Au fil des saisons, Mowgli apprit à chasser avec la meute et à connaître le nom de chaque arbre et de chaque ruisseau de la jungle. Baloo lui apprit la patience, et Bagheera la prudence, car la forêt pardonne peu aux imprudents. Il découvrit aussi les danses des abeilles et le langage des serpents, ce qui lui sauva la vie lors d'une rencontre avec un python affamé. Les loups veillaient sur lui comme sur l'un des leurs, et les petits de la portée jouaient à ses pieds sans crainte. Pourtant, Shere Khan rôdait toujours, attendant le jour où la meute faiblirait. Mowgli, désormais grand, comprit que sa place était peut-être ailleurs, parmi les hommes dont il portait la marque. Il commença à visiter le village limitrophe, où une femme lui offrit du lait chaud et un nom. Tiraillé entre deux mondes, il sut qu'un choix se présenterait bientôt, et que la jungle, quoi qu'il advînt, garderait à jamais son premier cri et son premier pas.",
+    "temps_cible_secondes": 163,
+    "quiz": [
+      {
+        "q": "Qui trouve Mowgli et le confie aux loups ?",
+        "o": [
+          "Shere Khan",
+          "Une panthère noire nommée Bagheera",
+          "Baloo",
+          "Un éléphant"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel animal enseigne les mots de la jungle à Mowgli ?",
+        "o": [
+          "Le tigre",
+          "Le vieil ours Baloo",
+          "Le singe",
+          "L'abeille"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est l'ennemi de Mowgli ?",
+        "o": [
+          "Bagheera",
+          "Shere Khan",
+          "Baloo",
+          "Un éléphant"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que craignent par-dessus tout les bêtes selon le texte ?",
+        "o": [
+          "L'eau",
+          "la flamme orange",
+          "Le vent",
+          "La lune"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_014",
+    "titre": "Le Dernier des Mohicans",
+    "auteur": "James Fenimore Cooper",
+    "genre": "Aventure",
+    "niveau": "Avancé",
+    "extrait": "Pendant la guerre entre l'Angleterre et la France, dans les forêts sauvages de l'Amérique, une jeune femme nommée Cora traversait les bois avec sa sœur Alice pour rejoindre leur père, le commandant de Fort William-Henry. Leur guide était le vieux chasseur Œil-de-Faucon, accompagné de ses amis indiens Chingachgook et son fils Uncas, dernier des Mohicans. La forêt était belle mais traîtresse, peuplée d'ennemis hurons qui guettaient les voyageurs dans l'ombre des pins. Un soir, alors que le brouillard tombait sur la rivière, une flèche siffla entre les branches et se planta dans un arbre. Œil-de-Faucon fit signe de se taire et de se dissimuler derrière les rochers moussus. Uncas, silencieux comme l'ombre, partit en éclaireur et revint annoncer que des guerriers encerclaient la clairière, prêts à frapper. Le vieux Mohican pria dans sa langue, confiant son fils à la protection des esprits de la forêt. Cora, bien que tremblante, ne cria point, car elle savait que la peur trahit et donne l'avantage à l'ennemi. Ils s'enfuirent en canoë sur un lac sombre, tandis que les cris des poursuivants résonnaient sur l'eau comme des hululements funèbres. Œil-de-Faucon, d'un coup de fusil précis, écarta le danger d'un geste sûr. À l'aube, ils atteignirent une grotte humide où les filles purent se reposer sur la mousse. Uncas veilla, la hache à la main, le regard fixé sur l'entrée. La nature, autour d'eux, semblait à la fois protectrice et indifférente au sort des hommes. Chingachgook expliqua que son peuple disparaissait, lentement effacé par les hommes blancs et leurs maladies. Uncas était la dernière flamme d'une nation libre et fière. Cora lui prit la main, promettant de se souvenir de lui et de son peuple. Le voyage serait encore long et semé d'embûches, mais l'amitié entre le chasseur et l'Indien brillait comme un feu dans la nuit de la guerre. Ils reprirent leur marche à l'aube, guidés par le chant d'un oiseau qui semblait leur montrer le chemin à travers les sapins. Chingachgook marchait en tête, le pas silencieux, la carabine prête, tel un fantôme de la forêt qu'il connaissait mieux que personne. Cora soutenait sa sœur d'une main ferme, car Alice, bien que courageuse, tremblait encore du danger de la nuit. Uncas fermait la marche, l'œil aux aguets, prêt à tout sacrifice pour protéger celles que le destin lui confiait. Œil-de-Faucon, lui, humait l'air comme un vieux loup, devinant les embuscades avant même de les voir. Ils traversèrent un ruisseau glacé dont le courant faillit emporter Alice, mais Uncas la saisit d'un bras puissant. Ce geste scella entre eux un lien de fraternité plus fort que la peur. Bientôt, les murs de Fort William-Henry apparurent entre les arbres, et le cœur des voyageurs battit de soulagement, car la guerre n'avait pas encore tout pris à ceux qui savent s'aimer et se défendre.",
+    "temps_cible_secondes": 161,
+    "quiz": [
+      {
+        "q": "Qui sont Chingachgook et Uncas ?",
+        "o": [
+          "Des soldats anglais",
+          "son fils Uncas, dernier des Mohicans",
+          "Des Français",
+          "Des guides français"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où les voyageurs tentent-ils de se rendre ?",
+        "o": [
+          "À un village huron",
+          "le commandant de Fort William-Henry",
+          "En Angleterre",
+          "Dans une grotte définitive"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment Œil-de-Faucon écarte-t-il le danger sur le lac ?",
+        "o": [
+          "En nageant",
+          "d'un coup de fusil précis",
+          "En priant",
+          "En fuyant à pied"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que représente Uncas selon son père ?",
+        "o": [
+          "Un simple guerrier",
+          "la dernière flamme d'une nation libre",
+          "Un ennemi",
+          "Un chef français"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_015",
+    "titre": "Moby-Dick",
+    "auteur": "Herman Melville",
+    "genre": "Aventure",
+    "niveau": "Avancé",
+    "extrait": "Ismaël, un jeune homme en quête d'aventure et de grand large, s'engagea sur le baleinier Péquod, un navire sombre aux mâts noirs comme le deuil. Le capitaine Achab, un vieux marin à la jambe d'ivoire taillée, cachait dans son cœur une obsession froide : traquer Moby-Dick, la grande baleine blanche qui lui avait arraché la jambe des années plus tôt. Dès les premiers jours en mer, l'équipage comprit que ce voyage ne serait pas ordinaire, car le capitaine ne parlait que de sa vengeance. Achab parcourait le pont comme une ombre, fixant l'horizon avec une colère muette et les poings serrés. Le harponneur Queequeg, un Polynésien tatoué de la tête aux pieds et bon camarade, devint l'ami d'Ismaël, partageant avec lui sa couverture et ses histoires. Ensemble, ils apprirent le métier de chasseur : guetter le souffle de la baleine, lancer le fer avec force, et ramener la graisse précieuse dans la cale. Une nuit d'orage, alors que l'éclair déchirait le ciel, on aperçut enfin le dos blanc de la baleine fendre les vagues écumeuses. Achab hurla de joie féroce et fit mettre les canots à la mer dans le tumulte. Le combat fut titanesque et sanglant. Moby-Dick frappa le navire de sa queue puissante, brisant le bois et projetant les hommes dans l'eau noire. Ismaël, rejeté loin, s'accrocha à un cercueil flottant que Queequeg avait jadis fabriqué pour lui-même. Le Péquod sombra lentement, emportant Achab et son rêve de vengeance vers les abîmes. Seul Ismaël survécut, recueilli des jours plus tard par un autre bateau passant par là. Il raconta alors cette histoire pour avertir les hommes : la mer est libre, et celui qui veut la dominer par la haine finit souvent par se noyer dans sa propre fureur. La baleine blanche, elle, disparut dans les profondeurs, mystérieuse et invaincue, symbole de la nature que nulle force humaine ne saurait plier. Avant de sombrer, le Péquod avait connu d'autres chasses, où l'équipage avait chanté en ramenant la graisse précieuse qui faisait la fortune des armateurs. Ismaël se souvenait des soirées sur le pont, où Queequeg racontait les légendes de son île lointaine, ponctuant ses paroles de gestes larges et souriants. Achab, lui, ne participait jamais à ces joies, rongé par l'obsession de la baleine blanche qui hantait ses nuits. Le harponneur avait confié à son ami que le capitaine portait en lui une blessure plus profonde que la jambe perdue, une blessure d'orgueil brisé. Ismaël comprit alors que la mer était un miroir où chacun voyait son propre destin. Certains y trouvaient la paix, d'autres la folie. Lorsqu'il fut recueilli, flottant sur son cercueil de bois, il jura de transmettre cette leçon aux marins à venir. Car la grande baleine blanche n'était peut-être qu'un nom donné à la liberté même de la nature, que nul harpon ne saurait jamais clouer au fond de l'océan.",
+    "temps_cible_secondes": 164,
+    "quiz": [
+      {
+        "q": "Quel est le nom de la baleine blanche poursuivie ?",
+        "o": [
+          "Ismaël",
+          "Moby-Dick",
+          "Le Péquod",
+          "Queequeg"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que veut le capitaine Achab ?",
+        "o": [
+          "Retourner chez lui",
+          "traquer Moby-Dick, la grande baleine blanche",
+          "Pêcher du poisson",
+          "Devenir roi"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est le harponneur ami d'Ismaël ?",
+        "o": [
+          "Achab",
+          "Queequeg",
+          "Moby-Dick",
+          "Un Français"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui survit à la fin du récit ?",
+        "o": [
+          "Achab et toute l'équipe",
+          "Seul Ismaël survécut",
+          "La baleine et Achab",
+          "Personne"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_016",
+    "titre": "Les Voyages de Gulliver : le naufrage",
+    "auteur": "Jonathan Swift",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "Lemuel Gulliver, chirurgien de bord sur un navire marchand, fut jeté par une tempête sur une côte inconnue et déserte. En ouvrant les yeux, il se sentit attaché au sol par d'innombrables petites cordes qui lui entravaient les bras et les jambes. Autour de lui couraient des hommes de la taille d'une main, aux habits brodés d'or et aux arcs minuscules à peine visibles. C'était le peuple de Lilliput, dont les habitants ne dépassaient pas quinze centimètres de haut. Effrayés d'abord par ce géant tombé du ciel, ils finirent par apporter à Gulliver de la nourriture sur de fragiles échelles de corde. Le géant, pour gagner leur confiance, leur fit signe qu'il était pacifique et ne leur voulait aucun mal. Le roi de Lilliput le reçut en grande cérémonie et lui confia une mission : libérer le royaume d'un navire ennemi voisin en le ramenant à quai. Gulliver, d'un seul geste de ses mains immenses, ramena les vaisseaux comme des jouets d'enfant. Mais la cour, jalouse de sa force et de sa popularité, complota contre lui dans l'ombre. On l'accusa de trahison pour avoir refusé de détruire une ville entière sur un simple caprice royal. Comprenant le danger mortel, il s'enfuit à la nage vers une île amie, laissant derrière lui le petit peuple. Là, il découvrit Brobdingnag, un pays de géants où il devint, à son tour, le petit être que l'on montre dans un coffret. Une servante le gardait dans une boîte matelassée, et le roi l'interrogeait sur l'Europe et ses guerres. Gulliver comprit alors l'absurdité des conflits humains, vus du regard d'un autre, plus grand ou plus petit. À son retour en Angleterre, il eut peine à retrouver sa place parmi les siens, car son cœur était resté partagé entre les mondes. Il écrivit ses voyages pour que chacun comprenne que la taille ne fait pas la sagesse, et que l'étrange nous enseigne à mieux nous connaître nous-mêmes. À Brobdingnag, Gulliver dut apprendre la prudence, car une mouche y paraissait grosse comme un oiseau et une goutte de pluie pouvait l'étouffer. La reine, amusée par son petit homme, le logeait dans une boîte douillette et le faisait parader lors des fêtes de la cour. Il y vit les géants manger avec des couteaux longs comme des poutres, et comprit combien la peur change de taille selon le regard. Un jour, un singe l'enleva jusqu'au toit du palais, et ce ne fut que par miracle qu'on le sauva, tout tremblant. De retour en Angleterre, Gulliver eut du mal à retrouver ses habitudes, car les hommes lui semblaient soudain petits et bruyants. Il écrivit ses mémoires pour avertir les rois que la grandeur ne se mesure pas à la taille des armées, mais à la justesse de l'esprit. Ses récits, d'abord pris pour des contes, finirent par enseigner la tolérance à ceux qui savaient encore écouter, et la curiosité à ceux qui osaient douter de leur propre importance.",
+    "temps_cible_secondes": 168,
+    "quiz": [
+      {
+        "q": "Quelle est la taille des habitants de Lilliput ?",
+        "o": [
+          "Comme des géants",
+          "ne dépassaient pas quinze centimètres",
+          "Normale",
+          "Ils volent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait Gulliver pour le roi de Lilliput ?",
+        "o": [
+          "Il détruit une ville",
+          "ramena les vaisseaux comme des jouets",
+          "Il part en guerre",
+          "Il devient roi"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi Gulliver s'enfuit-il de Lilliput ?",
+        "o": [
+          "Il s'ennuie",
+          "On l'accusa de trahison",
+          "Il veut nager",
+          "Le roi meurt"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que comprend Gulliver de ses voyages ?",
+        "o": [
+          "Que la force est tout",
+          "la taille ne fait pas la sagesse",
+          "Que l'or est roi",
+          "Que la mer est vide"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_017",
+    "titre": "Les Mines du roi Salomon",
+    "auteur": "H. Rider Haggard",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "Allan Quatermain, un vieux chasseur blanc d'Afrique aux yeux clairs, accepta de guider deux Anglais à la recherche du frère disparu de l'un d'eux. Une légende ancienne parlait des mines du roi Salomon, richesses oubliées au cœur d'un désert de pierre battu par le vent. Avec eux voyageait la belle et fière Umslopogaas, guerrière zouloue au bouclier d'acier poli et à la lance redoutable. Le groupe franchit des collines brûlantes, évita les lions au repos et les tribus hostiles qui guettaient les étrangers. Un vieux sorcier nommé Gagool, au corps ridé et au rire sinistre, les avertit que nul n'était revenu vivant des mines maudites. Mais l'espoir et la promesse poussaient les hommes plus loin que la peur. Ils atteignirent enfin la montagne creuse, où des galeries sombres s'enfonçaient dans la terre comme des gorges de pierre. À la lueur des torches fumantes, ils virent des diamants gros comme des œufs, mais aussi les ossements blanchis de ceux qui les avaient convoités avant eux. Gagool, traîtresse dans l'âme, tenta de les enfermer vivants en bloquant la sortie de rochers. Umslopogaas, rapide comme l'éclair, la frappa de son bouclier et sauva la troupe d'une mort lente. Ils remplirent une besace de pierres précieuses et s'enfuirent avant l'effondrement des voûtes qui menaçait de les ensevelir. Le retour fut plus périlleux encore : la soif, le sable brûlant, et les flèches des ennemis qui les traquaient. Quatermain, bien que fatigué, veillait comme un père sur ses compagnons, partageant sa dernière goutte d'eau. Lorsqu'ils revirent la mer bleue à l'horizon, ils surent qu'ils portaient un trésor, mais aussi un secret qu'il valait mieux ne pas révéler au monde. Car les mines du roi Salomon gardaient, disait-on, la mémoire de rois morts depuis des siècles, et certaines richesses ne sont pas faites pour les vivants. Sur le chemin du retour, la petite troupe fit halte près d'un puits où l'eau claire leur rendit quelque force. Quatermain, assis sur une pierre, observa le ciel étoilé et songea que l'Afrique gardait encore mille secrets que nul explorateur n'avait percés. Umslopogaas polissait sa lance en chantant un vieux chant de guerre zoulou, et les deux Anglais, épuisés, dormirent d'un sommeil de plomb. À l'aube, ils reprirent la route vers la côte, guidés par les étoiles et par l'instinct du vieux chasseur. Ils évitèrent un camp ennemi en contournant la vallée par les hauteurs, progressant sans bruit. Enfin, les palmiers annoncèrent l'océan, et un navire marchand les prit à son bord. Ils vendirent quelques pierres pour payer le voyage, gardant le reste comme un souvenir de l'épreuve. Quatermain conclut que le vrai trésor n'était pas dans l'or, mais dans le souffle de la vie préservée, et dans le respect que la terre sauvage impose à qui sait l'écouter avec humilité et courage.",
+    "temps_cible_secondes": 159,
+    "quiz": [
+      {
+        "q": "Qui guide l'expédition vers les mines ?",
+        "o": [
+          "Gagool",
+          "Allan Quatermain, un vieux chasseur blanc",
+          "Le roi Salomon",
+          "Umslopogaas seule"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que cherchent les deux Anglais ?",
+        "o": [
+          "De l'or facile",
+          "du frère disparu de l'un d'eux",
+          "Un trône",
+          "Des lions"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que trouvent-ils dans la montagne creuse ?",
+        "o": [
+          "Rien du tout",
+          "des diamants gros comme des œufs, mais aussi les ossements",
+          "Un roi vivant",
+          "De l'eau"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui sauve le groupe de la traîtrise de Gagool ?",
+        "o": [
+          "Quatermain en fuyant",
+          "Umslopogaas, rapide comme l'éclair, la frappa",
+          "Un lion",
+          "Le sorcier lui-même"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_018",
+    "titre": "Pêcheur d'Islande",
+    "auteur": "Pierre Loti",
+    "genre": "Aventure",
+    "niveau": "Intermédiaire",
+    "extrait": "Yann était un pêcheur breton au regard clair et aux larges épaules, fait pour la mer comme le chêne pour la terre. Chaque printemps, les hommes de Paimpol partaient pour l'Islande, là-bas, au-delà de l'océan, où la mer regorge de morues mais se fait parfois tombeau silencieux. Le jeune homme aimait une fille du pays, Gaud, mais il ne savait le dire, tant la mer occupait son cœur et ses rêves. Sur le navire, la vie était dure : le froid mordait les doigts jusqu'au sang, les cordes brûlaient les paumes, et les nuits blanches succédaient aux aubes grises sans répit. Yann maniait la ligne avec une adresse tranquille, chantant parfois une vieille complainte pour bercer le roulis et oublier la fatigue. Un soir de tempête, le ciel devint noir en une minute, comme si la nuit avait avalé le jour. Les vagues, hautes comme des maisons, frappaient le bois fragile du bateau avec une force de marteau. Le capitaine hurla de tenir bon et de serrer les cordages. Yann, accroché au mât glissant, pensa à Gaud qui, là-bas, veillait à la fenêtre en comptant les heures. La barque roula, manqua de chavirer, mais l'équipage, soudé par l'effort et le danger, ramena les voiles à temps d'une main ferme. L'aube révéla une mer d'huile et des milliers de poissons argentés frémissant dans la cale. Les hommes sourirent, épuisés mais vivants, et trinquèrent à la ration de rhum. Yann sut alors que la mer était sa maîtresse jalouse, exigeant chaque année sa part d'hommes et de larmes versées sur le quai. Au retour, il prit enfin la main de Gaud et lui jura que, vivant, il reviendrait toujours vers elle. Mais l'Islande appelait, et le pacte avec l'océan n'avait pas de fin. La côte bretonne, avec ses ajoncs et ses clochers, attendait les marins comme une mère inquiète, priant pour que la houle rende ceux qu'elle emporte au loin. Le retour à Paimpol fut une fête de larmes et de cris de joie, les femmes courant sur le quai pour serrer leurs maris dans leurs bras tremblants. Yann retrouva Gaud, et cette fois, il osa lui avouer son amour en lui offrant un collier de coquillages ramassées sur la grève islandaise. Le vieux port, avec ses maisons de granit et ses filets suspendus, semblait respirer de nouveau, soulagé d'avoir rendu ses fils à la terre ferme. Pourtant, dès l'hiver suivant, l'appel de la morue se fit entendre, et les hommes recommencèrent à préparer les cordages. Yann, désormais fiancé, hésitait, partagé entre la mer qui le réclamait et la femme qui le retenait. Gaud, courageuse, lui dit de partir, car elle savait que l'océan était sa destinée autant que son sang. Il partit donc, promettant de revenir, et la côte bretonne, sous le vent, veilla encore une fois, priant pour que les vagues soient clémentes avec celui qu'elle aimait et qu'elle attendrait, fidèle, jusqu'au prochain retour.",
+    "temps_cible_secondes": 166,
+    "quiz": [
+      {
+        "q": "Quel est le métier de Yann ?",
+        "o": [
+          "Marin militaire",
+          "un pêcheur breton",
+          "Agriculteur",
+          "Commerçant"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où les pêcheurs partent-ils chaque printemps ?",
+        "o": [
+          "Au Brésil",
+          "pour l'Islande",
+          "En Afrique",
+          "À Paris"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que vit le navire un soir de tempête ?",
+        "o": [
+          "Une pêche facile",
+          "Les vagues, hautes comme des maisons",
+          "Un port accueillant",
+          "Un calme plat"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui est Gaud ?",
+        "o": [
+          "La sœur de Yann",
+          "une fille du pays, Gaud",
+          "La capitaine",
+          "Une sirène"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_019",
+    "titre": "Vango, entre ciel et terre",
+    "auteur": "Timothée de Fombelle",
+    "genre": "Aventure",
+    "niveau": "Avancé",
+    "extrait": "Vango avait dix-neuf ans et ne possédait qu'un secret étrange : il savait voler. Non pas avec des ailes de plumes, mais en grimpant le long des murs, des clochers et des toits, comme si la gravité avait oublié son nom au passage. En cette année mille neuf cent trente-deux, l'Europe se préparait à la guerre, et les policiers traquaient un jeune homme sans papiers, accusé d'un crime qu'il n'avait pas commis. Vango fuyait à travers les villes, dormant dans les églises froides et les trains de marchandises qui roulaient vers le nord. Une nuit de brouillard à Paris, il escalada la tour Eiffel pour y cacher une lettre que personne ne devait lire, une lettre qui pouvait le perdre. En bas, les projecteurs balayaient les jardins vides, mais lui, là-haut, respirait enfin l'air libre. Il repensa à l'île de sa jeunesse, où une femme au visage doux l'avait élevé loin des hommes et de leurs haines. Qui était-elle vraiment ? Pourquoi l'avait-elle confié à des moines silencieux ? Ces questions le poussaient plus sûrement que la peur de se faire prendre. Sur le toit d'un wagon en marche, il rencontra Ethel, une jeune fille anglaise au regard de tempête, qui cherchait elle aussi la vérité sur sa famille disparue. Ensemble, ils déchiffrèrent un vieux carnet où s'entremêlaient des noms de rois déchus et de prêtres disparus, comme les fils d'une toile. Vango comprit que son destin dépassait sa petite personne : il était le chaînon d'une histoire qui courait depuis des générations, à travers l'Europe entière. Le vent froid sifflait entre les rails et secouait les wagons. L'aube se leva sur deux adolescents debout dans le vide, prêts à sauter vers l'inconnu, car parfois, pour trouver la terre ferme, il faut d'abord apprendre à marcher dans le ciel et à ne plus craindre la chute. Le train ralentit enfin dans une gare de province, et les deux adolescents sautèrent sur le quai, le cœur battant, sous le regard indifférent des voyageurs matinaux. Ethel serra le carnet contre sa poitrine, car il contenait la clé de son propre passé et peut-être la paix de sa famille brisée. Vango, lui, leva les yeux vers le clocher de l'église voisine, déjà tenté de le gravir pour mieux voir la ville s'éveiller. Ils savaient que la police ne tarderait pas à les chercher, et que chaque heure comptait comme une vie. Ils décidèrent de se séparer pour brouiller les pistes, se donnant rendez-vous à la prochaine pleine lune, près d'un vieux pont de pierre. Vango prit la main d'Ethel et la regarda droit dans les yeux, jurant de la protéger quoi qu'il advînt. Puis il s'élança dans la rue, léger comme une ombre, déjà grimpant d'un regard les murs qui l'attendaient. L'aventure n'était pas une fuite, mais une quête, et le ciel, désormais, serait sa vraie patrie.",
+    "temps_cible_secondes": 163,
+    "quiz": [
+      {
+        "q": "Quel étrange talent Vango possède-t-il ?",
+        "o": [
+          "Il sait nager sous la glace",
+          "il savait voler",
+          "Il parle toutes les langues",
+          "Il lit dans les pensées"
+        ],
+        "r": 1
+      },
+      {
+        "q": "En quelle année se déroule l'histoire ?",
+        "o": [
+          "1920",
+          "mille neuf cent trente-deux",
+          "1945",
+          "1900"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui rencontre Vango sur le toit d'un wagon ?",
+        "o": [
+          "Un policier",
+          "Ethel, une jeune fille anglaise",
+          "Un moine",
+          "Sa mère"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que découvrent-ils dans le vieux carnet ?",
+        "o": [
+          "Des recettes de cuisine",
+          "des noms de rois déchus et de prêtres disparus",
+          "Un trésor",
+          "Une carte au trésor"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "AVA_020",
+    "titre": "De la Terre à la Lune",
+    "auteur": "Jules Verne",
+    "genre": "Aventure",
+    "niveau": "Avancé",
+    "extrait": "Après la guerre de Sécession, les membres du Gun-Club de Baltimore, tous anciens artilleurs blessés et fiers, s'ennuyaient ferme sans bataille à mener. Le président Barbicane lança une idée folle qui fit frémir l'assemblée : envoyer un obus vers la Lune, cette voisine silencieuse des nuits. La nouvelle fit le tour de l'Amérique en un seul jour, et les journaux n'eurent que ce sujet à la une. On organisa une souscription nationale, et les dons affluèrent de toutes les villes, car chacun rêvait de toucher le ciel d'un doigt hardi. Le problème était immense : il fallait un canon colossal, de la poudre en quantité prodigieuse, et un projectile capable de résister à la chaleur du départ. Barbicane choisit la Floride pour son sol rocheux et son équateur favorable au tir. On creusa alors un puits de neuf mètres de large et vingt-sept de profondeur, où l'on coula un énorme cylindre de fonte forgée. Pendant ce temps, un Français nommé Michel Ardan proposa de monter lui-même dans le projectile, afin d'observer la Lune de près et d'écrire ce qu'il verrait. Le public l'acclama comme un héros au grand cœur. Le jour du tir, des millions de spectateurs se massèrent sur la côte en fête. À la seconde prévue, une détonation sourde ébranla la terre entière, et l'obus s'élança vers les étoiles dans un sillage de feu éclatant. Ardan, enfermé dans la capsule capitonnée, flottait doucement, car la vitesse annulait le poids de son corps. Il regarda la Terre rétrécir comme une pomme et se prit à rêver d'un monde nouveau, silencieux et pur. Personne ne sut jamais s'ils atteignirent la Lune, mais l'audace de ces pionniers ouvrit la voie à tous ceux qui, plus tard, voudraient marcher sur la poussière des astres. L'aventure, ici, n'était plus sur la mer, mais dans l'espace, ce dernier océan de l'humanité, vaste et encore à conquérir. Dans les jours qui suivirent le tir, les savants du monde entier débattirent de l'issue du projectile, les uns jurant qu'il avait manqué la Lune, les autres qu'il tournait encore autour d'elle comme un nouveau satellite. Barbicane, lui, restait muet, un sourire secret aux lèvres, car il savait que l'important n'était pas d'atteindre l'astre, mais d'avoir osé le rêve. Michel Ardan, si toutefois il vivait encore là-haut, aurait sans doute contemplé la Terre avec émerveillement, ce petit globe bleu suspendu dans le noir infini. Le Gun-Club, fier de son œuvre, finança d'autres expériences, convaincu que l'homme finirait par conquérir le ciel. Des années plus tard, d'autres pionniers reprendraient le flambeau, avec des fusées de métal et des équipages formés. Mais tous se souviendraient de ce premier obus fou, lancé par des hommes qui avaient transformé la poudre en espoir, et l'audace en premier pas vers les étoiles, ce royaume encore interdit.",
+    "temps_cible_secondes": 159,
+    "quiz": [
+      {
+        "q": "Qui lance l'idée d'envoyer un obus vers la Lune ?",
+        "o": [
+          "Michel Ardan",
+          "Le président Barbicane",
+          "Un Français",
+          "Un astronome"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Qui propose de monter dans le projectile ?",
+        "o": [
+          "Barbicane",
+          "Michel Ardan",
+          "Un Américain",
+          "Un enfant"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Où creuse-t-on le canon géant ?",
+        "o": [
+          "En France",
+          "la Floride",
+          "Sur la Lune",
+          "Au pôle Nord"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que prouve cette aventure selon le texte ?",
+        "o": [
+          "Que la Lune est habitée",
+          "l'audace de ces pionniers ouvrit la voie",
+          "Que la guerre est utile",
+          "Que la Terre est plate"
+        ],
+        "r": 1
+      }
+    ]
+  },
+  {
+    "id": "POE_001",
+    "titre": "Le Vent et le Soleil",
+    "auteur": "Jean de La Fontaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Débutant",
+    "extrait": "Un matin de printemps, le Vent du nord et le Soleil se disputaient pour savoir lequel des deux était le plus fort. Ils voyaient un voyageur qui marchait sur la route, un lourd manteau sur les épaules. Le Vent dit avec orgueil : « Celui qui parviendra le premier à faire ôter son manteau à cet homme sera reconnu comme le plus puissant. » Ainsi parla le Vent, et il se mit à souffler avec une violence terrible. Il hurlait, il secouait les arbres, il soulevait la poussière sur le chemin. Mais plus il soufflait, plus le voyageur serrait son manteau autour de lui, protégeant son cou et ses mains du froid mordant. Le Vent redoubla d'efforts, devint tempête, mais le pauvre homme, grelottant, enroula le tissu encore plus étroitement et pressa le pas pour trouver un abri. Le Vent, épuisé, dut renoncer et laissa la place au Soleil. Alors le Soleil parut doucement entre les nuages, et il commença à répandre une chaleur calme et bienfaisante sur la terre. Peu à peu, l'air devint tiède, la route scintilla sous la lumière dorée. Le voyageur sentit la douceur du jour pénétrer ses membres, et il détacha son manteau pour marcher plus à l'aise. Bientôt, la chaleur grandissant, il s'essuya le front et quitta son vêtement pour le rouler sur son bras. Le Soleil avait gagné sans violence, par la seule bonté de sa lumière. Le Vent, confus, baissa les yeux. La morale est claire et touche les esprits : la douceur obtient souvent ce que la force ne peut arracher. Quiconque veut convaincre son prochain trouve plus de succès par la gentillesse que par la contrainte. Ainsi le Soleil enseigna au Vent que la puissance véritable sait s'habiller de patience et de clarté. Les rois mêmes devraient s'en souvenir, car un peuple aimé obéit bien mieux qu'un peuple courbé sous la crainte. Le voyageur, lui, continua sa route, léger et joyeux, sans savoir qu'il venait de départager deux puissances du ciel par sa simple liberté retrouvée.",
+    "quiz": [
+      {
+        "q": "Quel est le pari entre le Vent et le Soleil ?",
+        "o": [
+          "Voir qui fera ôter son manteau au voyageur",
+          "Voir qui fera pleuvoir le plus vite",
+          "Voir qui éteindra le feu",
+          "Voir qui renversera l'arbre"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que fait le voyageur quand le Vent souffle fort ?",
+        "o": [
+          "Il enlève son manteau",
+          "Il serre son manteau plus fort",
+          "Il s'envole",
+          "Il se cache sous terre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment le Soleil réussit-il ?",
+        "o": [
+          "En hurlant comme le Vent",
+          "Par une chaleur douce et calme",
+          "En envoyant la pluie",
+          "En frappant le voyageur"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la morale de la fable ?",
+        "o": [
+          "La force bat toujours la douceur",
+          "La douceur obtient souvent ce que la force ne peut",
+          "Il faut toujours courir",
+          "Le Vent est le plus fort"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 116
+  },
+  {
+    "id": "POE_002",
+    "titre": "La Lune et les Étoiles",
+    "auteur": "Jean de La Fontaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Débutant",
+    "extrait": "La Lune, fière de son disque d'argent, regardait chaque nuit les petites étoiles briller autour d'elle. Elle leur dit un soir : « Je suis la reine de la nuit, car je suis grande, ronde et lumineuse, tandis que vous n'êtes que de faibles points perdus dans l'ombre. » Les étoiles ne répondirent rien, mais elles continuèrent de scintiller avec patience. Or il arriva qu'un nuage sombre vint cacher le visage de la Lune, et le ciel devint tout à coup bien sombre. La Lune, inquiète, appela les étoiles pour qu'elles l'aident à chasser l'obscurité. L'une d'elles répondit doucement : « Nous brillons chacune de notre propre feu, et ensemble nous formons une guirlande que nul nuage ne peut éteindre tout entière. » Ainsi, malgré le voile qui couvrait la Lune, les étoiles gardèrent le ciel clair de leurs mille petites lumières. La Lune comprit alors sa vanité et demanda pardon à ses compagnes. Le vent chassa bientôt le nuage, et la Lune reparut, plus humble qu'auparavant. Elle remercia les étoiles de lui avoir tenu compagnie dans l'épreuve. Depuis ce jour, la Lune et les étoiles veillent ensemble, unies dans la même tâche de rassurer les enfants qui dorment. La nuit appartient à tous ceux qui savent briller, qu'ils soient grands ou petits. La morale nous apprend que nul n'est assez grand pour se passer des autres, et que la vraie grandeur consiste à reconnaître la valeur de chacun. L'orgueil nous rend aveugles, mais l'humilité nous rend clairvoyants. Les étoiles, sans se plaindre, avaient montré que la force d'un peuple vient de l'union de ses membres. Ainsi la nuit, loin d'être triste, devint une école de fraternité silencieuse, où chacun trouve sa place et sa lumière propre au milieu du grand firmament.",
+    "quiz": [
+      {
+        "q": "De quoi la Lune se vante-t-elle ?",
+        "o": [
+          "D'être petite et faible",
+          "D'être grande, ronde et lumineuse",
+          "De pouvoir cacher les étoiles",
+          "De faire pleuvoir"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que se passe-t-il quand un nuage cache la Lune ?",
+        "o": [
+          "Les étoiles s'éteignent",
+          "Les étoiles gardent le ciel clair",
+          "La Lune devient plus grande",
+          "Il fait jour"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment la Lune change-t-elle après l'épreuve ?",
+        "o": [
+          "Elle devient plus orgueilleuse",
+          "Elle devient plus humble",
+          "Elle disparaît",
+          "Elle se met en colère"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la morale de la fable ?",
+        "o": [
+          "Il faut être seul pour briller",
+          "Nul n'est assez grand pour se passer des autres",
+          "Les étoiles sont inutiles",
+          "La Lune est la seule importante"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 101
+  },
+  {
+    "id": "POE_003",
+    "titre": "L'Aube sur la mer",
+    "auteur": "Victor Hugo",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "L'aurore lentement se leva sur l'océan, et la mer, immense et calme, sembla s'emplir de feu. Les vagues, qui dormaient encore sous le ciel pâle, commencèrent à frémir d'une lumière rose et dorée. Au loin, un voilier aux voiles blanches glissait comme un oiseau sur l'eau tranquille, porté par un vent doux du matin. Le poète, debout sur le rivage, contemplait ce spectacle avec une joie mêlée de tristesse. Il songeait que la mer, si puissante et si libre, était aussi changeante que le cœur des hommes. Parfois elle sourit sous le soleil, parfois elle gronde dans la tempête et engloutit les navires. Le soleil monta peu à peu, et ses rayons tracèrent une route d'or jusqu'aux pieds du rêveur. Les mouettes tournoyaient en criant, heureuses de la chaleur nouvelle, et le sable fin brillait comme une plage de perles. Le poète sentit sa poitrine s'élargir, et il murmura des vers pour saluer le jour qui naît. Il compara l'aurore à l'espérance qui revient toujours après la nuit de l'âme. Même dans nos douleurs, disait-il, une lumière se lève et nous rappelle que rien n'est perdu. La mer, témoin éternel, berce les espoirs des générations qui passent. Le matin grandit, les couleurs se firent plus vives, et l'horizon devint une ligne nette entre le bleu profond et le ciel clair. Le voilier n'était plus qu'un point lointain, emporté vers d'autres rivages et d'autres destins. Le poète sourit, car il savait que chaque aube est une promesse, et que la beauté du monde suffit parfois à consoler le cœur des peines de la veille. Il tourna les pas vers la ville qui s'éveillait, portant en lui la paix de l'océan et la certitude que le jour, lui aussi, était un poème écrit par la main de la nature.",
+    "quiz": [
+      {
+        "q": "Que fait le poète au début du texte ?",
+        "o": [
+          "Il dort sur le sable",
+          "Il contemple la mer au rivage",
+          "Il pêche un poisson",
+          "Il construit un bateau"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment le poète compare-t-il l'aurore ?",
+        "o": [
+          "À une tempête",
+          "À l'espérance qui revient après la nuit",
+          "À un navire perdu",
+          "À la tristesse"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que devient le voilier à la fin ?",
+        "o": [
+          "Il coule",
+          "Il n'est plus qu'un point lointain",
+          "Il revient au port",
+          "Il devient un oiseau"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quel sentiment domine le poète ?",
+        "o": [
+          "La colère",
+          "La paix et la certitude que le jour est un poème",
+          "La peur",
+          "L'ennui"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 102
+  },
+  {
+    "id": "POE_004",
+    "titre": "Les Deux Frères et la Montagne",
+    "auteur": "Victor Hugo",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "Deux frères habitaient un village au pied d'une haute montagne couverte de neige. L'aîné, nommé Pierre, était fort et courageux, mais il agissait souvent sans réfléchir. Le cadet, appelé Paul, était plus frêle, mais il possédait une grande sagesse et beaucoup de patience. Un hiver rigoureux, la famine menaça le village, car les réserves de bois et de pain diminuaient chaque jour. Les anciens dirent qu'au sommet de la montagne se trouvait une grotte où le feu ne s'éteignait jamais, et que celui qui l'atteindrait sauverait tout le monde. Pierre prit aussitôt son arc et partit en courant, méprisant le froid et le danger. Paul, lui, prépara des cordes, des peaux pour se couvrir, et il suivit son frère à pas mesurés. Pierre, pressé, glissa sur la glace et se blessa à la jambe, incapable d'avancer davantage. Paul le rejoignit, pansa sa blessure avec douceur, et lui proposa de continuer ensemble, l'un soutenant l'autre. Ils marchèrent ainsi, unis, jusqu'à la grotte lumineuse où brûlait une flamme éternelle. Ils en rapportèrent la chaleur et la lumière pour leur village épuisé. Le peuple, reconnaissant, comprit que la force sans prudence est vaine, mais que la force unie à la sagesse peut tout accomplir. Les deux frères devinrent le symbole de la fraternité, et l'on raconta leur histoire autour du feu pendant bien des hivers. La montagne, jadis si redoutée, devint un lieu de mémoire et d'espoir. Paul et Pierre apprirent à se compléter, car l'un avait le bras et l'autre l'esprit. Leur exemple enseigna aux enfants que rien n'est plus précieux que de tendre la main à celui qui partage notre sang et notre destin. Ainsi la neige, loin d'être un ennemi, avait scellé le lien fraternel par l'épreuve partagée et la victoire commune.",
+    "quiz": [
+      {
+        "q": "Quelle est la différence entre Pierre et Paul ?",
+        "o": [
+          "Ils sont identiques",
+          "Pierre est fort mais impulsif, Paul est sage et patient",
+          "Paul est méchant",
+          "Pierre est petit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que se passe-t-il quand Pierre glisse sur la glace ?",
+        "o": [
+          "Il gagne la course",
+          "Il se blesse et ne peut plus avancer",
+          "Il trouve le trésor",
+          "Il rentre chez lui"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment atteignent-ils la grotte ?",
+        "o": [
+          "Pierre y va seul",
+          "Ils y vont ensemble, l'un soutenant l'autre",
+          "Ils envoient un oiseau",
+          "Ils ne l'atteignent pas"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle leçon le village retient-il ?",
+        "o": [
+          "La force sans prudence est vaine, la sagesse unie à la force peut tout",
+          "Il faut toujours courir",
+          "La montagne est mauvaise",
+          "Les frères doivent se séparer"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 101
+  },
+  {
+    "id": "POE_005",
+    "titre": "L'Invitation au voyage",
+    "auteur": "Charles Baudelaire",
+    "genre": "Poésie/Fables",
+    "niveau": "Avancé",
+    "extrait": "Mon enfant, ma sœur, songe à la douceur d'aller là-bas vivre ensemble, aimer à loisir, aimer et mourir au pays qui te ressemble. Les soleils mouillés de ces ciels bizarres, de leur invisble et monotone caresse, pour mon esprit ont les charmes secrets de tes traîtres yeux, luisants comme le cristal. Là, tout n'est qu'ordre et beauté, luxe, calme et volupté. Des meubles luisants, polis par les ans, décoreraient notre chambre ; les plus rares fleurs mêlant leurs parfums au vague des ambers, la lourde tenture, les miroirs, la splendeur orientale, tout y parlerait à l'âme en secret sa douce langue natale. Là, tout n'est qu'ordre et beauté, luxe, calme et volupté. Vois sur ces canaux dormir ces vaisseaux, dont l'humeur est vagabonde ; c'est pour assouvir ton moindre désir qu'ils viennent du bout du monde. Les soleils couchants revêtent les champs, les canaux, la ville entière, de pourpre et d'or ; le monde s'endort dans une chaude lumière. Là, tout n'est qu'ordre et beauté, luxe, calme et volupté. Que dis-tu, mon enfant, ma sœur, de ce pays merveilleux qui nous ressemble ? Nous y ferions, mon amour, une connaissance nouvelle, et régnerions, toi et moi, sur un peuple de nuages et de rêves. Les fleuves y chantent sans fin une berceuse connue, et l'air y est parfumé comme un gâteau tout frais. C'est là, dis-je, que doit fleurir notre paisible opulence, notre rêve d'or, notre chambre où le désordre même serait lumineux. Mon enfant, ma sœur, songe à la douceur d'aller là-bas ; là, tout n'est qu'ordre et beauté, luxe, calme et volupté, et notre âme enfin trouverait le repos qu'elle cherche en vain parmi le bruit du monde présent.",
+    "quiz": [
+      {
+        "q": "Que propose le poète à son enfant et à sa sœur ?",
+        "o": [
+          "De rester chez eux",
+          "D'aller vivre ensemble dans un pays qui leur ressemble",
+          "De voyager seuls",
+          "De travailler"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle expression revient comme un refrain dans le poème ?",
+        "o": [
+          "Tout n'est qu'ordre et beauté, luxe, calme et volupté",
+          "Il fait froid dehors",
+          "La mer est immense",
+          "Le temps passe vite"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Comment sont décrits les soleils de ce pays ?",
+        "o": [
+          "Secs et brûlants",
+          "Mouillés et de ciels bizarres",
+          "Noirs et froids",
+          "Invisibles et petits"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que cherche l'âme selon le dernier vers ?",
+        "o": [
+          "La richesse",
+          "Le repos qu'elle ne trouve pas dans le bruit du monde",
+          "La vengeance",
+          "La solitude"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 97
+  },
+  {
+    "id": "POE_006",
+    "titre": "Chanson d'automne",
+    "auteur": "Paul Verlaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone. Tout suffocant et pâle, quand sonne l'heure, je me souviens des jours anciens et je pleure. Et je m'en vais au vent mauvais qui m'emporte, çà et là, pareil à la feuille morte. Le ciel est triste et gris, la pluie fine tombe sans bruit sur les toits de la ville endormie. Les arbres, dépouillés de leurs feuilles d'or, tendent vers le ciel leurs branches nues et froides. Un petit oiseau, perdu dans le jardin désert, cherche en vain sa compagne partie vers le midi. Le poète marche lentement sur les pavés humides, son âme pleine du regret des choses qui s'en vont. Il songe à l'enfance, aux jeux simples, aux voix tendres qui ne reviendront plus. Le vent d'automne emporte les derniers parfums du verger, et le feu dans l'âtre ne suffit pas à réchauffer le cœur. Pourtant, au milieu de cette tristesse, une douceur secrète console le rêveur : il sait que l'hiver prépare le printemps, et que la mort apparente des champs n'est qu'un sommeil. La feuille morte, portée par le vent, rejoint la terre qui la nourrira pour les fleurs futures. Ainsi nos peines, légères comme des violons, se perdent dans le grand chant de la nature qui renait sans cesse. Le poète sourit enfin, car il a compris que la langueur d'automne est une musique, et que pleurer doucement est parfois une façon d'aimer la vie. Le soir tombe, les lampes s'allument aux fenêtres, et la ville, sous la pluie, semble un visage apaisé par les larmes.",
+    "quiz": [
+      {
+        "q": "Quel instrument est associé à la tristesse de l'automne ?",
+        "o": [
+          "La flûte",
+          "Les violons",
+          "Le tambour",
+          "La trompette"
+        ],
+        "r": 1
+      },
+      {
+        "q": "À quoi le poète se compare-t-il à la fin du premier quatrain ?",
+        "o": [
+          "À un oiseau",
+          "À une feuille morte emportée par le vent",
+          "À un arbre",
+          "À une pierre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait le petit oiseau dans le jardin ?",
+        "o": [
+          "Il chante fort",
+          "Il cherche sa compagne partie vers le midi",
+          "Il construit un nid",
+          "Il dort"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle consolation le poète trouve-t-il ?",
+        "o": [
+          "L'hiver prépare le printemps et la mort n'est qu'un sommeil",
+          "Il va gagner beaucoup d'argent",
+          "Il oublie tout",
+          "Le vent s'arrête"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 91
+  },
+  {
+    "id": "POE_007",
+    "titre": "Le Bateau ivre",
+    "auteur": "Arthur Rimbaud",
+    "genre": "Poésie/Fables",
+    "niveau": "Avancé",
+    "extrait": "Comme je descendais des Fleuves impassibles, je ne me sentis plus guidé par les haleurs : les Peaux-Rouges avaient pris les filins et les plantaient nus sur les poteaux de couleurs. J'étais insoucieux de tous les équipages, porteur de blés flamands ou de cotons anglais. Quand avec mes haleurs ont fini ces tapages, les Fleuves m'ont laissé descendre où je voulais. Dans les clapotements furieux des marées, moi l'autre hiver, plus sourd que les cerveaux d'enfants, je courus ! Et les Pôles ont englouti leur tumulte. De la vague écumait les froids, lumineux, verts, et longs, je crois avoir vu le fluide en feu, bleu, sous les ciels de débâcle, une mer de Behemoths. J'ai vu le soleil bas, taché d'horreurs mystiques, illuminant de longs figements violets, pareils à des acteurs de drames très antiques ; des flots roulant au loin leurs frissons de lumière, des bêtes d'azur, et tout un monde étrange. J'ai suivi, pendant trois ans, comme un doux fou, la mer, et elle a chanté ma berceuse en hiver, plus douce que le fruit mûr et plus claire que l'hostie. Les vagues ont élevé mes désirs et mes rêves, et le vent a joué dans ma chevelure. Et depuis lors, je me suis baigné dans le Poème de la Mer, infusé d'astres, et bleu, dévorant les verts azurs. Mais un matin, j'ai voulu voir la mer elle-même, et je suis resté seul, ivre de mon propre vol, las de ces mondes lointains et de leurs merveilles. Je regrettai le rivage, les yeux des hommes, et la terre ferme où l'on marche sans tomber. Ainsi le bateau ivre apprit que la liberté sans but épuise l'âme, et que nul ne peut vivre loin de sa propre rive natale.",
+    "quiz": [
+      {
+        "q": "Qui a pris les filins au début du poème ?",
+        "o": [
+          "Les haleurs français",
+          "Les Peaux-Rouges",
+          "Des enfants",
+          "Des marchands"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Combien de temps le poète a-t-il suivi la mer ?",
+        "o": [
+          "Une semaine",
+          "Trois ans",
+          "Un jour",
+          "Dix ans"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que regrette-t-il à la fin ?",
+        "o": [
+          "Les tempêtes",
+          "Le rivage, les yeux des hommes et la terre ferme",
+          "Les étoiles",
+          "Le froid"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle leçon tire le bateau ivre ?",
+        "o": [
+          "La liberté sans but épuise l'âme et nul ne vit loin de sa rive",
+          "La mer est toujours calme",
+          "Il faut fuir les hommes",
+          "Les étoiles sont dangereuses"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 100
+  },
+  {
+    "id": "POE_008",
+    "titre": "La Nuit de mai",
+    "auteur": "Alfred de Musset",
+    "genre": "Poésie/Fables",
+    "niveau": "Avancé",
+    "extrait": "C'est la nuit de mai, le ciel est serein, la lune brille sur les toits de la ville endormie, et le jardin exhale un parfum de roses et de thym. Le poète est assis près de la fenêtre ouverte, et son cœur est lourd d'un chagrin qu'il ne nomme pas. La nature autour de lui semble vivre et lui parler : le ruisseau chante, le rossignol gémit dans le bosquet, et le vent du soir apporte des soupirs lointains. Une voix invisible lui dit : « Pourquoi pleures-tu, ô poète, alors que la nuit est belle et que le monde repose ? » Le poète répond : « Je pleure parce que j'aime, et que ce que j'aime s'envole comme l'ombre. » La voix reprend : « Ton chagrin est une fleur qui doit s'ouvrir ; ne le cache pas, mais chante-le, car la douleur mise en vers devient une joie pour les autres. » Alors le poète prend sa plume, et il écrit les vers que lui dicte son âme tourmentée. Il parle de la jeunesse perdue, des amitiés brisées, des rêves qui se sont éteints comme des lampes sans huile. Mais à mesure qu'il écrit, il sent un apaisement lent descendre sur lui. La nuit de mai, complice, étend sur son front une main fraîche et légère. Le rossignol, à son tour, semble approuver, et sa chanson devient moins triste. Le poète comprend enfin que la poésie est le remède donné aux cœurs blessés, et que partager sa peine en la nommant est déjà commencer à la guérir. L'aube paraît, pâle et douce, et le poète, fatigué mais plus calme, ferme son livre. Il sait que demain, sous un autre ciel, il aimera encore, car aimer est le propre de l'homme, et souffrir d'amour est le prix de la grandeur de l'âme. La nuit de mai s'efface, mais les vers restent, témoins éternels d'une douleur changée en beauté.",
+    "quiz": [
+      {
+        "q": "Quelle est la saison et le moment du poème ?",
+        "o": [
+          "Un jour d'hiver",
+          "La nuit de mai",
+          "Un matin d'été",
+          "L'après-midi d'automne"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que dit la voix invisible au poète ?",
+        "o": [
+          "De fuir la nuit",
+          "De chanter son chagrin car la douleur en vers devient joie",
+          "De dormir",
+          "De partir loin"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que ressent le poète en écrivant ?",
+        "o": [
+          "Plus de colère",
+          "Un apaisement lent",
+          "De la joie folle",
+          "De l'indifférence"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que devient la douleur selon le poème ?",
+        "o": [
+          "Elle disparaît sans trace",
+          "Elle est changée en beauté par la poésie",
+          "Elle devient haine",
+          "Elle reste cachée"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 110
+  },
+  {
+    "id": "POE_009",
+    "titre": "Le Lac",
+    "auteur": "Alphonse de Lamartine",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "Ainsi, toujours poussés vers de nouveaux rivages, dans la nuit éternelle emportés sans retour, ne pourrons-nous jamais sur l'océan des âges jeter l'ancre un seul jour ? Ô lac ! l'année à peine a fini sa carrière, et près de ces rivages, qu'elle devait revoir, je viens seul m'asseoir sur la pierre où tu vois le temps laisser son empire. Au moins, tu connais, ô lac ! ces bras que j'aimais, et tu sais que souvent, sous ton ombre, à tes bords, elle venait, quand le soir dans tes eaux se mirait, promener son regard et sa pensée errante. Le vent soufflait sur l'eau, la vague était tranquille, et la voix de l'ami chantait sur la rive. Un soir, t'en souvient-il ? nous voguions en silence ; on n'entendait au loin, sur l'onde et sous les cieux, que le bruit des rameurs qui frappaient en cadence tes flots harmonieux. Soudain, des rives lointaines, un bruit confus vint frapper mon oreille ; et le lac, répondant au cri de la falaise, renvoya lentement son écho solitaire. Ô temps ! suspends ton vol, et vous, heures propices ! suspendez votre cours : laissez-nous savourer les rapides délices des plus beaux de nos jours ! Mais je demande en vain quelques moments encore ; le temps m'entraîne, et fuit, et je le perds sans retour. Je ne puis faire qu'à l'heure qu'il est, il ne soit plus. Cependant, ô lac ! rochers, bois, sombres abîmes, vous que le temps épargne et qu'il peut replier, gardez de cette nuit, gardez, belle nature, au moins le souvenir de l'homme qui passa. Le poète contemple l'eau immobile et comprend que seule la nature demeure, tandis que les êtres s'évanouissent comme l'écume sur la rive.",
+    "quiz": [
+      {
+        "q": "Que demande le poète au temps ?",
+        "o": [
+          "De s'enfuir plus vite",
+          "De suspendre son vol et de laisser savourer les délices du jour",
+          "De revenir en hiver",
+          "De détruire le lac"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que vient faire le poète près du lac ?",
+        "o": [
+          "Pêcher",
+          "S'asseoir seul sur la pierre où il aimait autrefois",
+          "Nager",
+          "Construire une barque"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que garde-t-il comme souvenir selon la fin ?",
+        "o": [
+          "L'argent perdu",
+          "Le souvenir de l'homme qui passa, confié à la nature",
+          "Une lettre",
+          "Un anneau"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que comprend le poète à la fin ?",
+        "o": [
+          "La nature demeure tandis que les êtres s'évanouissent",
+          "Le lac va disparaître",
+          "Il doit partir en guerre",
+          "Le temps s'arrête"
+        ],
+        "r": 0
+      }
+    ],
+    "temps_cible_secondes": 99
+  },
+  {
+    "id": "POE_010",
+    "titre": "Le Lion et le Rat",
+    "auteur": "Jean de La Fontaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Débutant",
+    "extrait": "Un lion, roi de la forêt, dormait paisiblement sous un grand chêne, lorsqu'un petit rat, insouciant, vint courir sur son corps et lui chatouiller le museau. Le lion se réveilla en sursaut, posa sa patte énorme sur le rat et le menaça de le dévorer. Le pauvre rongeur, tout tremblant, supplia le roi : « Grâce, ô puissant lion ! Je suis bien petit, et je ne t'ai fait aucun mal. Peut-être un jour pourrai-je te rendre service, car la reconnaissance n'attend pas la taille. » Le lion, amusé par cette audace, éclata de rire et relâcha sa proie, disant : « Va, petit, je ne me repais point de si faible gibier. » Quelques jours plus tard, des chasseurs tendirent un filet de corde dans la clairière et y prirent le lion lui-même. L'animal, pris aux pieds et à la crinière, rugit de toute sa force, mais plus il se débattait, plus les liens se serraient. Le rat, entendant les cris, accourut et reconnut son bienfaiteur. Sans hésiter, il grignota la corde avec ses dents aiguës, maille après maille, jusqu'à ce que le lion fût libre. Le roi, honteux de sa fierté passée, remercia le petit sauveur. La morale est certaine : un service rendu n'est jamais perdu, et le plus faible peut secourir le plus fort. La nature a donné à chacun son arme, et la dent du rat valut ici la griffe du lion. Les enfants doivent retenir que la bonté envers les petits est une sagesse, car nul ne sait quel jour il aura besoin d'eux. Le lion et le rat devinrent amis, et la forêt entière apprit que la vraie noblesse réside dans la reconnaissance et non dans la seule puissance. Ainsi finit cette aventure, qui montre que la pitié d'un grand envers un petit peut un jour sauver le grand lui-même.",
+    "quiz": [
+      {
+        "q": "Que fait le petit rat au début ?",
+        "o": [
+          "Il attaque le lion",
+          "Il court sur le lion et le chatouille",
+          "Il dort",
+          "Il s'enfuit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi le lion relâche-t-il le rat ?",
+        "o": [
+          "Par peur",
+          "Amusé par son audace, le lion relâche sa proie car c'est un gibier faible",
+          "Il doit chasser",
+          "Le rat le prie longtemps"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment le rat sauve-t-il le lion ?",
+        "o": [
+          "En hurlant",
+          "En grignotant la corde avec ses dents",
+          "En appelant d'autres lions",
+          "En coupant le filet avec une épée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la morale de la fable ?",
+        "o": [
+          "Les grands doivent craindre les petits",
+          "Un service rendu n'est jamais perdu, le faible peut secourir le fort",
+          "Le rat est méchant",
+          "Le lion est toujours vainqueur"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 106
+  },
+  {
+    "id": "POE_011",
+    "titre": "La Maison du berger",
+    "auteur": "Alfred de Vigny",
+    "genre": "Poésie/Fables",
+    "niveau": "Avancé",
+    "extrait": "Le poète, assis sur la pierre d'un vieux berceau, regarde le ciel et songe à la destinée des hommes. Il dit : « La maison du berger est pauvre, mais elle est libre ; le vent y entre comme chez lui, et l'étoile y veille par la fenêtre ouverte. » Loin des palais bruyants, loin des cours où l'on ment, le berger vit de peu et ne doit rien à personne. Son troupeau paît l'herbe fine des collines, et sa pensée, elle, paît les champs du ciel étoilé. Le poète compare le destin du génie à celui du berger : tous deux sont seuls, tous deux observent, tous deux attendent sans plainte. La société, dit-il, méconnaît ceux qui pensent, comme elle méconnut jadis le prophète au désert. Mais le berger sait que la patience est une force, et que le silence cache souvent la plus haute sagesse. Quand la nuit tombe sur la montagne, il allume un feu, et la flamme éclaire son visage calme. Les chiens gardent les brebis, et la lune, complice, éclaire le sentier des loups lointains. Le poète conclut que la vraie grandeur ne s'achète point, qu'elle habite dans l'âme qui sait se suffire. La maison du berger n'a ni or ni marbre, mais elle a l'espace, le vent, la lumière et la paix. L'homme de pouvoir craint la chute ; l'homme de pensée craint peu, car il a bâti sa demeure sur le roc de l'éternel. Ainsi le berger devient le symbole du poète, gardien silencieux d'un troupeau de rêves. Le matin venu, il siffle, et les bêtes se lèvent ; la vie reprend son cours simple, et le ciel, toujours présent, rappelle que le monde est plus vaste que nos querelles. Le poète se lève à son tour, salue la montagne, et descend vers les hommes porter en son cœur la leçon de la solitude féconde.",
+    "quiz": [
+      {
+        "q": "Où est assis le poète au début ?",
+        "o": [
+          "Dans un palais",
+          "Sur la pierre d'un vieux berceau",
+          "Dans une église",
+          "Au bord de la mer"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que possède la maison du berger selon le poème ?",
+        "o": [
+          "De l'or et du marbre",
+          "L'espace, le vent, la lumière et la paix",
+          "Des gardes armés",
+          "Un trésor caché"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que compare le poète au berger ?",
+        "o": [
+          "Le roi",
+          "Le génie ou le poète, seul et patient",
+          "Le marchand",
+          "Le soldat"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Sur quoi le poète dit-il avoir bâti sa demeure ?",
+        "o": [
+          "Sur le sable",
+          "Sur le roc de l'éternel",
+          "Sur l'argent",
+          "Sur la peur"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 107
+  },
+  {
+    "id": "POE_012",
+    "titre": "Le Renard et la Cigogne",
+    "auteur": "Jean de La Fontaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Débutant",
+    "extrait": "Le renard, friand de tours et toujours malicieux, invita un jour la cigogne à dîner chez lui. Il servit un potage clair dans un plat tout plat, si large et si peu profond que la cigogne, avec son long bec, ne pouvait en rien saisir. Le renard, lui, lapait gaiement le bouillon et se moquait de sa convive. La cigogne, polie, fit semblant de ne point s'offenser et dit : « La semaine prochaine, je vous invite à mon tour. » Le renard accepta, l'eau lui venant à la bouche. Le jour venu, la cigogne présenta une fiole à long col étroit, remplie d'un bon mets. Elle y plongeait son bec avec aisance et savourait le repas, tandis que le renard, la langue tirée, ne pouvait atteindre la nourriture au fond du vase. Il s'en retourna le ventre creux et honteux de sa propre ruse. La cigogne lui dit alors : « Mon cher ami, la nature nous a faits différents, et nul ne doit se moquer de l'autre. » La morale est simple et juste : traite les autres comme tu voudrais qu'ils te traitent, car la moquerie revient toujours à celui qui la lance. Le renard apprit que la malice contre autrui finit par nous nuire, et que la politesse vaut mieux que la tromperie. Les enfants rient de cette histoire, mais ils en retiennent la leçon : il faut respecter la différence des autres, car chacun a ses propres dons et ses propres limites. La cigogne, sage, n'avait pas puni par la colère, mais par l'exemple, montrant que la vraie réponse à la malice est la dignité. Dès lors, le renard et la cigogne se rencontrèrent sans plus de pièges, et la forêt vécut en paix, instruite par un dîner qui avait tourné au renversement des rôles.",
+    "quiz": [
+      {
+        "q": "Que sert le renard à la cigogne ?",
+        "o": [
+          "Un gâteau",
+          "Un potage dans un plat plat",
+          "Une fiole étroite",
+          "Du poisson"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Pourquoi la cigogne ne peut-elle manger ?",
+        "o": [
+          "Elle n'aime pas le potage",
+          "Son long bec ne saisit rien dans le plat plat",
+          "Elle est malade",
+          "Le renard mange tout"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment la cigogne se venge-t-elle ?",
+        "o": [
+          "Elle crie",
+          "Elle sert un mets dans une fiole à long col que le renard ne peut atteindre",
+          "Elle part",
+          "Elle le mord"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la morale ?",
+        "o": [
+          "Il faut se moquer des autres",
+          "Traite les autres comme tu veux qu'ils te traitent, la moquerie revient à son auteur",
+          "Le renard est le plus fort",
+          "La cigogne est méchante"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 103
+  },
+  {
+    "id": "POE_013",
+    "titre": "Demain, dès l'aube",
+    "auteur": "Victor Hugo",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "Demain, dès l'aube, à l'heure où blanchit la campagne, je partirai. Vois-tu, je sais que tu m'attends. J'irai par la forêt, j'irai par la montagne. Je ne puis demeurer loin de toi plus longtemps. Je marcherai, les yeux fixés sur mes pensées, sans rien voir au dehors, sans entendre aucun bruit, seul, inconnu, le dos courbé, les mains croisées, triste, et le jour sera pour moi comme la nuit. Je ne regarderai ni l'or du soir qui tombe, ni les voiles au loin descendant vers Harfleur ; et, quand j'arriverai, je mettrai sur ta tombe un bouquet de houx vert et de bruyère en fleur. Le voyageur, courbé sous le poids de son deuil, traverse les champs encore humides de rosée. Il songe à celle qu'il aime et qui repose sous la terre froide, et chaque pas le rapproche d'elle en esprit. Le chemin est long, mais son cœur le porte, car l'amour ne connaît point la fatigue. Les oiseaux se taisent, respectant sa douleur, et le vent du matin caresse doucement ses cheveux gris. Il arrive enfin devant la pierre simple, et il dépose les fleurs avec un geste lent et tendre. Il reste là, immobile, à parler bas à l'absente, comme s'il pouvait encore entendre sa voix. Puis il s'éloigne, plus calme, car il a rempli son devoir de mémoire. Le poète nous apprend que la fidélité est une forme de prière, et que rendre visite aux morts est une façon de les garder vivants en nous. Demain, dès l'aube, peu importe la distance : l'amour trouve toujours le chemin de la tombe aimée, et le houx vert, symbole d'espoir, dit que l'affection survit à la séparation.",
+    "quiz": [
+      {
+        "q": "Quand le poète partira-t-il ?",
+        "o": [
+          "Le soir",
+          "Demain dès l'aube",
+          "À midi",
+          "En hiver"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que déposera-t-il sur la tombe ?",
+        "o": [
+          "Une pierre",
+          "Un bouquet de houx vert et de bruyère en fleur",
+          "Une lettre",
+          "Du pain"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment le voyageur avance-t-il ?",
+        "o": [
+          "En chantant fort",
+          "Les yeux fixés sur ses pensées, seul et triste",
+          "En courant vite",
+          "Avec une foule"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que nous apprend le poète selon la fin ?",
+        "o": [
+          "Il faut oublier les morts",
+          "La fidélité est une prière et visiter les morts les garde vivants",
+          "La tombe est loin",
+          "Le houx est mauvais"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 96
+  },
+  {
+    "id": "POE_014",
+    "titre": "L'Albatros",
+    "auteur": "Charles Baudelaire",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "Souvent, pour s'amuser, les hommes d'équipage prennent des albatros, vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire glissant sur les gouffres amers. À peine les ont-ils déposés sur les planches, que ces rois de l'azur, maladroits et honteux, laissent piteusement leurs grandes ailes blanches comme des avirons traîner à côté d'eux. Ce voyageur ailé, comme il est gauche et veule ! Lui, naguère si beau, qu'il est comique et laid ! L'un agace son bec avec un brûle-gueule, l'autre mime, en boitant, l'infirme qui volait ! Le poète se compare à cet oiseau des tempêtes : exilé sur le sol au milieu des huées, ses ailes de géant l'empêchent de marcher. Mais le navire reprend bientôt sa route, et l'albatros, rendu à l'immensité, déploie de nouveau son envergure et plane au-dessus des vagues, maître souverain de l'espace. Il plonge en criant vers les flots écumeux, et nul ne rit plus de sa chute, car il retrouve sa grandeur native. Le poète comprend alors que celui qui porte en soi un monde plus vaste est souvent incompris parmi les hommes, mais qu'il retrouve sa liberté dès qu'il s'élève au-dessus d'eux. L'albatros est le symbole de l'âme supérieure, condamnée à traîner sur terre son aile trop grande pour le sol. Pourtant, loin des moqueries, il regagne le ciel qui est son royaume, et sa chute n'était qu'un moment d'épreuve. Ainsi le génie, méconnu ici-bas, reprend son vol dès qu'il quitte la foule, et sa vraie place est dans l'infini, non sur le pont où l'on rit de sa démarche maladroite.",
+    "quiz": [
+      {
+        "q": "Que font les marins avec les albatros ?",
+        "o": [
+          "Ils les tuent aussitôt",
+          "Ils les prennent et les posent sur les planches du navire",
+          "Ils les mangent",
+          "Ils les ignorent"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment l'albatros paraît-il sur le pont ?",
+        "o": [
+          "Majestueux et fier",
+          "Maladroit, honteux, avec ses ailes traînant comme des avirons",
+          "Rapide et léger",
+          "Invisible"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que retrouve l'albatros rendu à la mer ?",
+        "o": [
+          "Sa laideur",
+          "Sa grandeur et sa liberté en déployant son envergure",
+          "La moquerie",
+          "La faim"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que symbolise l'albatros selon le poète ?",
+        "o": [
+          "Un mauvais présage",
+          "L'âme supérieure méconnue mais libre dans l'infini",
+          "Un simple oiseau de mer",
+          "Un marin"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 90
+  },
+  {
+    "id": "POE_015",
+    "titre": "Il pleure dans mon cœur",
+    "auteur": "Paul Verlaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "Il pleure dans mon cœur comme il pleut sur la ville ; quelle est cette langueur qui pénètre mon cœur ? Ô bruit doux de la pluie par terre et sur les toits ! Pour un cœur qui s'ennuie, ô le chant de la pluie ! Il pleure sans raison dans le cœur qui s'éveille. Quoi ! nulle trahison ? Ce deuil est sans raison. C'est bien la pire peine de ne savoir pourquoi, sans amour et sans haine, mon cœur a tant de peine. C'est le chagrin de vivre, la tristesse d'être là sans but et sans envie, comme une feuille au vent. Le poète écoute tomber l'eau fine sur les pavés, et chaque goutte lui semble une larme venue du ciel pour partager son vide. La ville, sous la bruine, prend des couleurs d'argent, et les réverbères trouent la brume de leurs halos tremblants. Une femme passe, indifférente, sous son parapluie, et le poète envie sa paix, car lui ne peut fuir la pluie intérieure. Il se dit que peut-être un jour une joie légère viendra sécher ces pleurs, comme le soleil sèche les ruisseaux sur le trottoir. En attendant, il accepte sa peine comme on accepte le temps, sans chercher à la nommer. La pluie cesse un instant, puis reprend, et le cœur, lui, continue de pleurer doucement, rythmé par le goutte-à-goutte sur la vitre. Verlaine nous montre que la mélancolie n'a pas toujours de cause, et que ressentir tristement le monde est une manière d'être au monde. Le poème devient alors une musique grise, où la langueur elle-même est une forme de beauté, et où pleurer sans raison est encore une façon d'aimer la vie qui passe.",
+    "quiz": [
+      {
+        "q": "À quoi le poète compare-t-il son cœur qui pleure ?",
+        "o": [
+          "Au soleil",
+          "À la pluie qui tombe sur la ville",
+          "Au vent",
+          "Au feu"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la cause de sa peine selon le poème ?",
+        "o": [
+          "Une trahison",
+          "Aucune raison précise, c'est un deuil sans raison",
+          "Une maladie",
+          "La guerre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait la femme qui passe ?",
+        "o": [
+          "Elle pleure aussi",
+          "Elle passe indifférente sous son parapluie",
+          "Elle parle au poète",
+          "Elle chante"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que montre Verlaine selon la fin ?",
+        "o": [
+          "La tristesse a toujours une cause",
+          "La mélancolie n'a pas toujours de cause et ressentir tristement est une façon d'être au monde",
+          "Il faut fuir la pluie",
+          "Le bonheur est facile"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 97
+  },
+  {
+    "id": "POE_016",
+    "titre": "Le Dormeur du val",
+    "auteur": "Arthur Rimbaud",
+    "genre": "Poésie/Fables",
+    "niveau": "Intermédiaire",
+    "extrait": "C'est un trou de verdure où chante une rivière, accrochant follement aux herbes des haillons d'argent ; où le soleil, de la montagne fière, sur le lit fluvial rayonne, c'est un petit val qui mousse de rayons. Un soldat jeune, bouche ouverte, tête nue, et la nuque baignant dans le frais cresson bleu, dort ; il est étendu dans l'herbe, sous la nue, pâle dans son lit vert où la lumière pleut. Les pieds dans les glaïeuls, il dort. Souriant comme un enfant malade, il fait un somme : nature, berce-le chaudement : il a froid. Parfums ne font pas frissonner sa narine ; il dort dans le soleil, la main sur sa poitrine, tranquille. Il a deux trous rouges au côté droit. Le poète contemple ce jeune corps abandonné au creux de l'herbe, et peu à peu le lecteur comprend l'horreur cachée sous la beauté du paysage. Ce dormeur ne dort pas d'un sommeil paisible : il est mort, frappé par la guerre, et la rivière continue de chanter comme si de rien n'était. La nature, indifférente, garde son éclat, et les fleurs poussent autour du cadavre avec la même joie que pour un vivant. Rimbaud dénonce ainsi l'absurdité de la mort violente au milieu de la paix de la nature. Le sourire du soldat, semblable à celui d'un enfant, accuse plus encore le crime des hommes qui envoient la jeunesse se faire tuer. Le val, lieu de fraîcheur et de lumière, devient le tombeau silencieux d'un garçon qui n'aura pas vieilli. Le poème nous laisse un frisson : la rivière chante, le soleil brille, et pourtant un être humain gît là, marqué des deux trous rouges que la balle a laissés. La beauté du lieu contraste avec la laideur de la mort, et c'est dans ce contraste que réside toute la force du vers, appelant la paix contre la guerre.",
+    "quiz": [
+      {
+        "q": "Où dort le soldat ?",
+        "o": [
+          "Dans une maison",
+          "Dans un trou de verdure, dans l'herbe au bord de la rivière",
+          "Sur une route",
+          "Dans un lit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que remarque-t-on sur le côté du soldat ?",
+        "o": [
+          "Une fleur",
+          "Deux trous rouges",
+          "Une cicatrice blanche",
+          "Rien d'anormal"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que comprend le lecteur peu à peu ?",
+        "o": [
+          "Que le soldat fait un bon rêve",
+          "Que le dormeur est mort, frappé par la guerre",
+          "Que la rivière est dangereuse",
+          "Que le soleil blesse"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que dénonce le poème selon la fin ?",
+        "o": [
+          "La paresse des soldats",
+          "L'absurdité de la mort violente au milieu de la paix de la nature",
+          "La beauté des fleurs",
+          "Le froid de l'hiver"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 107
+  },
+  {
+    "id": "POE_017",
+    "titre": "La Grenouille qui veut se faire aussi grosse que le bœuf",
+    "auteur": "Jean de La Fontaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Débutant",
+    "extrait": "Une grenouille vit un bœuf qui lui sembla de belle taille. Elle, envieuse, se mit à se gonfler pour égaler l'animal en grosseur, et lui dit : « Regarde comme je m'étends ! Suis-je assez grosse maintenant ? — Point du tout, répondit la bête. — M'y voici : que dis-tu de cela ? — Cela est encore moins que rien. » La grenouille, outrée, se pousse, se gonfle, et se crève. La morale est vieille, mais on la répète : qui veut paraître ce qu'il n'est point court toujours à sa perte. La petite bête, insatisfaite de sa condition, voulut singer la force du géant des prés, et ne songea point que la nature lui avait donné sa propre forme pour vivre heureuse dans son marais. Ses compagnes, effrayées, la suppliaient d'arrêter, mais l'orgueil est sourd aux conseils de la raison. Elle souffla, elle enfla, jusqu'à ce que le petit corps, trop tendu, éclatât en un triste petit bruit. Le bœuf, paisible, continua de brouter l'herbe grasse, sans même remarquer la fin de sa voisine. Les enfants rient de cette fin, mais ils en retiennent la leçon : il ne sert à rien de vouloir être autre que soi, car chacun a sa place et sa mesure. La grenouille aurait pu vivre contente, sautant de feuille en feuille, si l'envie ne l'avait pas perdue. La fable enseigne aussi que la compétition avec ceux qui nous dépassent conduit au ridicule et au malheur. Mieux vaut cultiver ses propres dons que d'imiter vainement les grands. Ainsi la mare reprit son calme, et les grenouilles, instruites par l'exemple, apprirent à se contenter de leur taille, car la sagesse habite souvent dans la modestie de ceux qui savent se suffire.",
+    "quiz": [
+      {
+        "q": "Que voit la grenouille qui l'envie ?",
+        "o": [
+          "Un autre grenouille",
+          "Un bœuf de belle taille",
+          "Un oiseau",
+          "Un poisson"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait la grenouille pour égaler le bœuf ?",
+        "o": [
+          "Elle mange beaucoup",
+          "Elle se gonfle et s'étend",
+          "Elle saute",
+          "Elle court"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Comment finit-elle ?",
+        "o": [
+          "Elle devient un bœuf",
+          "Elle se crève en gonflant trop",
+          "Elle s'enfuit",
+          "Elle grandit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la morale ?",
+        "o": [
+          "Il faut toujours rivaliser",
+          "Qui veut paraître ce qu'il n'est point court à sa perte",
+          "Le bœuf est méchant",
+          "Les grenouilles sont fortes"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 99
+  },
+  {
+    "id": "POE_018",
+    "titre": "La Légende des siècles",
+    "auteur": "Victor Hugo",
+    "genre": "Poésie/Fables",
+    "niveau": "Avancé",
+    "extrait": "L'histoire est un fleuve dont nulle main ne tarit le cours, et les siècles y défilent comme des flots emportant les empires. Le poète, debout sur la rive du temps, contemple la marche lente de l'humanité vers la lumière. Il voit d'abord la brute armée de sa massue, puis le guerrier casqué, puis le travailleur courbé sur son sillon. Chaque âge ajoute une pierre à l'édifice de la justice, et si le progrès semble lent, il n'en est pas moins certain. Les rois passent, les dieux tombent, mais l'idée de liberté, elle, grandit comme un soleil qui monte. Le poète nous montre un vieillard assis au seuil de sa chaumine, racontant à ses petits-enfants les temps où les chaînes étaient de fer, et les temps nouveaux où les chaînes sont de droit. Il dit que l'homme fut d'abord esclave, puis serf, puis citoyen, et qu'il sera bientôt frère. La nuit des ignorances recule devant le jour des savoirs, et la hache de la barbarie se change en plume de l'écolier. Pourtant, le poète avertit : rien n'est acquis pour toujours, et la vigilance seule garde les conquêtes de l'esprit. Les peuples doivent veiller, car l'ombre guette au détour des siècles. Mais l'espérance demeure, car le fleuve de l'histoire coule vers un océan de paix où tous les hommes boiront ensemble. Le vieillard sourit, bénit les enfants, et meurt en paix, sachant que sa race marche vers l'aurore. Ainsi la légende des siècles n'est pas un livre de morts, mais un chant de vie, où chaque génération transmet la torche à la suivante, et où la flamme, de main en main, finira par éclairer le monde entier de sa clarté prometteuse.",
+    "quiz": [
+      {
+        "q": "Que compare le poète à un fleuve ?",
+        "o": [
+          "La mer",
+          "L'histoire",
+          "Une forêt",
+          "Une armée"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la transformation de l'homme selon le vieillard ?",
+        "o": [
+          "Esclave, puis serf, puis citoyen, puis frère",
+          "Roi, puis dieu, puis animal",
+          "Poisson, puis oiseau",
+          "Maître, puis esclave"
+        ],
+        "r": 0
+      },
+      {
+        "q": "Que doit faire le peuple selon le poète ?",
+        "o": [
+          "Dormir",
+          "Veiller car l'ombre guette et la vigilance garde les conquêtes",
+          "Fuir",
+          "Oublier le passé"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que représente la légende des siècles à la fin ?",
+        "o": [
+          "Un livre de morts",
+          "Un chant de vie où chaque génération transmet la torche",
+          "Une guerre",
+          "Une chute"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 96
+  },
+  {
+    "id": "POE_019",
+    "titre": "La Coupe et les Lèvres",
+    "auteur": "Alfred de Musset",
+    "genre": "Poésie/Fables",
+    "niveau": "Avancé",
+    "extrait": "Il est un proverbe antique qui dit : « La coupe aux lèvres, le destin la retire. » Le poète médite sur cette loi cruelle qui veut que le bonheur le plus proche soit souvent le plus fuyant. Il songe à un jeune homme qui, au seuil de la joie, voit soudain s'évanouir l'objet de son désir, comme une bulle de savon crevée par le vent. La coupe, pleine de vin doré, touche enfin les lèvres, mais une main invisible la renverse, et le breuvage se perd dans le sable. Le poète ne s'indigne point ; il accepte, car il sait que l'attente elle-même est une forme de bonheur, et que posséder trop vite est parfois une perte. Il compare l'homme à un voyageur dans le désert qui aperçoit une oasis, y court, et la trouve desséchée. Pourtant, dit-il, le mirage lui a donné la force d'avancer, et l'espérance vaut mieux que la possession assurée. La jeunesse surtout connaît cette loi, car elle tend la main vers mille rêves et n'en saisit que quelques-uns, fragiles comme verre. Mais le poète console : ce qui nous échappe nous apprend à désirer, et le désir est la vie même de l'âme. La coupe renversée devient alors le symbole de notre condition mortelle, toujours à la lisière du bien, jamais tout à fait au repos. Musset nous invite à boire les gouttes qui restent, plutôt qu'à pleurer celles qui coulent. Car la beauté du monde tient peut-être à sa fuite, et nous aimons la rose précisément parce qu'elle doit se faner. Ainsi la coupe aux lèvres nous enseigne la gratitude pour l'instant présent, et la sagesse de recevoir, sans amertume, le don partiel que nous fait le destin changeant.",
+    "quiz": [
+      {
+        "q": "Que dit le proverbe cité ?",
+        "o": [
+          "La coupe est pleine",
+          "La coupe aux lèvres, le destin la retire",
+          "La coupe est en or",
+          "La coupe est vide"
+        ],
+        "r": 1
+      },
+      {
+        "q": "À quoi le poète compare-t-il l'homme ?",
+        "o": [
+          "À un roi",
+          "À un voyageur du désert qui trouve l'oasis desséchée",
+          "À un oiseau",
+          "À un arbre"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que vaut l'espérance selon le poète ?",
+        "o": [
+          "Elle est inutile",
+          "Elle vaut mieux que la possession assurée et donne force d'avancer",
+          "Elle trompe toujours",
+          "Elle est un mal"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que nous invite à faire Musset ?",
+        "o": [
+          "Pleurer ce qui s'écoule",
+          "Boire les gouttes qui restent et recevoir avec gratitude l'instant présent",
+          "Renverser la coupe",
+          "Fuir le destin"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 99
+  },
+  {
+    "id": "POE_020",
+    "titre": "Le Corbeau et le Renard",
+    "auteur": "Jean de La Fontaine",
+    "genre": "Poésie/Fables",
+    "niveau": "Débutant",
+    "extrait": "Maître Corbeau, sur un arbre perché, tenait en son bec un fromage. Maître Renard, par l'odeur alléché, lui tint à peu près ce langage : « Hé ! bonjour, Monsieur du Corbeau. Que vous êtes joli ! que vous me semblez beau ! Sans mentir, si votre ramage se rapporte à votre plumage, vous êtes le phénix des hôtes de ces bois. » À ces mots, le corbeau se sent tout joyeux, et, pour montrer sa belle voix, il ouvre un large bec, laisse tomber sa proie. Le renard s'en saisit, et dit : « Mon bon Monsieur, apprenez que tout flatteur vit aux dépens de celui qui l'écoute. Ce fromage est bien à moi, et non pas à vous. » Le corbeau, honteux et confus, jura, mais un peu tard, qu'on ne l'y prendrait plus. La morale est connue de tous les enfants : la flatterie est un piège tendu par l'orgueil à la vanité. Le corbeau voulut paraître plus qu'il n'était, et sa sotte fierté lui coûta son repas. Le renard, rusé, connut le faible de son voisin et l'employa sans scrupule. Mais la fable nous enseigne aussi que celui qui se laisse séduire par de faux éloges perd bien vite le fruit de son travail. Les oiseaux des bois, témoins de la scène, s'en souvinrent, et chacun désormais se méfia des paroles trop douces. Les parents, le soir, racontent cette histoire pour avertir les petits que la vraie valeur n'a pas besoin de louanges, et que qui se vante invite les moqueurs. Le corbeau, depuis, chanta sans ouvrir le bec quand il tenait un trésor, et le renard, repu, admit en son cœur que la ruse ne vaut pas la prudence. Ainsi la forêt, instruite par un fromage perdu, apprit la différence entre le compliment sincère et la flatterie qui vole.",
+    "quiz": [
+      {
+        "q": "Que tient le corbeau dans son bec ?",
+        "o": [
+          "Une pomme",
+          "Un fromage",
+          "Une feuille",
+          "Un poisson"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que fait le renard pour tromper le corbeau ?",
+        "o": [
+          "Il crie fort",
+          "Il le flatte en disant qu'il est beau et le phénix des bois",
+          "Il grimpe à l'arbre",
+          "Il le pousse"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Que se passe-t-il quand le corbeau chante ?",
+        "o": [
+          "Il devient roi",
+          "Il ouvre le bec et laisse tomber son fromage",
+          "Il s'envole",
+          "Il rit"
+        ],
+        "r": 1
+      },
+      {
+        "q": "Quelle est la morale de la fable ?",
+        "o": [
+          "Il faut flatter les autres",
+          "Tout flatteur vit aux dépens de celui qui l'écoute",
+          "Le renard est gentil",
+          "Le corbeau est le plus fort"
+        ],
+        "r": 1
+      }
+    ],
+    "temps_cible_secondes": 105
+  }
+];

@@ -1,4 +1,4 @@
-# Lecture Fluide — Entraîneur de lecture
+# Lecture Fluide — Entraîneur à la lecture avec quiz
 
 essaye-le ici : https://tom2smet-ai.github.io/entrainement_lecture_quiz/ 
 

@@ -1,6 +1,6 @@
 # Lecture Fluide — Entraîneur à la lecture avec quiz
 
-essaye-le ici : https://tom2smet-ai.github.io/entrainement_lecture_quiz/ 
+essaye-le ici : https://t2smart-ai.github.io/entrainement_lecture_quiz/
 
 Application web statique (HTML/CSS/JS vanilla, **aucune dépendance ni build**) pour
 entraîner la lecture en français des adolescents (12–18 ans). L'élève lit un extrait

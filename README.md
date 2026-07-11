@@ -60,4 +60,4 @@ fichiers (notamment `data.json`) soient servis tels quels.
 
 ## Licence
 
-Projet à usage éducatif. N'hésitez pas à le télécharger, l'utiliser et le modifier comme bon vous semble, et/ ou à y apporter vos contributions !
+Projet à usage éducatif réalisé avec l'aide de l'intelligence artificielle (vibe coding). N'hésitez pas à le télécharger, l'utiliser et le modifier comme bon vous semble, et/ ou à y apporter vos contributions !

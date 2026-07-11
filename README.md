@@ -1,4 +1,4 @@
-# Lecture Fluide — Entraînnement à la lecture avec quiz
+# Lecture Fluide — Entraînement à la lecture avec quiz
 
 essaye-le ici : https://t2smart-ai.github.io/entrainement_lecture_quiz/
 

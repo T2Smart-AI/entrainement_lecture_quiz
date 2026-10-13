@@ -6,8 +6,6 @@
   <meta name="description" content="Entraîneur de lecture en français pour adolescents (12-18 ans) : lis des extraits et teste ta compréhension." />
   <title>Lecture Fluide — Entraîneur de lecture</title>
   <link rel="stylesheet" href="style.css" />
-  <!-- data.js est chargé AVANT script.js : il fournit window.APP_DATA utilisé en mode file:// -->
-  <script src="data.js"></script>
 </head>
 <body>
   <!-- ===================== EN-TÊTE GLOBAL ===================== -->
@@ -154,7 +152,7 @@
     <p>Lecture Fluide — entraîneur de lecture en français pour adolescents.</p>
   </footer>
 
-  <!-- script.js APRÈS data.js -->
+  <!-- script.js : loads data.json via fetch (serve over HTTP, e.g. python3 -m http.server, so fetch works) -->
   <script src="script.js"></script>
 </body>
 </html>
